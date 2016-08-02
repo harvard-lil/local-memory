@@ -1,7 +1,12 @@
 # [Local Memory] US Dataset
 
 # usa.json 
-A collection of Newspapers, TV, and Radio station for the US
+A collection of :
+- **5,992 Newspapers**
+- **1,061 TV stations**, and 
+- **2,539 Radio stations**
+
+data for the US.
 
 ## Properties for each State
 - **stateName** (string):
