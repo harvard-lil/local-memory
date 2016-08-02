@@ -52,5 +52,8 @@ data for the US.
         - **Video**: video link (string)
         - **website**: radio station website (string)
         - **type**: format name e.g., Country, Contemporary (string)
-        
+## usa.json snippet example
+![example snippet of usa.json][snippet]
+
 [Local Memory]: <http://librarylab.law.harvard.edu/sketches/local-memory>
+[snippet]: <https://github.com/harvard-lil/local-memory/tree/master/LocalMemoryGeo/Sources/USA/usa.jsonSnippet.png>
