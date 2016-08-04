@@ -7,6 +7,9 @@ A collection of :
 - **2,539 Radio stations**
 
 data for the US.
+# Sources
+- [USNPL]
+- [zipcodes.db]
 
 ## Properties for each State
 - **stateName** (string):
@@ -57,3 +60,5 @@ data for the US.
 ![example snippet of usa.json](https://github.com/harvard-lil/local-memory/blob/master/LocalMemoryGeo/Sources/USA/usa.jsonSnippet.png)
 
 [Local Memory]: <http://librarylab.law.harvard.edu/sketches/local-memory>
+[zipcodes.db]: https://github.com/fdintino/pyzipcode/tree/master/pyzipcode
+[USNPL]: http://www.usnpl.com/
