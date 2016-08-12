@@ -1,5 +1,3 @@
-
-
 googleRetrieveLinksFromPage(document);
 
 //scraper
@@ -64,10 +62,3 @@ function googleRetrieveLinksFromPage(document)
 
 	return payload;
 }
-
-/*
-chrome.runtime.sendMessage({
-    action: 'getPageHTML',
-    source: getDOM(document)
-});
-*/
