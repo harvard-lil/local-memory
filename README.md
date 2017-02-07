@@ -1,14 +1,18 @@
-# [Local Memory Project] -- add logo here
+[![collage of local news media accross the US](http://www.localmemory.org/static/lmp.svg)](http://www.localmemory.org)
 
-The national news media has different priorities compared to the local news media. If one seeks to build a collection about local events, the national news media may be insufficient, with the exception of local news which ''bubbles'' up to the national news media. Irrespective of this ''bubbling'' of some local news to the national surface, the perspective and reporting of national news differs from local news for the same events.
+The national (non-local) news media has different priorities than the local news media. If one seeks to build a collection of stories about local events, the national news media may be insufficient, with the exception of local news which "bubbles" up to the national news media. If we rely exclusively on national media, or build collections exclusively on their reports, we could be late to the important milestones which precipitate major local events, thus, run the risk of losing important stories due to link rot and content drift. 
 
-It is important to consult local sources affected by local events. Thus the need for a system that helps the user build a collection of web resources from local sources for local events.
+Consequently, it is important to consult local sources affected by local events.
 
 The Local Memory Project provides tools to build collections ([#localmemory]) of stories for local events from local sources:
-1. Local Memory Project - Chrome Extension
-2. Local Memory Project - Geo
+1. [Local Memory Project - Chrome Extension]
+2. [Local Memory Project - Geo]
 
 ![collage of local news media accross the US](http://www.localmemory.org/static/LMG0.png)
 
 [Local Memory Project]: <http://www.localmemory.org>
 [#localmemory]: <https://twitter.com/hashtag/localmemory?f=tweets&vertical=default&src=hash>
+
+
+[Local Memory Project - Chrome Extension]:<https://chrome.google.com/webstore/detail/local-memory-project/khineeknpnogfcholchjihimhofilcfp>
+[Local Memory Project - Geo]: <http://www.localmemory.org/geo/>
