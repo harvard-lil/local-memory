@@ -5,8 +5,10 @@ The national (non-local) news media has different priorities than the local news
 Consequently, it is important to consult local sources affected by local events.
 
 The Local Memory Project provides tools to build collections ([#localmemory]) of stories for local events from local sources:
-1. [Local Memory Project - Chrome Extension]
-2. [Local Memory Project - Geo]
+
+1. [Local Memory Project - Chrome Extension] helps you discovers, collect, share and archive collections of local stories from local sources.
+
+2. [Local Memory Project - Geo] returns a collection of newspapers and/or tv and/or radio stations in order of proximity to a zip code.
 
 ![collage of local news media accross the US](http://www.localmemory.org/static/LMG0.png)
 
