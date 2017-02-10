@@ -1,0 +1,6 @@
+.*
+!.gitignore
+*.pyc
+*.py~
+scratch.py
+__pycache__
