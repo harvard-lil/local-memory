@@ -1,1 +1,781 @@
-{"self_lmg": "http://www.localmemory.org/api/USA/33126/15/?off=radio", "country": "USA", "maximumLinksPerSource": "15", "collection": [{"source": {"openSearch": [], "cityCountyNameLong": -80.2779, "country": "USA", "cityCountyName": "Univ of Miami", "Twitter": "http://www.twitter.com/MiamiHurricane", "Video": "", "rss": ["http://www.themiamihurricane.com/feed/", "http://www.themiamihurricane.com/comments/feed/", "http://www.themiamihurricane.com/home/feed/"], "website": "http://www.themiamihurricane.com/", "miles": 4.12, "cityCountyNameLat": 25.7209, "name": "Miami Hurricane", "Facebook": "https://www.facebook.com/themiamihurricane", "type": "Newspaper - college", "state": "FL"}, "links": []}, {"source": {"openSearch": [], "cityCountyNameLong": -80.19782, "country": "USA", "cityCountyName": "Miami", "Twitter": "http://www.twitter.com/communitypapers", "Video": "http://www.youtube.com/user/communitynewspapers", "rss": ["http://communitynewspapers.com/feed/", "http://communitynewspapers.com/comments/feed/"], "website": "http://www.communitynewspapers.com/", "miles": 6.18, "cityCountyNameLat": 25.779076, "name": "Community News of Miami", "Facebook": "https://www.facebook.com/Communitynewspapers", "type": "Newspaper - cityCounty", "state": "FL"}, "links": []}, {"source": {"openSearch": [], "cityCountyNameLong": -80.19782, "country": "USA", "cityCountyName": "Miami", "Twitter": "http://www.twitter.com/miamiherald", "Video": "http://www.youtube.com/user/MiamiHerald", "rss": ["http://www.miamiherald.com/?widgetName=rssfeed&widgetContentId=712015&getXmlFeed=true"], "website": "http://www.miamiherald.com/", "miles": 6.18, "cityCountyNameLat": 25.779076, "name": "Miami Herald", "Facebook": "https://www.facebook.com/miamiherald", "type": "Newspaper - cityCounty", "state": "FL"}, "links": [{"snippet": "U.S. Customs and Border Protection issued a statement Monday saying a processing system outage caused delays at various airports.", "link": "http://www.miamiherald.com/latest-news/article124209899.html", "title": "Officials: Customs system outage causes waits at airports | Miami Herald", "page": 1, "singleTweetPath": "/newspeepers/status/816319142873669637", "archivedDomain": 13728, "crawlDatetime": "", "archived": true}, {"snippet": "Afghan President Hamid Karzai has banned U.S. government advisers from ... of two U.S.-provided bulk currency counters at the airport delayed their ... their cash to record serial numbers, and U.S. customs officials are barred\u00a0...", "link": "http://www.miamiherald.com/latest-news/article1938347.html", "title": "Problems dog U.S.-led efforts to boost Afghan financial system | Miami ...", "page": 1, "singleTweetPath": "", "archivedDomain": 13728, "crawlDatetime": "Jul 20, 2011", "archived": false}, {"snippet": "Blame federal budget cuts known as the sequester, which have limited overtime pay for U.S. Customs and Border Protection officers. The result:\u00a0...", "link": "http://www.miamiherald.com/latest-news/article1948363.html", "title": "Federal budget cuts lead to customs delays, missed flights at MIA ...", "page": 1, "singleTweetPath": "", "archivedDomain": 13728, "crawlDatetime": "Mar 19, 2013", "archived": false}, {"snippet": "And that could mean flight delays, though none have yet been posted. ... The program is open to U.S. citizens and foreign citizens who meet certain ... also download the app for Mobile Passport Control, a U.S. Customs and\u00a0...", "link": "http://www.miamiherald.com/news/business/article116571358.html", "title": "This holiday travel season is going to be busy. Here's how to survive it ...", "page": 1, "singleTweetPath": "/CollectorsBEST/status/812569772554534916", "archivedDomain": 13728, "crawlDatetime": "Nov 22, 2016", "archived": true}, {"snippet": "Importantly, although the U.S. Customs and Border Protection (CBP) ... Institute estimates that each additional day a shipment is delayed,\u00a0...", "link": "http://www.miamiherald.com/news/business/biz-monday/article74799242.html", "title": "Why the Customs Reauthorization Bill is great news for many small ...", "page": 1, "singleTweetPath": "/DHLUS/status/803638907632058368", "archivedDomain": 13728, "crawlDatetime": "May 1, 2016", "archived": true}, {"snippet": "Thousands of U.S. flights were delayed Monday as severe weather .... Travelers rage at long lines after Customs computer outage at MIA.", "link": "http://www.miamiherald.com/news/local/community/miami-dade/article51951155.html", "title": "Severe weather in central U.S. delays dozens of South Florida flights ...", "page": 1, "singleTweetPath": "/IA_UXJOBS/status/683045585453232128", "archivedDomain": 13728, "crawlDatetime": "Dec 28, 2015", "archived": false}, {"snippet": "South Florida airports aren't always immune from delays at security .... Travelers rage at long lines after Customs computer outage at MIA.", "link": "http://www.miamiherald.com/news/local/community/miami-dade/article78096707.html", "title": "With airport lines going on and on, a reasonable wait in Miami | Miami ...", "page": 1, "singleTweetPath": "/CruiseNavyFL/status/735896910721081344", "archivedDomain": 13728, "crawlDatetime": "May 17, 2016", "archived": true}, {"snippet": "A multi-state U.S. Customs computer outage forced the Customs checkpoint at ... Chicago, Houston and Boston were experiencing long delays.", "link": "http://www.miamiherald.com/news/nation-world/national/article124210174.html", "title": "Air travelers stuck in long customs lines thanks to nationwide outage ...", "page": 1, "singleTweetPath": "", "archivedDomain": 13728, "crawlDatetime": "", "archived": true}, {"snippet": "\u201cIt means not adding Customs officers, we're going to be starting to furlough Customs ... While he toured the airport with Napolitano and U.S. Rep. ... missed their connecting flights as a direct result of delays in CBP processing.", "link": "http://www.miamiherald.com/news/politics-government/article1947505.html", "title": "Missed flight connections at MIA blamed on understaffed border and ...", "page": 1, "singleTweetPath": "", "archivedDomain": 13728, "crawlDatetime": "Feb 20, 2013", "archived": false}, {"snippet": "Federal budget cuts to U.S. Customs and Border Protection that have already delayed thousands of international passengers at South Florida's\u00a0...", "link": "http://www.miamiherald.com/news/politics-government/article1948830.html", "title": "Miami congressman, seaport director call for more Customs funding at ...", "page": 1, "singleTweetPath": "", "archivedDomain": 13728, "crawlDatetime": "Apr 4, 2013", "archived": false}]}, {"source": {"openSearch": [], "cityCountyNameLong": -80.19782, "country": "USA", "cityCountyName": "Miami", "Twitter": "http://www.twitter.com/MiamiNewTimes", "Video": "http://www.youtube.com/user/MiamiNewTimesLLC", "rss": ["http://www.miaminewtimes.com/index.rss"], "website": "http://www.miaminewtimes.com/", "miles": 6.18, "cityCountyNameLat": 25.779076, "name": "Miami New Times", "Facebook": "https://www.facebook.com/miaminewtimes", "type": "Newspaper - cityCounty", "state": "FL"}, "links": [{"snippet": "Korine Teamer says a U.S. Customs and Border Protection agent at Miami ... and documents and was able to clear security with no delays.", "link": "http://www.miaminewtimes.com/content/printView/6533680", "title": "Woman Claims Visual Sexual Assault by Customs Agent at Miami ...", "page": 1, "singleTweetPath": "", "archivedDomain": 4848, "crawlDatetime": "Apr 1, 2014", "archived": false}, {"snippet": "... every afternoon this time of year, waiting out weather delays at Miami... ... used by Customs and Border Patrol (CBP) agents went on the fritz.", "link": "http://www.miaminewtimes.com/news/miami-international-airport-was-an-epic-catastrophe-last-night-6541069", "title": "Miami International Airport Was an Epic Catastrophe Last Night ...", "page": 1, "singleTweetPath": "", "archivedDomain": 4848, "crawlDatetime": "Aug 18, 2014", "archived": false}, {"snippet": "Within a couple of months, Febonio was pissed off with Alfaro's excuses and delays. ... But in March 2008, U.S. District Judge Donald M. Middlebrooks .... They called to tell Oliver that customs agents in Costa Rica had refused\u00a0...", "link": "http://www.miaminewtimes.com/news/the-murder-of-stevie-febonio-south-floridas-marijuana-grow-houses-can-be-a-deadly-business-6379168", "title": "The murder of Stevie Febonio: South Florida's marijuana grow houses ...", "page": 1, "singleTweetPath": "", "archivedDomain": 4848, "crawlDatetime": "Mar 18, 2010", "archived": false}]}, {"source": {"openSearch": [], "cityCountyNameLong": -80.19782, "country": "USA", "cityCountyName": "Miami", "Twitter": "http://www.twitter.com/TheMiamiTimes", "Video": "", "rss": [], "website": "http://miamitimesonline.com/", "miles": 6.18, "cityCountyNameLat": 25.779076, "name": "Miami Times", "Facebook": "https://www.facebook.com/themiamitimes", "type": "Newspaper - cityCounty", "state": "FL"}, "links": []}, {"source": {"openSearch": [], "cityCountyNameLong": -80.19782, "country": "USA", "cityCountyName": "Miami", "Twitter": "http://www.twitter.com/Miamicom", "Video": "", "rss": [], "website": "http://www.miami.com/", "miles": 6.18, "cityCountyNameLat": 25.779076, "name": "Miami.com", "Facebook": "https://www.facebook.com/Miamicom", "type": "Newspaper - cityCounty", "state": "FL"}, "links": []}, {"source": {"openSearch": ["http://miami.cbslocal.com/osd.xml", "https://s1.wp.com/opensearch.xml"], "cityCountyNameLong": -80.19782, "country": "USA", "cityCountyName": "Miami", "Twitter": "http://www.twitter.com/CBSmiami", "Video": "", "rss": ["http://miami.cbslocal.com/feed/", "http://miami.cbslocal.com/comments/feed/", "http://miami.cbslocal.com/home-section/feed/"], "website": "http://miami.cbslocal.com/", "miles": 6.18, "cityCountyNameLat": 25.779076, "name": "WBFS", "Facebook": "https://www.facebook.com/CBSMiami", "type": "TV", "state": "FL"}, "links": [{"snippet": "TSA Cutbacks Cause Delays At MIA ... The log jam was due to cutbacks in overtime at customs, causing them to have too a few ... Follow Us On.", "link": "http://miami.cbslocal.com/2013/03/18/tsa-cut-backs-cause-delays-at-mia/", "title": "TSA Cutbacks Cause Delays At MIA \u00ab CBS Miami", "page": 1, "singleTweetPath": "/tandtalerts/status/314040547889278977", "archivedDomain": 5061, "crawlDatetime": "Mar 18, 2013", "archived": true}, {"snippet": "The Cartagena family, new U.S. Citizens, filed their first tax return ever this year ... Stability program have seen not only longer waits, but refunds delayed. ... Travelers Stuck Waiting Around After U.S. Customs System Outage.", "link": "http://miami.cbslocal.com/2015/03/10/tax-refunds-may-take-a-little-longer-this-year/", "title": "Tax Refunds May Take A Little Longer This Year \u00ab CBS Miami", "page": 1, "singleTweetPath": "/NovaSE/status/576493855043936256", "archivedDomain": 5061, "crawlDatetime": "Mar 10, 2015", "archived": true}, {"snippet": "Hurricane Matthew Causes Flight Delays, Cancelations. October ... Travelers Stuck Waiting Around After U.S. Customs System Outage. image.", "link": "http://miami.cbslocal.com/2016/10/06/hurricane-matthew-to-cause-flight-delays-cancelations/", "title": "Hurricane Matthew Causes Flight Delays, Cancelations \u00ab CBS Miami", "page": 1, "singleTweetPath": "/CBSMiami/status/784016922224525312", "archivedDomain": 5061, "crawlDatetime": "Oct 6, 2016", "archived": true}, {"snippet": "Judge Delays Decision On Missing Marijuana Question On Some Ballots ... Travelers Stuck Waiting Around After U.S. Customs System Outage.", "link": "http://miami.cbslocal.com/2016/10/25/judge-delays-decision-on-missing-marijuana-question-on-some-ballots/", "title": "Judge Delays Decision On Missing Marijuana Question On Some ...", "page": 1, "singleTweetPath": "/theapothecarry/status/792848875837063168", "archivedDomain": 5061, "crawlDatetime": "Oct 25, 2016", "archived": false}, {"snippet": "Follow Us On. FacebookTwitterYouTube ... Travelers Stuck Waiting Around After U.S. Customs System Outage. image. Man Accused Of\u00a0...", "link": "http://miami.cbslocal.com/2016/10/28/ft-lauderdale-hollywood-airport-closed-after-fedex-plane-catches-fire/", "title": "Ft. Lauderdale-Hollywood Airport Reopens After FedEx Plane Catches ...", "page": 1, "singleTweetPath": "/jng_investments/status/792417048051773440", "archivedDomain": 5061, "crawlDatetime": "Oct 28, 2016", "archived": true}, {"snippet": "... Girl\u201d and \u201cLive by Night\u201d \u2014 even if there were understandable delays. ... Travelers Stuck Waiting Around After U.S. Customs System Outage.", "link": "http://miami.cbslocal.com/2016/12/23/whats-the-story-with-ben-affleck-live-by-night-he-hopes/", "title": "What's The Story With Ben Affleck? 'Live By Night,' He Hopes \u00ab CBS ...", "page": 1, "singleTweetPath": "/CBSMiami/status/812316818727698432", "archivedDomain": 5061, "crawlDatetime": "Dec 23, 2016", "archived": false}, {"snippet": "Travelers Stuck Waiting Around After U.S. Customs System Outage ... Expect delays in passenger processing until the system is restored.", "link": "http://miami.cbslocal.com/2017/01/02/passengers-stuck-waiting-around-after-u-s-customs-system-outage/", "title": "Travelers Stuck Waiting Around After U.S. Customs System Outage ...", "page": 1, "singleTweetPath": "/Baggage_Butler/status/817349980390387712", "archivedDomain": 5061, "crawlDatetime": "", "archived": false}, {"snippet": "... U.S. Customs and Border Protection agents at Miami International Airport are ... Fort Lauderdale International Airport have avoided any lengthy delays through\u00a0...", "link": "http://miami.cbslocal.com/tag/miami-intl-airport/", "title": "Miami Int'l Airport \u00ab CBS Miami", "page": 1, "singleTweetPath": "", "archivedDomain": 5061, "crawlDatetime": "", "archived": false}, {"snippet": "MyTSA also offers information on flight delays at all major domestic airports. ... U.S. Customs and Border Protection also approves other Trusted\u00a0...", "link": "http://miami.cbslocal.com/top-lists/how-to-get-through-airport-security-as-quickly-as-possible/", "title": "How To Get Through Airport Security As Quickly As Possible \u00ab CBS ...", "page": 1, "singleTweetPath": "", "archivedDomain": 5061, "crawlDatetime": "Jul 13, 2016", "archived": true}]}, {"source": {"openSearch": ["http://miami.cbslocal.com/osd.xml", "https://s1.wp.com/opensearch.xml"], "cityCountyNameLong": -80.19782, "country": "USA", "cityCountyName": "Miami", "Twitter": "http://www.twitter.com/CBSmiami", "Video": "", "rss": ["http://miami.cbslocal.com/feed/", "http://miami.cbslocal.com/comments/feed/", "http://miami.cbslocal.com/home-section/feed/"], "website": "http://miami.cbslocal.com/", "miles": 6.18, "cityCountyNameLat": 25.779076, "name": "WFOR", "Facebook": "https://www.facebook.com/CBSMiami", "type": "TV", "state": "FL"}, "links": [{"snippet": "TSA Cutbacks Cause Delays At MIA ... The log jam was due to cutbacks in overtime at customs, causing them to have too a few ... Follow Us On.", "link": "http://miami.cbslocal.com/2013/03/18/tsa-cut-backs-cause-delays-at-mia/", "title": "TSA Cutbacks Cause Delays At MIA \u00ab CBS Miami", "page": 1, "singleTweetPath": "/tandtalerts/status/314040547889278977", "archivedDomain": 5061, "crawlDatetime": "Mar 18, 2013", "archived": true}, {"snippet": "The Cartagena family, new U.S. Citizens, filed their first tax return ever this year ... Stability program have seen not only longer waits, but refunds delayed. ... Travelers Stuck Waiting Around After U.S. Customs System Outage.", "link": "http://miami.cbslocal.com/2015/03/10/tax-refunds-may-take-a-little-longer-this-year/", "title": "Tax Refunds May Take A Little Longer This Year \u00ab CBS Miami", "page": 1, "singleTweetPath": "/NovaSE/status/576493855043936256", "archivedDomain": 5061, "crawlDatetime": "Mar 10, 2015", "archived": true}, {"snippet": "Hurricane Matthew Causes Flight Delays, Cancelations. October ... Travelers Stuck Waiting Around After U.S. Customs System Outage. image.", "link": "http://miami.cbslocal.com/2016/10/06/hurricane-matthew-to-cause-flight-delays-cancelations/", "title": "Hurricane Matthew Causes Flight Delays, Cancelations \u00ab CBS Miami", "page": 1, "singleTweetPath": "/CBSMiami/status/784016922224525312", "archivedDomain": 5061, "crawlDatetime": "Oct 6, 2016", "archived": true}, {"snippet": "Judge Delays Decision On Missing Marijuana Question On Some Ballots ... Travelers Stuck Waiting Around After U.S. Customs System Outage.", "link": "http://miami.cbslocal.com/2016/10/25/judge-delays-decision-on-missing-marijuana-question-on-some-ballots/", "title": "Judge Delays Decision On Missing Marijuana Question On Some ...", "page": 1, "singleTweetPath": "/theapothecarry/status/792848875837063168", "archivedDomain": 5061, "crawlDatetime": "Oct 25, 2016", "archived": false}, {"snippet": "Follow Us On. FacebookTwitterYouTube ... Travelers Stuck Waiting Around After U.S. Customs System Outage. image. Man Accused Of\u00a0...", "link": "http://miami.cbslocal.com/2016/10/28/ft-lauderdale-hollywood-airport-closed-after-fedex-plane-catches-fire/", "title": "Ft. Lauderdale-Hollywood Airport Reopens After FedEx Plane Catches ...", "page": 1, "singleTweetPath": "/jng_investments/status/792417048051773440", "archivedDomain": 5061, "crawlDatetime": "Oct 28, 2016", "archived": true}, {"snippet": "... Girl\u201d and \u201cLive by Night\u201d \u2014 even if there were understandable delays. ... Travelers Stuck Waiting Around After U.S. Customs System Outage.", "link": "http://miami.cbslocal.com/2016/12/23/whats-the-story-with-ben-affleck-live-by-night-he-hopes/", "title": "What's The Story With Ben Affleck? 'Live By Night,' He Hopes \u00ab CBS ...", "page": 1, "singleTweetPath": "/CBSMiami/status/812316818727698432", "archivedDomain": 5061, "crawlDatetime": "Dec 23, 2016", "archived": false}, {"snippet": "Travelers Stuck Waiting Around After U.S. Customs System Outage ... Expect delays in passenger processing until the system is restored.", "link": "http://miami.cbslocal.com/2017/01/02/passengers-stuck-waiting-around-after-u-s-customs-system-outage/", "title": "Travelers Stuck Waiting Around After U.S. Customs System Outage ...", "page": 1, "singleTweetPath": "/Baggage_Butler/status/817349980390387712", "archivedDomain": 5061, "crawlDatetime": "", "archived": false}, {"snippet": "... U.S. Customs and Border Protection agents at Miami International Airport are ... Fort Lauderdale International Airport have avoided any lengthy delays through\u00a0...", "link": "http://miami.cbslocal.com/tag/miami-intl-airport/", "title": "Miami Int'l Airport \u00ab CBS Miami", "page": 1, "singleTweetPath": "", "archivedDomain": 5061, "crawlDatetime": "", "archived": false}, {"snippet": "MyTSA also offers information on flight delays at all major domestic airports. ... U.S. Customs and Border Protection also approves other Trusted\u00a0...", "link": "http://miami.cbslocal.com/top-lists/how-to-get-through-airport-security-as-quickly-as-possible/", "title": "How To Get Through Airport Security As Quickly As Possible \u00ab CBS ...", "page": 1, "singleTweetPath": "", "archivedDomain": 5061, "crawlDatetime": "Jul 13, 2016", "archived": true}]}, {"source": {"openSearch": [], "cityCountyNameLong": -80.19782, "country": "USA", "cityCountyName": "Miami", "Twitter": "http://www.twitter.com/WPBT2", "Video": "http://www.youtube.com/user/WPBT2", "rss": [], "website": "http://www.wpbt2.org/", "miles": 6.18, "cityCountyNameLat": 25.779076, "name": "WPBT", "Facebook": "https://www.facebook.com/WPBT2", "type": "TV", "state": "FL"}, "links": []}, {"source": {"openSearch": [], "cityCountyNameLong": -80.19782, "country": "USA", "cityCountyName": "Miami", "Twitter": "http://www.twitter.com/wplglocal10", "Video": "", "rss": [], "website": "http://www.local10.com/", "miles": 6.18, "cityCountyNameLat": 25.779076, "name": "WPLG", "Facebook": "https://www.facebook.com/WPLGLocal10", "type": "TV", "state": "FL"}, "links": [{"snippet": "MIAMI - A nationwide computer outage at Customs and Border Protection delayed passengers on dozens of international flights Monday night\u00a0...", "link": "http://www.local10.com/news/cbp-computer-outage-delays-over-30-international-flights-at-mia", "title": "CBP computer outage delays dozens of international flights at...", "page": 1, "singleTweetPath": "/INYBN/status/816342910643961856", "archivedDomain": 3096, "crawlDatetime": "", "archived": true}, {"snippet": "FORT LAUDERDALE, Fla. - Passengers aboard a Carnival Cruise ship had to wait for hours to clear immigration and customs. The delay at\u00a0...", "link": "http://www.local10.com/news/cruise-passengers-wait-in-line-for-hours-at-port-everglades-", "title": "Cruise passengers wait in line for hours at Port Everglades", "page": 1, "singleTweetPath": "", "archivedDomain": 3096, "crawlDatetime": "Apr 1, 2013", "archived": false}, {"snippet": "A U.S. Customs and Border Protection agent who was killed in a motorcycle accident is being remembered as a \"gentle giant\" with a huge\u00a0...", "link": "http://www.local10.com/news/customs-agent-killed-in-motorcycle-crash", "title": "Customs agent killed in motorcycle crash - WPLG Local 10", "page": 1, "singleTweetPath": "", "archivedDomain": 3096, "crawlDatetime": "Oct 19, 2014", "archived": false}, {"snippet": "... Gimenez said, \"will allow us to be reimbursed more easily by our federal partners.\" .... Computer outage disrupts customs at US airports\u00a0...", "link": "http://www.local10.com/news/florida/miami-dade-county/miami-dade-county-on-hurricane-matthew-update", "title": "Miami-Dade announces voluntary evacuations due to Hurricane...", "page": 1, "singleTweetPath": "/WPLGLocal10/status/784016048110514176", "archivedDomain": 3096, "crawlDatetime": "Oct 5, 2016", "archived": true}, {"snippet": "Consumers Tell BBB: Skyline Shirts Delays Deliveries, Refunds For Months ... 'We are making some changes internally that will help us assist our customers ... and when Customs is involved that sometimes delays packages.", "link": "http://www.local10.com/news/florida/skyline-shirts-customers-complain-of-delayed-refunds-deliveries", "title": "Skyline Shirts: Customers complain of delayed refunds, deliveries", "page": 1, "singleTweetPath": "", "archivedDomain": 3096, "crawlDatetime": "Jun 24, 2015", "archived": false}, {"snippet": "A computer outage at US airports Monday evening left thousands of inbound international travelers stuck behind customs screening stations for\u00a0...", "link": "http://www.local10.com/news/international/computer-outage-disrupts-customs-at-us-airports", "title": "Computer outage disrupts customs at US airports - WPLG Local 10", "page": 1, "singleTweetPath": "", "archivedDomain": 3096, "crawlDatetime": "", "archived": true}, {"snippet": "U.S. Customs and Border Protection officers seize more than $200000 in counterfeit U.S. currency last month that arrived to Miami International\u00a0...", "link": "http://www.local10.com/news/more-than-200000-in-counterfeit-money-seized-at-mia/34910374", "title": "More than $200,000 in counterfeit money seized at Miami...", "page": 1, "singleTweetPath": "/JuliaAnnMiller1/status/643508281294614528", "archivedDomain": 3096, "crawlDatetime": "Aug 25, 2015", "archived": true}, {"snippet": "... to result in slow downs at customs, but that wasn't the case at MIA. ... The U.S. Coast Guard rescued about 500 Cubans at sea in December.", "link": "http://www.local10.com/news/travelers-from-cuba-say-they-are-happy-with-changes/30763194", "title": "Travelers coming from Cuba say they are happy with changes to US ...", "page": 1, "singleTweetPath": "/ccjtravel/status/556709789234126848", "archivedDomain": 3096, "crawlDatetime": "Jan 17, 2015", "archived": true}, {"snippet": "Two crashes were causing delays on the Florida Turnpike northbound on Saturday. ... Computer outage disrupts customs at US airports\u00a0...", "link": "http://www.local10.com/traffic/traffic-alert-crashes-cause-delays-on-turnpike-in-miami-dade", "title": "Traffic alert: Crashes cause delays on Turnpike in Miami-Dade", "page": 1, "singleTweetPath": "", "archivedDomain": 3096, "crawlDatetime": "Jul 30, 2016", "archived": false}, {"snippet": "A man traveling to South Florida from the Bahamas was found with 2.4 pounds of cocaine taped to his ankles and in his luggage, a U.S.\u00a0...", "link": "https://www.local10.com/web/wplg/news/cruise-passenger-found-with-cocaine-taped-to-ankles-u-s-customs-says", "title": "Cruise passenger found with cocaine taped to ankles, US Customs says", "page": 1, "singleTweetPath": "", "archivedDomain": 3095, "crawlDatetime": "Aug 31, 2015", "archived": false}]}, {"source": {"openSearch": ["http://wsvn.com/osd.xml", "https://s1.wp.com/opensearch.xml"], "cityCountyNameLong": -80.19782, "country": "USA", "cityCountyName": "Miami", "Twitter": "", "Video": "http://www.youtube.com/user/WVSNTV", "rss": ["http://wsvn.com/feed/", "http://wsvn.com/comments/feed/"], "website": "http://www.wsvn.com/", "miles": 6.18, "cityCountyNameLat": 25.779076, "name": "WSVN", "Facebook": "https://www.facebook.com/7NewsMiami", "type": "TV", "state": "FL"}, "links": [{"snippet": "(WSVN) - Many of us have headaches we need to get rid of. .... cows along Florida's Turnpike \u00b7 Delays at MIA, FLL after US Customs computer\u00a0...", "link": "http://wsvn.com/news/help-me-howard/unforgettable-stories-featured-on-help-me-howard/", "title": "Unforgettable stories featured on Help Me Howard \u2013 WSVN 7News ...", "page": 1, "singleTweetPath": "", "archivedDomain": 6400, "crawlDatetime": "", "archived": true}, {"snippet": "And, if you think there's something 7News should investigate, give us a ... Florida's Turnpike \u00b7 Delays at MIA, FLL after US Customs computer\u00a0...", "link": "http://wsvn.com/news/investigations/check-this-out-librarian-raises-security-concern-after-incidents-at-broward-county-libraries/", "title": "Check This Out: Librarian raises security concern after incidents at ...", "page": 1, "singleTweetPath": "", "archivedDomain": 6400, "crawlDatetime": "Nov 21, 2016", "archived": true}, {"snippet": "... although crews were on the scene, which caused heavy traffic delays. ... Florida's Turnpike \u00b7 Delays at MIA, FLL after US Customs computer\u00a0...", "link": "http://wsvn.com/news/local/3-cars-tractor-trailer-involved-in-crash-along-i-95/", "title": "3 cars, tractor trailer involved in crash along I-95 \u2013 WSVN 7News ...", "page": 1, "singleTweetPath": "", "archivedDomain": 6400, "crawlDatetime": "Dec 9, 2016", "archived": true}, {"snippet": "... Florida's Turnpike \u00b7 Delays at MIA, FLL after US Customs computer outage ... Join us: WSVN-TVSunbeam Television Corp 1401 79th Street\u00a0...", "link": "http://wsvn.com/news/local/airports-resume-normal-activity-following-hurricane-matthew/", "title": "Airports resume normal activity following Hurricane Matthew \u2013 WSVN ...", "page": 1, "singleTweetPath": "/psychoasspoca/status/784511480502910976", "archivedDomain": 6400, "crawlDatetime": "Oct 7, 2016", "archived": true}, {"snippet": "The delays went back to at least the Golden Glades. ... at cows along Florida's Turnpike \u00b7 Delays at MIA, FLL after US Customs computer outage\u00a0...", "link": "http://wsvn.com/news/local/crash-on-i-95-closes-lanes-causing-traffic-congestion/", "title": "I-95 fully opened again after crash blocking 3 lanes cleared - WSVN.com", "page": 1, "singleTweetPath": "", "archivedDomain": 6400, "crawlDatetime": "Nov 23, 2016", "archived": true}, {"snippet": "Due to the closure, planes and airlines are still experiencing delays and ... Florida's Turnpike \u00b7 Delays at MIA, FLL after US Customs computer\u00a0...", "link": "http://wsvn.com/news/local/mia-and-fll-airports-reopen-their-runways/", "title": "MIA and FLL Airports reopen their runways \u2013 WSVN 7News | Miami ...", "page": 1, "singleTweetPath": "", "archivedDomain": 6400, "crawlDatetime": "Oct 7, 2016", "archived": true}, {"snippet": "... at 7 a.m., at least one train heading northbound was delayed to the ... Florida's Turnpike \u00b7 Delays at MIA, FLL after US Customs computer\u00a0...", "link": "http://wsvn.com/news/local/tri-rail-train-heading-to-fort-lauderdale-station-stopped-on-the-tracks/", "title": "Tri-Rail train strikes, kills 1 heading to Fort Lauderdale station \u2013 WSVN ...", "page": 1, "singleTweetPath": "/wsvn/status/790518555196305408", "archivedDomain": 6400, "crawlDatetime": "Oct 24, 2016", "archived": false}, {"snippet": "MIAMI INTERNATIONAL AIRPORT, FLA. (WSVN) - A computer glitch that caused a nationwide system outage from U.S. Customs and Border\u00a0...", "link": "http://wsvn.com/news/local/us-customs-system-outage-causes-delays-at-mia-fll/", "title": "Delays at MIA, FLL after US Customs computer outage - WSVN.com", "page": 1, "singleTweetPath": "/jm3107/status/816726565795012608", "archivedDomain": 6400, "crawlDatetime": "", "archived": true}, {"snippet": "Delay those New Year's plans: 2016 is getting a leap second ... U.S. Naval Observatory's Geoff Chester says the tides' interaction with the ... at cows along Florida's Turnpike \u00b7 Delays at MIA, FLL after US Customs computer\u00a0...", "link": "http://wsvn.com/news/us-world/delay-those-new-years-plans-2016-is-getting-a-leap-second/", "title": "Delay those New Year's plans: 2016 is getting a leap second \u2013 WSVN ...", "page": 1, "singleTweetPath": "", "archivedDomain": 6400, "crawlDatetime": "Jul 6, 2016", "archived": true}, {"snippet": "... Florida's Turnpike \u00b7 Delays at MIA, FLL after US Customs computer outage ... Join us: WSVN-TVSunbeam Television Corp 1401 79th Street\u00a0...", "link": "http://wsvn.com/weather-blog/strong-cold-front/", "title": "Strong Cold Front \u2013 WSVN 7News | Miami News, Weather, Sports ...", "page": 1, "singleTweetPath": "/ThaRealPeterB/status/814601233470287872", "archivedDomain": 6400, "crawlDatetime": "Dec 29, 2016", "archived": true}]}, {"source": {"openSearch": [], "cityCountyNameLong": -80.19782, "country": "USA", "exclude": false, "cityCountyName": "Miami", "Facebook": "https://www.facebook.com/NBCMiami", "Video": "http://www.youtube.com/user/NBCMiamiMarketing", "rss": ["http://www.nbcmiami.com/news/top-stories/?rss=y"], "website": "http://www.nbcmiami.com/", "miles": 6.18, "cityCountyNameLat": 25.779076, "name": "WTVJ", "Twitter": "http://www.twitter.com/nbc6", "type": "TV", "state": "FL"}, "links": [{"snippet": "VideoDelays at Local Airports After US Customs Outage ... Long Customs Wait Times at Miami International Airport Led to Yelling, Chanting:\u00a0...", "link": "http://www.nbcmiami.com/news/Flyers-Frustrated-By-Long-Lines-at-Miami-International-Airport-198785821.html", "title": "Flyers Frustrated By Long Lines at Miami International Airport | NBC 6 ...", "page": 1, "singleTweetPath": "/SafetyMgmSystem/status/313721644294217728", "archivedDomain": 4889, "crawlDatetime": "Mar 18, 2013", "archived": true}, {"snippet": "... floating off South Florida's coastline, according to the U.S. Customs and Border Patrol. ... VideoDelays at Local Airports After US Customs Outage ... washing up on shore,\" said U.S. Border Patrol Miami Sector Division Chief,\u00a0...", "link": "http://www.nbcmiami.com/news/local/400-Pounds-Marijuana-Floating-Off-South-Florida-Coast-397496191.html", "title": "400-Pounds of Marijuana Floating Off South Florida's Coastline | NBC ...", "page": 1, "singleTweetPath": "/xanderrasper/status/789002731000242176", "archivedDomain": 4889, "crawlDatetime": "Oct 18, 2016", "archived": true}, {"snippet": "Officials say the U.S. Customs and Border Protection computer system went down around 6 p.m., forcing them to use a backup system.", "link": "http://www.nbcmiami.com/news/local/Computer-System-Causes-Delay-at-Miami-International-Airport-271660931.html", "title": "Computer Glitch Causes Delays at Miami International Airport | NBC 6 ...", "page": 1, "singleTweetPath": "/LuisJoseU23/status/501433931850612736", "archivedDomain": 4889, "crawlDatetime": "Aug 18, 2014", "archived": false}, {"snippet": "VideoDelays at Local Airports After US Customs Outage. 3 ... Customs agents at Miami International Airport say a shipment of what looked like car ... El Nuevo Herald reports that U.S. Customs and Border Protection agents\u00a0...", "link": "http://www.nbcmiami.com/news/local/Customs-Agents-Disrupt-Covert-Arms-Shipment-From-Miami-Airport-401097995.html", "title": "Customs Agents Disrupt Covert Arms Shipment Arriving at Miami Airport", "page": 1, "singleTweetPath": "/BillyCorben/status/798364435140050944", "archivedDomain": 4889, "crawlDatetime": "Nov 14, 2016", "archived": true}, {"snippet": "1 Killed in Crash Involving Semi Truck That Shut Down US-1 in Southwest Miami- ... VideoDelays at Local Airports After US Customs Outage. 4.", "link": "http://www.nbcmiami.com/news/local/Major-Crash-Involving-Semi-Truck-Shuts-Down-US-1-in-Southwest-Miami-Dade-403542706.html", "title": "1 Killed in Crash Involving Semi Truck That Shut Down US-1 in ...", "page": 1, "singleTweetPath": "/LaventLaw/status/808280999243247617", "archivedDomain": 4889, "crawlDatetime": "Nov 29, 2016", "archived": true}, {"snippet": "Shooting on Palmetto in Miami-Dade Causes Traffic Delays. Trending Stories. 1. VideoDelays at Local Airports After US Customs Outage. 2.", "link": "http://www.nbcmiami.com/news/local/Shooting-on-Palmetto-in-Miami-Dade-Causing-Traffic-Delays-373785291.html", "title": "Shooting on Palmetto in Miami-Dade Causes Traffic Delays | NBC 6 ...", "page": 1, "singleTweetPath": "/Floridaupdate36/status/714771113448853504", "archivedDomain": 4889, "crawlDatetime": "Mar 28, 2016", "archived": true}, {"snippet": "NBC 6's Stephanie Bertini reports on the delays at South Florida airports that were triggered by a multi-state outage of the U.S. Customs system\u00a0...", "link": "http://www.nbcmiami.com/news/local/US-Customs-and-Border-Protection-Outage-Affects-South-Florida-Travelers-409394005.html", "title": "Delays at South Florida Airports After US Customs and Border ...", "page": 1, "singleTweetPath": "/SkonieSkoop/status/816264152863883264", "archivedDomain": 4889, "crawlDatetime": "", "archived": true}, {"snippet": "US Customs and Border Protection Outage Affects South Florida ... Expect delays in passenger processing until the system is restored.", "link": "http://www.nbcmiami.com/news/local/US-Customs-and-Border-Protection-Outage-Affects-South-Florida-Travelers-409394005.html?_osource=SocialFlowFB_MIBrand", "title": "US Customs and Border Protection Outage Affects South Florida ...", "page": 1, "singleTweetPath": "", "archivedDomain": 4889, "crawlDatetime": "", "archived": false}, {"snippet": "A nationwide outage for Customs and Border Protection has left throngs of people dealing with significant delays in South Florida, Atlanta and Boston, ... A spokesman for U.S. Customs and Border Protection, NBC News\u00a0...", "link": "http://www.nbcmiami.com/news/national-international/Customs-and-Border-Outage-Stalls-Travelers-409397025.html", "title": "Customs and Border System Outage Stalls Travelers at Multiple ...", "page": 1, "singleTweetPath": "", "archivedDomain": 4889, "crawlDatetime": "", "archived": false}]}], "_id": "lmp-test_usa-33126-us-customs-delays-15-2017-01-05", "state": "FL", "zipcode": "33126", "userID": "lmp-test", "queryID": "usa-33126-us-customs-delays-15-2017-01-05", "Lat": 25.777977, "city": "Miami", "query": "US Customs delays", "collectionName": "", "self_collection": [{"searchURI": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Athemiamihurricane.com", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Acommunitynewspapers.com", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Aelnuevoherald.com", "deleted": true}, {"searchURI": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Amiamiherald.com", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Amiaminewtimes.com", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Amiamitimesonline.com", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Amiamitodaynews.com", "deleted": true}, {"searchURI": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Amiami.com", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Amiami.cbslocal.com", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Amiami.cbslocal.com", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Awlrn.org", "deleted": true}, {"searchURI": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Awpbt2.org", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Alocal10.com", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Awsvn.com", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Anbcmiami.com", "deleted": false}], "Long": -80.29718, "timestamp": "2017-01-05T20:41:33Z"}
+{
+  "_id": "lmp-test_usa-33126-us-customs-delays-15-2017-01-05", 
+  "city": "Miami", 
+  "city-latitude": 25.777977, 
+  "city-longitude": -80.29718, 
+  "collection": [
+    {
+      "links": [], 
+      "source": {
+        "city-county-lat": 25.7209, 
+        "city-county-long": -80.2779, 
+        "city-county-name": "Univ of Miami", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/themiamihurricane", 
+        "media-kind": "college", 
+        "media-type": "newspaper", 
+        "miles": 4.12, 
+        "name": "Miami Hurricane", 
+        "open-search": [], 
+        "rss": [
+          "http://www.themiamihurricane.com/feed/", 
+          "http://www.themiamihurricane.com/comments/feed/", 
+          "http://www.themiamihurricane.com/home/feed/"
+        ], 
+        "state": "FL", 
+        "twitter": "http://www.twitter.com/MiamiHurricane", 
+        "video": "", 
+        "website": "http://www.themiamihurricane.com/"
+      }
+    }, 
+    {
+      "links": [], 
+      "source": {
+        "city-county-lat": 25.779076, 
+        "city-county-long": -80.19782, 
+        "city-county-name": "Miami", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/Communitynewspapers", 
+        "media-kind": "city-county", 
+        "media-type": "newspaper", 
+        "miles": 6.18, 
+        "name": "Community News of Miami", 
+        "open-search": [], 
+        "rss": [
+          "http://communitynewspapers.com/feed/", 
+          "http://communitynewspapers.com/comments/feed/"
+        ], 
+        "state": "FL", 
+        "twitter": "http://www.twitter.com/communitypapers", 
+        "video": "http://www.youtube.com/user/communitynewspapers", 
+        "website": "http://www.communitynewspapers.com/"
+      }
+    }, 
+    {
+      "links": [
+        {
+          "crawl-datetime": "", 
+          "link": "http://www.miamiherald.com/latest-news/article124209899.html", 
+          "page": 1, 
+          "snippet": "U.S. Customs and Border Protection issued a statement Monday saying a processing system outage caused delays at various airports.", 
+          "title": "Officials: Customs system outage causes waits at airports | Miami Herald"
+        }, 
+        {
+          "crawl-datetime": "Jul 20, 2011", 
+          "link": "http://www.miamiherald.com/latest-news/article1938347.html", 
+          "page": 1, 
+          "snippet": "Afghan President Hamid Karzai has banned U.S. government advisers from ... of two U.S.-provided bulk currency counters at the airport delayed their ... their cash to record serial numbers, and U.S. customs officials are barred\u00a0...", 
+          "title": "Problems dog U.S.-led efforts to boost Afghan financial system | Miami ..."
+        }, 
+        {
+          "crawl-datetime": "Mar 19, 2013", 
+          "link": "http://www.miamiherald.com/latest-news/article1948363.html", 
+          "page": 1, 
+          "snippet": "Blame federal budget cuts known as the sequester, which have limited overtime pay for U.S. Customs and Border Protection officers. The result:\u00a0...", 
+          "title": "Federal budget cuts lead to customs delays, missed flights at MIA ..."
+        }, 
+        {
+          "crawl-datetime": "Nov 22, 2016", 
+          "link": "http://www.miamiherald.com/news/business/article116571358.html", 
+          "page": 1, 
+          "snippet": "And that could mean flight delays, though none have yet been posted. ... The program is open to U.S. citizens and foreign citizens who meet certain ... also download the app for Mobile Passport Control, a U.S. Customs and\u00a0...", 
+          "title": "This holiday travel season is going to be busy. Here's how to survive it ..."
+        }, 
+        {
+          "crawl-datetime": "May 1, 2016", 
+          "link": "http://www.miamiherald.com/news/business/biz-monday/article74799242.html", 
+          "page": 1, 
+          "snippet": "Importantly, although the U.S. Customs and Border Protection (CBP) ... Institute estimates that each additional day a shipment is delayed,\u00a0...", 
+          "title": "Why the Customs Reauthorization Bill is great news for many small ..."
+        }, 
+        {
+          "crawl-datetime": "Dec 28, 2015", 
+          "link": "http://www.miamiherald.com/news/local/community/miami-dade/article51951155.html", 
+          "page": 1, 
+          "snippet": "Thousands of U.S. flights were delayed Monday as severe weather .... Travelers rage at long lines after Customs computer outage at MIA.", 
+          "title": "Severe weather in central U.S. delays dozens of South Florida flights ..."
+        }, 
+        {
+          "crawl-datetime": "May 17, 2016", 
+          "link": "http://www.miamiherald.com/news/local/community/miami-dade/article78096707.html", 
+          "page": 1, 
+          "snippet": "South Florida airports aren't always immune from delays at security .... Travelers rage at long lines after Customs computer outage at MIA.", 
+          "title": "With airport lines going on and on, a reasonable wait in Miami | Miami ..."
+        }, 
+        {
+          "crawl-datetime": "", 
+          "link": "http://www.miamiherald.com/news/nation-world/national/article124210174.html", 
+          "page": 1, 
+          "snippet": "A multi-state U.S. Customs computer outage forced the Customs checkpoint at ... Chicago, Houston and Boston were experiencing long delays.", 
+          "title": "Air travelers stuck in long customs lines thanks to nationwide outage ..."
+        }, 
+        {
+          "crawl-datetime": "Feb 20, 2013", 
+          "link": "http://www.miamiherald.com/news/politics-government/article1947505.html", 
+          "page": 1, 
+          "snippet": "\u201cIt means not adding Customs officers, we're going to be starting to furlough Customs ... While he toured the airport with Napolitano and U.S. Rep. ... missed their connecting flights as a direct result of delays in CBP processing.", 
+          "title": "Missed flight connections at MIA blamed on understaffed border and ..."
+        }, 
+        {
+          "crawl-datetime": "Apr 4, 2013", 
+          "link": "http://www.miamiherald.com/news/politics-government/article1948830.html", 
+          "page": 1, 
+          "snippet": "Federal budget cuts to U.S. Customs and Border Protection that have already delayed thousands of international passengers at South Florida's\u00a0...", 
+          "title": "Miami congressman, seaport director call for more Customs funding at ..."
+        }
+      ], 
+      "source": {
+        "city-county-lat": 25.779076, 
+        "city-county-long": -80.19782, 
+        "city-county-name": "Miami", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/miamiherald", 
+        "media-kind": "city-county", 
+        "media-type": "newspaper", 
+        "miles": 6.18, 
+        "name": "Miami Herald", 
+        "open-search": [], 
+        "rss": [
+          "http://www.miamiherald.com/?widgetName=rssfeed&widgetContentId=712015&getXmlFeed=true"
+        ], 
+        "state": "FL", 
+        "twitter": "http://www.twitter.com/miamiherald", 
+        "video": "http://www.youtube.com/user/MiamiHerald", 
+        "website": "http://www.miamiherald.com/"
+      }
+    }, 
+    {
+      "links": [
+        {
+          "crawl-datetime": "Apr 1, 2014", 
+          "link": "http://www.miaminewtimes.com/content/printView/6533680", 
+          "page": 1, 
+          "snippet": "Korine Teamer says a U.S. Customs and Border Protection agent at Miami ... and documents and was able to clear security with no delays.", 
+          "title": "Woman Claims Visual Sexual Assault by Customs Agent at Miami ..."
+        }, 
+        {
+          "crawl-datetime": "Aug 18, 2014", 
+          "link": "http://www.miaminewtimes.com/news/miami-international-airport-was-an-epic-catastrophe-last-night-6541069", 
+          "page": 1, 
+          "snippet": "... every afternoon this time of year, waiting out weather delays at Miami... ... used by Customs and Border Patrol (CBP) agents went on the fritz.", 
+          "title": "Miami International Airport Was an Epic Catastrophe Last Night ..."
+        }, 
+        {
+          "crawl-datetime": "Mar 18, 2010", 
+          "link": "http://www.miaminewtimes.com/news/the-murder-of-stevie-febonio-south-floridas-marijuana-grow-houses-can-be-a-deadly-business-6379168", 
+          "page": 1, 
+          "snippet": "Within a couple of months, Febonio was pissed off with Alfaro's excuses and delays. ... But in March 2008, U.S. District Judge Donald M. Middlebrooks .... They called to tell Oliver that customs agents in Costa Rica had refused\u00a0...", 
+          "title": "The murder of Stevie Febonio: South Florida's marijuana grow houses ..."
+        }
+      ], 
+      "source": {
+        "city-county-lat": 25.779076, 
+        "city-county-long": -80.19782, 
+        "city-county-name": "Miami", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/miaminewtimes", 
+        "media-kind": "city-county", 
+        "media-type": "newspaper", 
+        "miles": 6.18, 
+        "name": "Miami New Times", 
+        "open-search": [], 
+        "rss": [
+          "http://www.miaminewtimes.com/index.rss"
+        ], 
+        "state": "FL", 
+        "twitter": "http://www.twitter.com/MiamiNewTimes", 
+        "video": "http://www.youtube.com/user/MiamiNewTimesLLC", 
+        "website": "http://www.miaminewtimes.com/"
+      }
+    }, 
+    {
+      "links": [], 
+      "source": {
+        "city-county-lat": 25.779076, 
+        "city-county-long": -80.19782, 
+        "city-county-name": "Miami", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/themiamitimes", 
+        "media-kind": "city-county", 
+        "media-type": "newspaper", 
+        "miles": 6.18, 
+        "name": "Miami Times", 
+        "open-search": [], 
+        "rss": [], 
+        "state": "FL", 
+        "twitter": "http://www.twitter.com/TheMiamiTimes", 
+        "video": "", 
+        "website": "http://miamitimesonline.com/"
+      }
+    }, 
+    {
+      "links": [], 
+      "source": {
+        "city-county-lat": 25.779076, 
+        "city-county-long": -80.19782, 
+        "city-county-name": "Miami", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/Miamicom", 
+        "media-kind": "city-county", 
+        "media-type": "newspaper", 
+        "miles": 6.18, 
+        "name": "Miami.com", 
+        "open-search": [], 
+        "rss": [], 
+        "state": "FL", 
+        "twitter": "http://www.twitter.com/Miamicom", 
+        "video": "", 
+        "website": "http://www.miami.com/"
+      }
+    }, 
+    {
+      "links": [
+        {
+          "crawl-datetime": "Mar 18, 2013", 
+          "link": "http://miami.cbslocal.com/2013/03/18/tsa-cut-backs-cause-delays-at-mia/", 
+          "page": 1, 
+          "snippet": "TSA Cutbacks Cause Delays At MIA ... The log jam was due to cutbacks in overtime at customs, causing them to have too a few ... Follow Us On.", 
+          "title": "TSA Cutbacks Cause Delays At MIA \u00ab CBS Miami"
+        }, 
+        {
+          "crawl-datetime": "Mar 10, 2015", 
+          "link": "http://miami.cbslocal.com/2015/03/10/tax-refunds-may-take-a-little-longer-this-year/", 
+          "page": 1, 
+          "snippet": "The Cartagena family, new U.S. Citizens, filed their first tax return ever this year ... Stability program have seen not only longer waits, but refunds delayed. ... Travelers Stuck Waiting Around After U.S. Customs System Outage.", 
+          "title": "Tax Refunds May Take A Little Longer This Year \u00ab CBS Miami"
+        }, 
+        {
+          "crawl-datetime": "Oct 6, 2016", 
+          "link": "http://miami.cbslocal.com/2016/10/06/hurricane-matthew-to-cause-flight-delays-cancelations/", 
+          "page": 1, 
+          "snippet": "Hurricane Matthew Causes Flight Delays, Cancelations. October ... Travelers Stuck Waiting Around After U.S. Customs System Outage. image.", 
+          "title": "Hurricane Matthew Causes Flight Delays, Cancelations \u00ab CBS Miami"
+        }, 
+        {
+          "crawl-datetime": "Oct 25, 2016", 
+          "link": "http://miami.cbslocal.com/2016/10/25/judge-delays-decision-on-missing-marijuana-question-on-some-ballots/", 
+          "page": 1, 
+          "snippet": "Judge Delays Decision On Missing Marijuana Question On Some Ballots ... Travelers Stuck Waiting Around After U.S. Customs System Outage.", 
+          "title": "Judge Delays Decision On Missing Marijuana Question On Some ..."
+        }, 
+        {
+          "crawl-datetime": "Oct 28, 2016", 
+          "link": "http://miami.cbslocal.com/2016/10/28/ft-lauderdale-hollywood-airport-closed-after-fedex-plane-catches-fire/", 
+          "page": 1, 
+          "snippet": "Follow Us On. FacebookTwitterYouTube ... Travelers Stuck Waiting Around After U.S. Customs System Outage. image. Man Accused Of\u00a0...", 
+          "title": "Ft. Lauderdale-Hollywood Airport Reopens After FedEx Plane Catches ..."
+        }, 
+        {
+          "crawl-datetime": "Dec 23, 2016", 
+          "link": "http://miami.cbslocal.com/2016/12/23/whats-the-story-with-ben-affleck-live-by-night-he-hopes/", 
+          "page": 1, 
+          "snippet": "... Girl\u201d and \u201cLive by Night\u201d \u2014 even if there were understandable delays. ... Travelers Stuck Waiting Around After U.S. Customs System Outage.", 
+          "title": "What's The Story With Ben Affleck? 'Live By Night,' He Hopes \u00ab CBS ..."
+        }, 
+        {
+          "crawl-datetime": "", 
+          "link": "http://miami.cbslocal.com/2017/01/02/passengers-stuck-waiting-around-after-u-s-customs-system-outage/", 
+          "page": 1, 
+          "snippet": "Travelers Stuck Waiting Around After U.S. Customs System Outage ... Expect delays in passenger processing until the system is restored.", 
+          "title": "Travelers Stuck Waiting Around After U.S. Customs System Outage ..."
+        }, 
+        {
+          "crawl-datetime": "", 
+          "link": "http://miami.cbslocal.com/tag/miami-intl-airport/", 
+          "page": 1, 
+          "snippet": "... U.S. Customs and Border Protection agents at Miami International Airport are ... Fort Lauderdale International Airport have avoided any lengthy delays through\u00a0...", 
+          "title": "Miami Int'l Airport \u00ab CBS Miami"
+        }, 
+        {
+          "crawl-datetime": "Jul 13, 2016", 
+          "link": "http://miami.cbslocal.com/top-lists/how-to-get-through-airport-security-as-quickly-as-possible/", 
+          "page": 1, 
+          "snippet": "MyTSA also offers information on flight delays at all major domestic airports. ... U.S. Customs and Border Protection also approves other Trusted\u00a0...", 
+          "title": "How To Get Through Airport Security As Quickly As Possible \u00ab CBS ..."
+        }
+      ], 
+      "source": {
+        "city-county-lat": 25.779076, 
+        "city-county-long": -80.19782, 
+        "city-county-name": "Miami", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/CBSMiami", 
+        "media-kind": "", 
+        "media-type": "tv", 
+        "miles": 6.18, 
+        "name": "WBFS", 
+        "open-search": [
+          "http://miami.cbslocal.com/osd.xml", 
+          "https://s1.wp.com/opensearch.xml"
+        ], 
+        "rss": [
+          "http://miami.cbslocal.com/feed/", 
+          "http://miami.cbslocal.com/comments/feed/", 
+          "http://miami.cbslocal.com/home-section/feed/"
+        ], 
+        "state": "FL", 
+        "twitter": "http://www.twitter.com/CBSmiami", 
+        "video": "", 
+        "website": "http://miami.cbslocal.com/"
+      }
+    }, 
+    {
+      "links": [
+        {
+          "crawl-datetime": "Mar 18, 2013", 
+          "link": "http://miami.cbslocal.com/2013/03/18/tsa-cut-backs-cause-delays-at-mia/", 
+          "page": 1, 
+          "snippet": "TSA Cutbacks Cause Delays At MIA ... The log jam was due to cutbacks in overtime at customs, causing them to have too a few ... Follow Us On.", 
+          "title": "TSA Cutbacks Cause Delays At MIA \u00ab CBS Miami"
+        }, 
+        {
+          "crawl-datetime": "Mar 10, 2015", 
+          "link": "http://miami.cbslocal.com/2015/03/10/tax-refunds-may-take-a-little-longer-this-year/", 
+          "page": 1, 
+          "snippet": "The Cartagena family, new U.S. Citizens, filed their first tax return ever this year ... Stability program have seen not only longer waits, but refunds delayed. ... Travelers Stuck Waiting Around After U.S. Customs System Outage.", 
+          "title": "Tax Refunds May Take A Little Longer This Year \u00ab CBS Miami"
+        }, 
+        {
+          "crawl-datetime": "Oct 6, 2016", 
+          "link": "http://miami.cbslocal.com/2016/10/06/hurricane-matthew-to-cause-flight-delays-cancelations/", 
+          "page": 1, 
+          "snippet": "Hurricane Matthew Causes Flight Delays, Cancelations. October ... Travelers Stuck Waiting Around After U.S. Customs System Outage. image.", 
+          "title": "Hurricane Matthew Causes Flight Delays, Cancelations \u00ab CBS Miami"
+        }, 
+        {
+          "crawl-datetime": "Oct 25, 2016", 
+          "link": "http://miami.cbslocal.com/2016/10/25/judge-delays-decision-on-missing-marijuana-question-on-some-ballots/", 
+          "page": 1, 
+          "snippet": "Judge Delays Decision On Missing Marijuana Question On Some Ballots ... Travelers Stuck Waiting Around After U.S. Customs System Outage.", 
+          "title": "Judge Delays Decision On Missing Marijuana Question On Some ..."
+        }, 
+        {
+          "crawl-datetime": "Oct 28, 2016", 
+          "link": "http://miami.cbslocal.com/2016/10/28/ft-lauderdale-hollywood-airport-closed-after-fedex-plane-catches-fire/", 
+          "page": 1, 
+          "snippet": "Follow Us On. FacebookTwitterYouTube ... Travelers Stuck Waiting Around After U.S. Customs System Outage. image. Man Accused Of\u00a0...", 
+          "title": "Ft. Lauderdale-Hollywood Airport Reopens After FedEx Plane Catches ..."
+        }, 
+        {
+          "crawl-datetime": "Dec 23, 2016", 
+          "link": "http://miami.cbslocal.com/2016/12/23/whats-the-story-with-ben-affleck-live-by-night-he-hopes/", 
+          "page": 1, 
+          "snippet": "... Girl\u201d and \u201cLive by Night\u201d \u2014 even if there were understandable delays. ... Travelers Stuck Waiting Around After U.S. Customs System Outage.", 
+          "title": "What's The Story With Ben Affleck? 'Live By Night,' He Hopes \u00ab CBS ..."
+        }, 
+        {
+          "crawl-datetime": "", 
+          "link": "http://miami.cbslocal.com/2017/01/02/passengers-stuck-waiting-around-after-u-s-customs-system-outage/", 
+          "page": 1, 
+          "snippet": "Travelers Stuck Waiting Around After U.S. Customs System Outage ... Expect delays in passenger processing until the system is restored.", 
+          "title": "Travelers Stuck Waiting Around After U.S. Customs System Outage ..."
+        }, 
+        {
+          "crawl-datetime": "", 
+          "link": "http://miami.cbslocal.com/tag/miami-intl-airport/", 
+          "page": 1, 
+          "snippet": "... U.S. Customs and Border Protection agents at Miami International Airport are ... Fort Lauderdale International Airport have avoided any lengthy delays through\u00a0...", 
+          "title": "Miami Int'l Airport \u00ab CBS Miami"
+        }, 
+        {
+          "crawl-datetime": "Jul 13, 2016", 
+          "link": "http://miami.cbslocal.com/top-lists/how-to-get-through-airport-security-as-quickly-as-possible/", 
+          "page": 1, 
+          "snippet": "MyTSA also offers information on flight delays at all major domestic airports. ... U.S. Customs and Border Protection also approves other Trusted\u00a0...", 
+          "title": "How To Get Through Airport Security As Quickly As Possible \u00ab CBS ..."
+        }
+      ], 
+      "source": {
+        "city-county-lat": 25.779076, 
+        "city-county-long": -80.19782, 
+        "city-county-name": "Miami", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/CBSMiami", 
+        "media-kind": "", 
+        "media-type": "tv", 
+        "miles": 6.18, 
+        "name": "WFOR", 
+        "open-search": [
+          "http://miami.cbslocal.com/osd.xml", 
+          "https://s1.wp.com/opensearch.xml"
+        ], 
+        "rss": [
+          "http://miami.cbslocal.com/feed/", 
+          "http://miami.cbslocal.com/comments/feed/", 
+          "http://miami.cbslocal.com/home-section/feed/"
+        ], 
+        "state": "FL", 
+        "twitter": "http://www.twitter.com/CBSmiami", 
+        "video": "", 
+        "website": "http://miami.cbslocal.com/"
+      }
+    }, 
+    {
+      "links": [], 
+      "source": {
+        "city-county-lat": 25.779076, 
+        "city-county-long": -80.19782, 
+        "city-county-name": "Miami", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/WPBT2", 
+        "media-kind": "", 
+        "media-type": "tv", 
+        "miles": 6.18, 
+        "name": "WPBT", 
+        "open-search": [], 
+        "rss": [], 
+        "state": "FL", 
+        "twitter": "http://www.twitter.com/WPBT2", 
+        "video": "http://www.youtube.com/user/WPBT2", 
+        "website": "http://www.wpbt2.org/"
+      }
+    }, 
+    {
+      "links": [
+        {
+          "crawl-datetime": "", 
+          "link": "http://www.local10.com/news/cbp-computer-outage-delays-over-30-international-flights-at-mia", 
+          "page": 1, 
+          "snippet": "MIAMI - A nationwide computer outage at Customs and Border Protection delayed passengers on dozens of international flights Monday night\u00a0...", 
+          "title": "CBP computer outage delays dozens of international flights at..."
+        }, 
+        {
+          "crawl-datetime": "Apr 1, 2013", 
+          "link": "http://www.local10.com/news/cruise-passengers-wait-in-line-for-hours-at-port-everglades-", 
+          "page": 1, 
+          "snippet": "FORT LAUDERDALE, Fla. - Passengers aboard a Carnival Cruise ship had to wait for hours to clear immigration and customs. The delay at\u00a0...", 
+          "title": "Cruise passengers wait in line for hours at Port Everglades"
+        }, 
+        {
+          "crawl-datetime": "Oct 19, 2014", 
+          "link": "http://www.local10.com/news/customs-agent-killed-in-motorcycle-crash", 
+          "page": 1, 
+          "snippet": "A U.S. Customs and Border Protection agent who was killed in a motorcycle accident is being remembered as a \"gentle giant\" with a huge\u00a0...", 
+          "title": "Customs agent killed in motorcycle crash - WPLG Local 10"
+        }, 
+        {
+          "crawl-datetime": "Oct 5, 2016", 
+          "link": "http://www.local10.com/news/florida/miami-dade-county/miami-dade-county-on-hurricane-matthew-update", 
+          "page": 1, 
+          "snippet": "... Gimenez said, \"will allow us to be reimbursed more easily by our federal partners.\" .... Computer outage disrupts customs at US airports\u00a0...", 
+          "title": "Miami-Dade announces voluntary evacuations due to Hurricane..."
+        }, 
+        {
+          "crawl-datetime": "Jun 24, 2015", 
+          "link": "http://www.local10.com/news/florida/skyline-shirts-customers-complain-of-delayed-refunds-deliveries", 
+          "page": 1, 
+          "snippet": "Consumers Tell BBB: Skyline Shirts Delays Deliveries, Refunds For Months ... 'We are making some changes internally that will help us assist our customers ... and when Customs is involved that sometimes delays packages.", 
+          "title": "Skyline Shirts: Customers complain of delayed refunds, deliveries"
+        }, 
+        {
+          "crawl-datetime": "", 
+          "link": "http://www.local10.com/news/international/computer-outage-disrupts-customs-at-us-airports", 
+          "page": 1, 
+          "snippet": "A computer outage at US airports Monday evening left thousands of inbound international travelers stuck behind customs screening stations for\u00a0...", 
+          "title": "Computer outage disrupts customs at US airports - WPLG Local 10"
+        }, 
+        {
+          "crawl-datetime": "Aug 25, 2015", 
+          "link": "http://www.local10.com/news/more-than-200000-in-counterfeit-money-seized-at-mia/34910374", 
+          "page": 1, 
+          "snippet": "U.S. Customs and Border Protection officers seize more than $200000 in counterfeit U.S. currency last month that arrived to Miami International\u00a0...", 
+          "title": "More than $200,000 in counterfeit money seized at Miami..."
+        }, 
+        {
+          "crawl-datetime": "Jan 17, 2015", 
+          "link": "http://www.local10.com/news/travelers-from-cuba-say-they-are-happy-with-changes/30763194", 
+          "page": 1, 
+          "snippet": "... to result in slow downs at customs, but that wasn't the case at MIA. ... The U.S. Coast Guard rescued about 500 Cubans at sea in December.", 
+          "title": "Travelers coming from Cuba say they are happy with changes to US ..."
+        }, 
+        {
+          "crawl-datetime": "Jul 30, 2016", 
+          "link": "http://www.local10.com/traffic/traffic-alert-crashes-cause-delays-on-turnpike-in-miami-dade", 
+          "page": 1, 
+          "snippet": "Two crashes were causing delays on the Florida Turnpike northbound on Saturday. ... Computer outage disrupts customs at US airports\u00a0...", 
+          "title": "Traffic alert: Crashes cause delays on Turnpike in Miami-Dade"
+        }, 
+        {
+          "crawl-datetime": "Aug 31, 2015", 
+          "link": "https://www.local10.com/web/wplg/news/cruise-passenger-found-with-cocaine-taped-to-ankles-u-s-customs-says", 
+          "page": 1, 
+          "snippet": "A man traveling to South Florida from the Bahamas was found with 2.4 pounds of cocaine taped to his ankles and in his luggage, a U.S.\u00a0...", 
+          "title": "Cruise passenger found with cocaine taped to ankles, US Customs says"
+        }
+      ], 
+      "source": {
+        "city-county-lat": 25.779076, 
+        "city-county-long": -80.19782, 
+        "city-county-name": "Miami", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/WPLGLocal10", 
+        "media-kind": "", 
+        "media-type": "tv", 
+        "miles": 6.18, 
+        "name": "WPLG", 
+        "open-search": [], 
+        "rss": [], 
+        "state": "FL", 
+        "twitter": "http://www.twitter.com/wplglocal10", 
+        "video": "", 
+        "website": "http://www.local10.com/"
+      }
+    }, 
+    {
+      "links": [
+        {
+          "crawl-datetime": "", 
+          "link": "http://wsvn.com/news/help-me-howard/unforgettable-stories-featured-on-help-me-howard/", 
+          "page": 1, 
+          "snippet": "(WSVN) - Many of us have headaches we need to get rid of. .... cows along Florida's Turnpike \u00b7 Delays at MIA, FLL after US Customs computer\u00a0...", 
+          "title": "Unforgettable stories featured on Help Me Howard \u2013 WSVN 7News ..."
+        }, 
+        {
+          "crawl-datetime": "Nov 21, 2016", 
+          "link": "http://wsvn.com/news/investigations/check-this-out-librarian-raises-security-concern-after-incidents-at-broward-county-libraries/", 
+          "page": 1, 
+          "snippet": "And, if you think there's something 7News should investigate, give us a ... Florida's Turnpike \u00b7 Delays at MIA, FLL after US Customs computer\u00a0...", 
+          "title": "Check This Out: Librarian raises security concern after incidents at ..."
+        }, 
+        {
+          "crawl-datetime": "Dec 9, 2016", 
+          "link": "http://wsvn.com/news/local/3-cars-tractor-trailer-involved-in-crash-along-i-95/", 
+          "page": 1, 
+          "snippet": "... although crews were on the scene, which caused heavy traffic delays. ... Florida's Turnpike \u00b7 Delays at MIA, FLL after US Customs computer\u00a0...", 
+          "title": "3 cars, tractor trailer involved in crash along I-95 \u2013 WSVN 7News ..."
+        }, 
+        {
+          "crawl-datetime": "Oct 7, 2016", 
+          "link": "http://wsvn.com/news/local/airports-resume-normal-activity-following-hurricane-matthew/", 
+          "page": 1, 
+          "snippet": "... Florida's Turnpike \u00b7 Delays at MIA, FLL after US Customs computer outage ... Join us: WSVN-TVSunbeam Television Corp 1401 79th Street\u00a0...", 
+          "title": "Airports resume normal activity following Hurricane Matthew \u2013 WSVN ..."
+        }, 
+        {
+          "crawl-datetime": "Nov 23, 2016", 
+          "link": "http://wsvn.com/news/local/crash-on-i-95-closes-lanes-causing-traffic-congestion/", 
+          "page": 1, 
+          "snippet": "The delays went back to at least the Golden Glades. ... at cows along Florida's Turnpike \u00b7 Delays at MIA, FLL after US Customs computer outage\u00a0...", 
+          "title": "I-95 fully opened again after crash blocking 3 lanes cleared - WSVN.com"
+        }, 
+        {
+          "crawl-datetime": "Oct 7, 2016", 
+          "link": "http://wsvn.com/news/local/mia-and-fll-airports-reopen-their-runways/", 
+          "page": 1, 
+          "snippet": "Due to the closure, planes and airlines are still experiencing delays and ... Florida's Turnpike \u00b7 Delays at MIA, FLL after US Customs computer\u00a0...", 
+          "title": "MIA and FLL Airports reopen their runways \u2013 WSVN 7News | Miami ..."
+        }, 
+        {
+          "crawl-datetime": "Oct 24, 2016", 
+          "link": "http://wsvn.com/news/local/tri-rail-train-heading-to-fort-lauderdale-station-stopped-on-the-tracks/", 
+          "page": 1, 
+          "snippet": "... at 7 a.m., at least one train heading northbound was delayed to the ... Florida's Turnpike \u00b7 Delays at MIA, FLL after US Customs computer\u00a0...", 
+          "title": "Tri-Rail train strikes, kills 1 heading to Fort Lauderdale station \u2013 WSVN ..."
+        }, 
+        {
+          "crawl-datetime": "", 
+          "link": "http://wsvn.com/news/local/us-customs-system-outage-causes-delays-at-mia-fll/", 
+          "page": 1, 
+          "snippet": "MIAMI INTERNATIONAL AIRPORT, FLA. (WSVN) - A computer glitch that caused a nationwide system outage from U.S. Customs and Border\u00a0...", 
+          "title": "Delays at MIA, FLL after US Customs computer outage - WSVN.com"
+        }, 
+        {
+          "crawl-datetime": "Jul 6, 2016", 
+          "link": "http://wsvn.com/news/us-world/delay-those-new-years-plans-2016-is-getting-a-leap-second/", 
+          "page": 1, 
+          "snippet": "Delay those New Year's plans: 2016 is getting a leap second ... U.S. Naval Observatory's Geoff Chester says the tides' interaction with the ... at cows along Florida's Turnpike \u00b7 Delays at MIA, FLL after US Customs computer\u00a0...", 
+          "title": "Delay those New Year's plans: 2016 is getting a leap second \u2013 WSVN ..."
+        }, 
+        {
+          "crawl-datetime": "Dec 29, 2016", 
+          "link": "http://wsvn.com/weather-blog/strong-cold-front/", 
+          "page": 1, 
+          "snippet": "... Florida's Turnpike \u00b7 Delays at MIA, FLL after US Customs computer outage ... Join us: WSVN-TVSunbeam Television Corp 1401 79th Street\u00a0...", 
+          "title": "Strong Cold Front \u2013 WSVN 7News | Miami News, Weather, Sports ..."
+        }
+      ], 
+      "source": {
+        "city-county-lat": 25.779076, 
+        "city-county-long": -80.19782, 
+        "city-county-name": "Miami", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/7NewsMiami", 
+        "media-kind": "", 
+        "media-type": "tv", 
+        "miles": 6.18, 
+        "name": "WSVN", 
+        "open-search": [
+          "http://wsvn.com/osd.xml", 
+          "https://s1.wp.com/opensearch.xml"
+        ], 
+        "rss": [
+          "http://wsvn.com/feed/", 
+          "http://wsvn.com/comments/feed/"
+        ], 
+        "state": "FL", 
+        "twitter": "", 
+        "video": "http://www.youtube.com/user/WVSNTV", 
+        "website": "http://www.wsvn.com/"
+      }
+    }, 
+    {
+      "links": [
+        {
+          "crawl-datetime": "Mar 18, 2013", 
+          "link": "http://www.nbcmiami.com/news/Flyers-Frustrated-By-Long-Lines-at-Miami-International-Airport-198785821.html", 
+          "page": 1, 
+          "snippet": "VideoDelays at Local Airports After US Customs Outage ... Long Customs Wait Times at Miami International Airport Led to Yelling, Chanting:\u00a0...", 
+          "title": "Flyers Frustrated By Long Lines at Miami International Airport | NBC 6 ..."
+        }, 
+        {
+          "crawl-datetime": "Oct 18, 2016", 
+          "link": "http://www.nbcmiami.com/news/local/400-Pounds-Marijuana-Floating-Off-South-Florida-Coast-397496191.html", 
+          "page": 1, 
+          "snippet": "... floating off South Florida's coastline, according to the U.S. Customs and Border Patrol. ... VideoDelays at Local Airports After US Customs Outage ... washing up on shore,\" said U.S. Border Patrol Miami Sector Division Chief,\u00a0...", 
+          "title": "400-Pounds of Marijuana Floating Off South Florida's Coastline | NBC ..."
+        }, 
+        {
+          "crawl-datetime": "Aug 18, 2014", 
+          "link": "http://www.nbcmiami.com/news/local/Computer-System-Causes-Delay-at-Miami-International-Airport-271660931.html", 
+          "page": 1, 
+          "snippet": "Officials say the U.S. Customs and Border Protection computer system went down around 6 p.m., forcing them to use a backup system.", 
+          "title": "Computer Glitch Causes Delays at Miami International Airport | NBC 6 ..."
+        }, 
+        {
+          "crawl-datetime": "Nov 14, 2016", 
+          "link": "http://www.nbcmiami.com/news/local/Customs-Agents-Disrupt-Covert-Arms-Shipment-From-Miami-Airport-401097995.html", 
+          "page": 1, 
+          "snippet": "VideoDelays at Local Airports After US Customs Outage. 3 ... Customs agents at Miami International Airport say a shipment of what looked like car ... El Nuevo Herald reports that U.S. Customs and Border Protection agents\u00a0...", 
+          "title": "Customs Agents Disrupt Covert Arms Shipment Arriving at Miami Airport"
+        }, 
+        {
+          "crawl-datetime": "Nov 29, 2016", 
+          "link": "http://www.nbcmiami.com/news/local/Major-Crash-Involving-Semi-Truck-Shuts-Down-US-1-in-Southwest-Miami-Dade-403542706.html", 
+          "page": 1, 
+          "snippet": "1 Killed in Crash Involving Semi Truck That Shut Down US-1 in Southwest Miami- ... VideoDelays at Local Airports After US Customs Outage. 4.", 
+          "title": "1 Killed in Crash Involving Semi Truck That Shut Down US-1 in ..."
+        }, 
+        {
+          "crawl-datetime": "Mar 28, 2016", 
+          "link": "http://www.nbcmiami.com/news/local/Shooting-on-Palmetto-in-Miami-Dade-Causing-Traffic-Delays-373785291.html", 
+          "page": 1, 
+          "snippet": "Shooting on Palmetto in Miami-Dade Causes Traffic Delays. Trending Stories. 1. VideoDelays at Local Airports After US Customs Outage. 2.", 
+          "title": "Shooting on Palmetto in Miami-Dade Causes Traffic Delays | NBC 6 ..."
+        }, 
+        {
+          "crawl-datetime": "", 
+          "link": "http://www.nbcmiami.com/news/local/US-Customs-and-Border-Protection-Outage-Affects-South-Florida-Travelers-409394005.html", 
+          "page": 1, 
+          "snippet": "NBC 6's Stephanie Bertini reports on the delays at South Florida airports that were triggered by a multi-state outage of the U.S. Customs system\u00a0...", 
+          "title": "Delays at South Florida Airports After US Customs and Border ..."
+        }, 
+        {
+          "crawl-datetime": "", 
+          "link": "http://www.nbcmiami.com/news/local/US-Customs-and-Border-Protection-Outage-Affects-South-Florida-Travelers-409394005.html?_osource=SocialFlowFB_MIBrand", 
+          "page": 1, 
+          "snippet": "US Customs and Border Protection Outage Affects South Florida ... Expect delays in passenger processing until the system is restored.", 
+          "title": "US Customs and Border Protection Outage Affects South Florida ..."
+        }, 
+        {
+          "crawl-datetime": "", 
+          "link": "http://www.nbcmiami.com/news/national-international/Customs-and-Border-Outage-Stalls-Travelers-409397025.html", 
+          "page": 1, 
+          "snippet": "A nationwide outage for Customs and Border Protection has left throngs of people dealing with significant delays in South Florida, Atlanta and Boston, ... A spokesman for U.S. Customs and Border Protection, NBC News\u00a0...", 
+          "title": "Customs and Border System Outage Stalls Travelers at Multiple ..."
+        }
+      ], 
+      "source": {
+        "city-county-lat": 25.779076, 
+        "city-county-long": -80.19782, 
+        "city-county-name": "Miami", 
+        "country": "USA", 
+        "exclude": false, 
+        "facebook": "https://www.facebook.com/NBCMiami", 
+        "media-kind": "", 
+        "media-type": "tv", 
+        "miles": 6.18, 
+        "name": "WTVJ", 
+        "open-search": [], 
+        "rss": [
+          "http://www.nbcmiami.com/news/top-stories/?rss=y"
+        ], 
+        "state": "FL", 
+        "twitter": "http://www.twitter.com/nbc6", 
+        "video": "http://www.youtube.com/user/NBCMiamiMarketing", 
+        "website": "http://www.nbcmiami.com/"
+      }
+    }
+  ], 
+  "collectionName": "", 
+  "country": "USA", 
+  "maximum-links-per-source": 15, 
+  "query": "US Customs delays", 
+  "query-id": "usa-33126-us-customs-delays-15-2017-01-05", 
+  "self-collection": [
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Athemiamihurricane.com"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Acommunitynewspapers.com"
+    }, 
+    {
+      "deleted": true, 
+      "search-uri": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Aelnuevoherald.com"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Amiamiherald.com"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Amiaminewtimes.com"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Amiamitimesonline.com"
+    }, 
+    {
+      "deleted": true, 
+      "search-uri": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Amiamitodaynews.com"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Amiami.com"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Amiami.cbslocal.com"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Amiami.cbslocal.com"
+    }, 
+    {
+      "deleted": true, 
+      "search-uri": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Awlrn.org"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Awpbt2.org"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Alocal10.com"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Awsvn.com"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=US%20Customs%20delays%20site%3Anbcmiami.com"
+    }
+  ], 
+  "self-lmg": "http://www.localmemory.org/api/USA/33126/15/?off=radio", 
+  "state": "FL", 
+  "timestamp": "2017-01-05T20:41:33Z", 
+  "user-id": "lmp-test", 
+  "zipcode": "33126"
+}

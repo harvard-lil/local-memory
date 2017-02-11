@@ -1,1 +1,783 @@
-{"self_lmg": "http://www.localmemory.org/api/USA/20008/20/?off=radio", "country": "USA", "maximumLinksPerSource": "20", "collection": [{"source": {"openSearch": [], "cityCountyNameLong": -77.0869, "country": "USA", "cityCountyName": "American", "Twitter": "http://www.twitter.com/TheEagleOnline", "Video": "http://www.youtube.com/user/AUATV", "rss": [], "website": "http://www.theeagleonline.com/", "miles": 1.44, "cityCountyNameLat": 38.9374, "name": "Eagle", "Facebook": "https://www.facebook.com/theaueagle", "type": "Newspaper - college", "state": "DC"}, "links": []}, {"source": {"openSearch": [], "cityCountyNameLong": -77.0723, "country": "USA", "cityCountyName": "Georgetown", "Twitter": "http://www.twitter.com/thehoya", "Video": "http://www.youtube.com/user/TheHoyaOnline", "rss": ["http://www.thehoya.com/feed/", "http://www.thehoya.com/comments/feed/"], "website": "http://www.thehoya.com/", "miles": 1.99, "cityCountyNameLat": 38.9076, "name": "Hoya", "Facebook": "https://www.facebook.com/thehoya", "type": "Newspaper - college", "state": "DC"}, "links": []}, {"source": {"openSearch": [], "cityCountyNameLong": -77.0723, "country": "USA", "cityCountyName": "Georgetown", "Twitter": "http://www.twitter.com/GtownVoice", "Video": "http://www.youtube.com/user/georgetownvoice", "rss": ["http://georgetownvoice.com/feed/", "http://georgetownvoice.com/comments/feed/", "http://georgetownvoice.com/home-2/feed/"], "website": "http://georgetownvoice.com/", "miles": 1.99, "cityCountyNameLat": 38.9076, "name": "Voice", "Facebook": "", "type": "Newspaper - college", "state": "DC"}, "links": []}, {"source": {"openSearch": [], "cityCountyNameLong": -77.0194, "country": "USA", "cityCountyName": "Howard University", "Twitter": "http://www.twitter.com/thehilltop", "Video": "http://www.youtube.com/user/thehilltopnewspaper", "rss": ["http://thehilltoponline.com/feed/", "http://thehilltoponline.com/comments/feed/"], "website": "http://www.thehilltoponline.com/", "miles": 2.36, "cityCountyNameLat": 38.9227, "name": "Hilltop", "Facebook": "https://www.facebook.com/pages/The-Hilltop/149013485111916", "type": "Newspaper - college", "state": "DC"}, "links": []}, {"source": {"openSearch": [], "cityCountyNameLong": -77.0486, "country": "USA", "cityCountyName": "George Washington", "Twitter": "http://www.twitter.com/gwhatchet", "Video": "", "rss": [], "website": "http://www.gwhatchet.com/", "miles": 2.51, "cityCountyNameLat": 38.8997, "name": "GW Hatchet", "Facebook": "https://www.facebook.com/gwhatchet", "type": "Newspaper - college", "state": "DC"}, "links": [{"snippet": "... amps Wednesday at Comet Ping Pong, as Night Beats took crowds into ... at the dual pizza-place and concert venue, rapidly and energetically ... \u201cThis one song, 'At the Gates' was kind of an R&B, sax and keys sort of thing.\u201d.", "link": "http://blogs.gwhatchet.com/btb/2013/11/14/night-beats-bring-southern-psychedelic-rock-and-guitar-fuzz-to-d-c/", "title": "Night Beats bring southern psychedelic rock and guitar fuzz to DC", "page": 1, "singleTweetPath": "/Guitariststweet/status/401237833853067265", "archivedDomain": 263, "crawlDatetime": "Nov 14, 2013", "archived": true}]}, {"source": {"openSearch": [], "cityCountyNameLong": -77.01732, "country": "USA", "cityCountyName": "Washington", "Twitter": "http://www.twitter.com/ambazaarmag", "Video": "http://www.youtube.com/americanbazaar", "rss": ["http://www.americanbazaaronline.com/feed/", "http://www.americanbazaaronline.com/comments/feed/"], "website": "http://www.americanbazaaronline.com/", "miles": 2.98, "cityCountyNameLat": 38.907711, "name": "American Bazaar", "Facebook": "https://www.facebook.com/americanbazaaronline", "type": "Newspaper - cityCounty", "state": "DC"}, "links": []}, {"source": {"openSearch": [], "cityCountyNameLong": -77.01732, "country": "USA", "cityCountyName": "Washington", "Twitter": "http://www.twitter.com/dcspotlight", "Video": "http://www.youtube.com/user/DCSpotlight", "rss": ["http://www.dcspotlight.com/feed/", "http://www.dcspotlight.com/comments/feed/", "http://www.dcspotlight.com/home-test/feed/"], "website": "http://www.dcspotlight.com/", "miles": 2.98, "cityCountyNameLat": 38.907711, "name": "DC Spotlight", "Facebook": "https://www.facebook.com/dcspotlight", "type": "Newspaper - cityCounty", "state": "DC"}, "links": []}, {"source": {"openSearch": [], "cityCountyNameLong": -77.01732, "country": "USA", "cityCountyName": "Washington", "Twitter": "http://www.twitter.com/politico", "Video": "https://www.youtube.com/user/thepolitico", "rss": ["http://www.politico.com/rss/politicopicks.xml"], "website": "http://www.politico.com/", "miles": 2.98, "cityCountyNameLat": 38.907711, "name": "Politico", "Facebook": "https://www.facebook.com/politico", "type": "Newspaper - cityCounty", "state": "DC"}, "links": [{"snippet": "\u201cPlanted Comet Pizza Gunman will be used to push for censorship of ... For weeks, Comet Ping Pong has been the victim of false news stories\u00a0...", "link": "http://www.politico.com/story/2016/12/incoming-national-security-advisers-son-spreads-fake-news-about-dc-pizza-shop-232181", "title": "Incoming national security adviser's son spreads fake news about ...", "page": 1, "singleTweetPath": "/WahcaMia/status/819768263810744320", "archivedDomain": 24809, "crawlDatetime": "Dec 4, 2016", "archived": true}, {"snippet": "One such conspiracy theory was \u201cPizza Gate,\" the cause of an armed assault ... a child sex trafficking ring out of the Comet Ping Pong pizzeria.", "link": "http://www.politico.com/story/2016/12/michael-flynn-jr-security-clearance-mike-pence-232270", "title": "Pence aide denies security clearance was requested for Flynn Jr.", "page": 1, "singleTweetPath": "/AM950Radio/status/807661411530776576", "archivedDomain": 24809, "crawlDatetime": "Dec 6, 2016", "archived": true}, {"snippet": "Part gate-keeper, part brain trust and part boots on the ground, Heritage .... Alefantis, owner of a local pizza restaurant called Comet Ping Pong,\u00a0...", "link": "http://www.politico.com/tipsheets/playbook/2016/11/joe-and-mika-trump-wh-will-not-pursue-clinton-investigation-trumps-first-100-days-the-power-of-the-pen-pelosis-pushback-pence-gets-a-round-of-applause-at-martins-in-georgetown-ashley-parker-to-wapo-217517", "title": "POLITICO's must-read briefing on what's driving the day in Washington", "page": 1, "singleTweetPath": "/cgnetwork/status/801064704928088064", "archivedDomain": 24809, "crawlDatetime": "Nov 22, 2016", "archived": true}, {"snippet": "PRESIDENTIAL PIZZA: Maddy Beckwith, Ezekiel Emanuel, Tony Podesta and Chris ... policy adviser Maya Harris, and pizza chef James Alefantis of Comet Ping Pong. ... K&L Gates LLP: The First Church of Christ, Scientist", "link": "http://www.politico.com/tipsheets/politico-influence/2016/03/etsy-registers-podesta-for-sberbank-lend-lease-cov-for-bacardi-livingston-for-curacao-and-st-maarten-pizza-for-hillary-213495", "title": "Etsy registers", "page": 1, "singleTweetPath": "/JimDandy_/status/803220226976444416", "archivedDomain": 24809, "crawlDatetime": "Mar 31, 2016", "archived": true}]}, {"source": {"openSearch": [], "cityCountyNameLong": -77.01732, "country": "USA", "cityCountyName": "Washington", "Twitter": "http://www.twitter.com/ROLLCALL", "Video": "https://www.youtube.com/user/RollCallVideo", "rss": [], "website": "http://www.rollcall.com/", "miles": 2.98, "cityCountyNameLat": 38.907711, "name": "Roll Call", "Facebook": "https://www.facebook.com/RollCall", "type": "Newspaper - cityCounty", "state": "DC"}, "links": []}, {"source": {"openSearch": [], "cityCountyNameLong": -77.01732, "country": "USA", "cityCountyName": "Washington", "Twitter": "http://www.twitter.com/thehill", "Video": "", "rss": [], "website": "http://thehill.com/", "miles": 2.98, "cityCountyNameLat": 38.907711, "name": "The Hill", "Facebook": "https://www.facebook.com/TheHill", "type": "Newspaper - cityCounty", "state": "DC"}, "links": [{"snippet": "... became obsessed with the baseless theory that the Comet Ping Pong pizzeria doubles as a front for a high-level Democratic pedophile ring.", "link": "http://thehill.com/blogs/blog-briefing-room/310218-feds-alleged-pizzagate-gunman-circulated-infowars-conspiracy-video", "title": "Feds: alleged 'Pizzagate' gunman circulated InfoWars conspiracy ...", "page": 1, "singleTweetPath": "/ispas88/status/812548774644109313", "archivedDomain": 8849, "crawlDatetime": "Dec 13, 2016", "archived": false}, {"snippet": "Michael Flynn Jr. on Sunday tweeted about the false story after an armed man entered Comet Ping Pong in Northwest D.C. and claimed to be\u00a0...", "link": "http://thehill.com/homenews/campaign/308723-flynns-son-spreads-conspiracy-theory-about-dc-pizza-shop", "title": "Flynn's son spreads conspiracy theory about DC pizza shop", "page": 1, "singleTweetPath": "/sarahlicity/status/806236763173908480", "archivedDomain": 8849, "crawlDatetime": "Dec 5, 2016", "archived": false}]}, {"source": {"openSearch": [], "cityCountyNameLong": -77.01732, "country": "USA", "cityCountyName": "Washington", "Twitter": "http://www.twitter.com/townhallcom", "Video": "http://www.youtube.com/user/townhall", "rss": [], "website": "http://townhall.com/", "miles": 2.98, "cityCountyNameLat": 38.907711, "name": "Town Hall", "Facebook": "https://www.facebook.com/townhallcom", "type": "Newspaper - cityCounty", "state": "DC"}, "links": [{"snippet": "We are confident that Comet Ping Pong will continue to be a safe, happy ... Welch was there \"to self-investigate 'Pizza Gate' (a fictitious online\u00a0...", "link": "http://townhall.com/news/politics-elections/2016/12/05/washington-pizzeria-to-stay-open-despite-shooting-over-fake-news-n2255356", "title": "Washington pizzeria to stay open despite shooting over fake news", "page": 1, "singleTweetPath": "", "archivedDomain": 10840, "crawlDatetime": "", "archived": true}]}, {"source": {"openSearch": [], "cityCountyNameLong": -77.01732, "country": "USA", "cityCountyName": "Washington", "Twitter": "http://www.twitter.com/WBJonline", "Video": "http://www.youtube.com/user/WBJOnline", "rss": [], "website": "http://www.bizjournals.com/washington/", "miles": 2.98, "cityCountyNameLat": 38.907711, "name": "Washington Business Jrnl", "Facebook": "https://www.facebook.com/wbjonline", "type": "Newspaper - cityCounty", "state": "DC"}, "links": [{"snippet": "Comet, the popular pizza restaurant in the 5000 block of Connecticut in the ... to self-investigate 'Pizza Gate' (a fictitious online conspiracy theory).\" ... \"Comet Ping Pong, like any respectable venue, is dedicated to creating a\u00a0...", "link": "http://www.bizjournals.com/washington/news/2016/12/05/comet-ping-pong-visited-by-armed-man-who-sought-to.html", "title": "Comet Ping Pong visited by armed man who sought to 'self ...", "page": 1, "singleTweetPath": "/WBJonline/status/805948375120093184", "archivedDomain": 12449, "crawlDatetime": "Dec 5, 2016", "archived": true}]}, {"source": {"openSearch": [], "cityCountyNameLong": -77.01732, "country": "USA", "cityCountyName": "Washington", "Twitter": "http://www.twitter.com/wcp", "Video": "http://www.youtube.com/user/cpweb", "rss": ["/feeds"], "website": "http://www.washingtoncitypaper.com/", "miles": 2.98, "cityCountyNameLat": 38.907711, "name": "Washington City Paper", "Facebook": "https://www.facebook.com/pages/Washington-City-Paper/215221115275", "type": "Newspaper - cityCounty", "state": "DC"}, "links": [{"snippet": "Then there's our online Pizza Gate piece, about alt-right conspiracy theorists claiming that pizza joint Comet Ping Pong is a pedophiliac sex\u00a0...", "link": "http://www.washingtoncitypaper.com/columns/article/20844068/chatter-altspite", "title": "Chatter: Alt-Spite", "page": 1, "singleTweetPath": "/LKirup/status/800784850596728833", "archivedDomain": 3245, "crawlDatetime": "Nov 18, 2016", "archived": true}, {"snippet": "Say you have a great meal at Comet Ping Pong and want to leave the Upper Northwest restaurant a four- or five-star review. Before you can\u00a0...", "link": "http://www.washingtoncitypaper.com/news/article/20842321/the-consequences-of-pizza-gate-are-real-at-comet-ping-pong", "title": "The Consequences of 'Pizza Gate' are Real at Comet Ping Pong", "page": 1, "singleTweetPath": "/jeffrense77/status/817843203495829505", "archivedDomain": 3245, "crawlDatetime": "Nov 15, 2016", "archived": true}, {"snippet": "The suspect told police he went to Comet Ping Pong to \"self investigate 'pizza gate,'\" which D.C. Police characterize as \"a fictitious online\u00a0...", "link": "http://www.washingtoncitypaper.com/news/article/20845716/man-armed-with-an-assault-rifle-arrested-at-comet-ping-pong", "title": "Man Armed With an Assault Rifle Arrested at Comet Ping Pong", "page": 1, "singleTweetPath": "/kevinhvollmers/status/805770418623774720", "archivedDomain": 3245, "crawlDatetime": "Dec 4, 2016", "archived": true}, {"snippet": "Conspiracy theorists have increased internet attacks on the Chevy Chase pizzeria Comet Ping Pong, even though the election is over.", "link": "http://www.washingtoncitypaper.com/news/city-desk/article/20843641/district-line-daily-pizza-gate-intensifies", "title": "District Line Daily: 'Pizza Gate' Intensifies", "page": 1, "singleTweetPath": "/tatzanx/status/799718883871621120", "archivedDomain": 3245, "crawlDatetime": "Nov 16, 2016", "archived": true}]}, {"source": {"openSearch": [], "cityCountyNameLong": -77.01732, "country": "USA", "cityCountyName": "Washington", "Twitter": "http://www.twitter.com/washexaminer", "Video": "http://www.youtube.com/user/dcexaminer", "rss": [], "website": "http://washingtonexaminer.com/", "miles": 2.98, "cityCountyNameLat": 38.907711, "name": "Washington Examiner", "Facebook": "https://www.facebook.com/washingtonexaminer", "type": "Newspaper - cityCounty", "state": "DC"}, "links": [{"snippet": "Comet Ping Pong still being 'terrorized' nearly two weeks after attack. 10:55 PM ... Armed man arrested at Comet Ping Pong makes first federal court appearance.", "link": "http://www.washingtonexaminer.com/section/fake-news", "title": "Fake News Articles | Washington Examiner", "page": 1, "singleTweetPath": "", "archivedDomain": 2280, "crawlDatetime": "", "archived": false}]}, {"source": {"openSearch": [], "cityCountyNameLong": -77.01732, "country": "USA", "cityCountyName": "Washington", "Twitter": "http://www.twitter.com/washingtonpost", "Video": "http://www.youtube.com/user/WashingtonPost", "rss": [], "website": "http://www.washingtonpost.com/", "miles": 2.98, "cityCountyNameLat": 38.907711, "name": "Washington Post", "Facebook": "https://www.facebook.com/washingtonpost", "type": "Newspaper - cityCounty", "state": "DC"}, "links": [{"snippet": "\u201cI could eat pizza every day,\u201d says Conte, who started making pies in high ... Plans for the pizzeria, expected to roll out no later than March,\u00a0...", "link": "https://live.washingtonpost.com/ask-tom-010715.html", "title": "Ask Tom: Rants, raves and questions on the DC dining scene", "page": 1, "singleTweetPath": "", "archivedDomain": 3061, "crawlDatetime": "Dec 31, 2014", "archived": true}, {"snippet": "Every Thursday, the Going Out Guide staff discusses concerts, happy hours, cheap date ideas, weekend getaways, new exhibits and other\u00a0...", "link": "https://live.washingtonpost.com/got-plans-03-13-2014.html", "title": "Got Plans: Advice from the Going Out Guide", "page": 1, "singleTweetPath": "", "archivedDomain": 3061, "crawlDatetime": "Mar 10, 2014", "archived": true}, {"snippet": "The following are key moments in the life of Walter Fauntroy, a politician, preacher and civil rights leader who served for 20 years as Washington's first nonvoting\u00a0...", "link": "https://www.washingtonpost.com/apps/g/page/local/timeline-walter-fauntroy/1634/", "title": "Timeline: Walter Fauntroy", "page": 1, "singleTweetPath": "", "archivedDomain": 181609, "crawlDatetime": "Mar 21, 2015", "archived": true}, {"snippet": "703-465-7675. www.continentalpoollounge.com, Comet Ping Pong, 5037 .... There's the usual array of pizza, fries and other snacks, but the quality ... aim at an unlikely target, because the pearly gates of dart heaven dwell in a\u00a0...", "link": "https://www.washingtonpost.com/goingoutguide/no-sweat-olympics/2012/07/26/gJQASRqUBX_story.html", "title": "No-sweat Olympics", "page": 1, "singleTweetPath": "", "archivedDomain": 181609, "crawlDatetime": "Jul 26, 2012", "archived": true}, {"snippet": "But those early years were dark ones for D.C. pizza. ... which kicked off a wave of upscale pizzerias: Matchbox, Comet Ping Pong and Pete's\u00a0...", "link": "https://www.washingtonpost.com/news/going-out-guide/wp/2013/07/09/a-short-history-of-good-d-c-pizza/", "title": "A short history of good DC pizza", "page": 1, "singleTweetPath": "", "archivedDomain": 181609, "crawlDatetime": "Jul 9, 2013", "archived": false}, {"snippet": "These are no ordinary pieces of pizza - a mac and cheese slice, anyone? .... too . . . to see Hillary Clinton and Robert Gates discuss foreign policy. ... Next, stroll two doors down to Comet Ping Pong to sample the extensive\u00a0...", "link": "https://www.washingtonpost.com/news/going-out-guide/wp/2015/09/17/get-schooled-on-the-d-c-areas-major-college-campuses/", "title": "Get schooled on the DC area's Division I university campuses", "page": 1, "singleTweetPath": "", "archivedDomain": 181609, "crawlDatetime": "Sep 17, 2015", "archived": true}, {"snippet": "Police said 28-year-old Edgar Maddison Welch, of Salisbury, N.C., walked in the front door of Comet Ping Pong and pointed a firearm in the\u00a0...", "link": "https://www.washingtonpost.com/news/local/wp/2016/12/04/d-c-police-respond-to-report-of-a-man-with-a-gun-at-comet-ping-pong-restaurant/", "title": "NC man told police he went to DC pizzeria with gun to investigate ...", "page": 1, "singleTweetPath": "/GrahamDavidA/status/818977455780331520", "archivedDomain": 181609, "crawlDatetime": "Dec 5, 2016", "archived": true}]}, {"source": {"openSearch": [], "cityCountyNameLong": -77.01732, "country": "USA", "cityCountyName": "Washington", "Twitter": "http://www.twitter.com/washtimes", "Video": "http://www.youtube.com/user/washingtontimes", "rss": [], "website": "http://www.washingtontimes.com/", "miles": 2.98, "cityCountyNameLat": 38.907711, "name": "Washington Times", "Facebook": "https://www.facebook.com/pages/WashingtonTimescom/35994014410", "type": "Newspaper - cityCounty", "state": "DC"}, "links": [{"snippet": "... North Carolina, entered Comet Ping Pong and pointed a gun in the ... he came to the establishment to self-investigate \u201cPizza Gate,\u201d which\u00a0...", "link": "http://www.washingtontimes.com/news/2016/dec/4/edgar-maddison-welch-arrested-after-bringing-gun-c/", "title": "Edgar Maddison Welch arrested after bringing gun to Comet Ping ...", "page": 1, "singleTweetPath": "/snakecharmr1024/status/806382030145683462", "archivedDomain": 22699, "crawlDatetime": "Dec 4, 2016", "archived": true}, {"snippet": "The front door of Comet Ping Pong pizza shop, in Washington, Monday, ... \u201cMichael \u2014 the police called pizza gate a fictitious conspiracy theory\u00a0...", "link": "http://www.washingtontimes.com/news/2016/dec/6/trump-camp-confirms-michael-flynn-jr-transition-te/", "title": "Trump camp confirms Michael Flynn Jr. off transition team as ...", "page": 1, "singleTweetPath": "/mannucciao/status/806431829356118018", "archivedDomain": 22699, "crawlDatetime": "Dec 6, 2016", "archived": true}, {"snippet": "James Alefantis, a Washington, D.C., insider and the owner of a restaurant called Comet Ping Pong, has come under fire after internet sleuths\u00a0...", "link": "http://www.washingtontimes.com/news/2016/nov/22/james-alefantis-dc-power-player-blasts-insane-redd/", "title": "James Alefantis, D.C. power-player, blasts 'insane' Reddit sleuthing ...", "page": 1, "singleTweetPath": "/trthseeker6/status/818430291496882176", "archivedDomain": 22699, "crawlDatetime": "Nov 22, 2016", "archived": true}]}, {"source": {"openSearch": [], "cityCountyNameLong": -77.01732, "country": "USA", "cityCountyName": "Washington", "Twitter": "http://www.twitter.com/CMoreDC", "Video": "", "rss": [], "website": "http://www.fox5dc.com/my20dc", "miles": 2.98, "cityCountyNameLat": 38.907711, "name": "WDCA", "Facebook": "https://www.facebook.com/my20dc", "type": "TV", "state": "DC"}, "links": [{"snippet": "... ring out of a pizza place fired an assault rifle inside the Washington, ... with an assault rifle entered the Comet Ping Pong Sunday afternoon.", "link": "http://www.fox5dc.com/news/221479396-story", "title": "Police: Suspect 'investigating' conspiracy theory arrested after firing ...", "page": 1, "singleTweetPath": "/qdotclass/status/806139066127437824", "archivedDomain": 3516, "crawlDatetime": "Dec 5, 2016", "archived": true}]}, {"source": {"openSearch": ["http://dcw50.com/osd.xml", "https://s1.wp.com/opensearch.xml"], "cityCountyNameLong": -77.01732, "country": "USA", "cityCountyName": "Washington", "Twitter": "http://www.twitter.com/DCW50", "Video": "", "rss": ["http://dcw50.com/feed/", "http://dcw50.com/comments/feed/"], "website": "http://dc50tv.com/", "miles": 2.98, "cityCountyNameLat": 38.907711, "name": "WDCW", "Facebook": "https://www.facebook.com/DCW50", "type": "TV", "state": "DC"}, "links": []}, {"source": {"openSearch": [], "cityCountyNameLong": -77.01732, "country": "USA", "cityCountyName": "Washington", "Twitter": "http://www.twitter.com/wetatvfm", "Video": "", "rss": [], "website": "http://www.weta.org/tv", "miles": 2.98, "cityCountyNameLat": 38.907711, "name": "WETA", "Facebook": "https://www.facebook.com/wetatvfm", "type": "TV", "state": "DC"}, "links": []}, {"source": {"openSearch": [], "cityCountyNameLong": -77.01732, "country": "USA", "cityCountyName": "Washington", "Twitter": "http://www.twitter.com/ABC7News", "Video": "https://www.youtube.com/user/ABC7DC", "rss": [], "website": "http://www.wjla.com/", "miles": 2.98, "cityCountyNameLat": 38.907711, "name": "WJLA", "Facebook": "https://www.facebook.com/wjlatv", "type": "TV", "state": "DC"}, "links": [{"snippet": "FRIENDSHIP HEIGHTS, Md. (WJLA) - New parking meters will be installed in Friendship Heights to deter crime and create a safer shopping\u00a0...", "link": "http://wjla.com/news/crime/parking-meters-will-be-installed-to-deter-crime-in-friendship-heights-113855", "title": "Parking meters will be installed to deter crime in Friendship Heights", "page": 1, "singleTweetPath": "", "archivedDomain": 7709, "crawlDatetime": "May 10, 2015", "archived": true}, {"snippet": "SPOTSYLVANIA COUNTY, Va. (ABC7) \u2014 Authorities are calling on the public for any information regarding the disappearance of a 19-year-old\u00a0...", "link": "http://wjla.com/news/local/authorities-ask-public-for-help-on-1-year-anniversary-of-va-teens-disappearance", "title": "Authorities ask public for help on 1-year anniversary of Va. teen's ...", "page": 1, "singleTweetPath": "/LindseyMastis/status/805870607531380736", "archivedDomain": 7709, "crawlDatetime": "Dec 5, 2016", "archived": true}, {"snippet": "Bei Bei got two shots and blood drawn last week, and managed to stay still during the procedure, according to the zoo. He was rewarded with\u00a0...", "link": "http://wjla.com/news/local/bei-bei-exceeds-veterinarians-expectations", "title": "Bei Bei impresses vets, handles shots like a pro", "page": 1, "singleTweetPath": "/AVMAvets/status/788073414695260160", "archivedDomain": 7709, "crawlDatetime": "Oct 14, 2016", "archived": true}, {"snippet": "WASHINGTON (WJLA) -- D.C. fire investigators were trying to determine the cause of a Wednesday fire at a storefront building in Georgetown.", "link": "http://wjla.com/news/local/fire-in-georgetown-damages-shoe-store-along-m-street-111793", "title": "Georgetown fire damages storefront building along M Street", "page": 1, "singleTweetPath": "", "archivedDomain": 7709, "crawlDatetime": "Feb 25, 2015", "archived": true}, {"snippet": "WHITE PLAINS, Md. (ABC7) \u2014 A 42-year-old man was killed in a motorcycle crash in White Plains, Md., police said. Police said on February 28\u00a0...", "link": "http://wjla.com/news/local/police-man-killed-in-motorcycle-crash-in-charles-county", "title": "Police: Man killed in motorcycle crash in Charles County", "page": 1, "singleTweetPath": "", "archivedDomain": 7709, "crawlDatetime": "Feb 29, 2016", "archived": false}, {"snippet": "... rifle in Comet Ping Pong in name of 'Pizza Gate' held without bond ... Police say Welch walked into the pizza shop and pointed the rifle at an\u00a0...", "link": "http://wjla.com/news/local/police-man-who-fired-rifle-in-comet-ping-pong-in-name-of-pizza-gate-also-had-shotgun", "title": "Police: Man who fired rifle in Comet Ping Pong in name of 'Pizza ...", "page": 1, "singleTweetPath": "/Protest_Works/status/806093853937778688", "archivedDomain": 7709, "crawlDatetime": "Dec 5, 2016", "archived": true}, {"snippet": "FILE - In this Nov. 14, 2016 file photo, Justin Ross Harris sits with his defense team in the Glynn County Courthouse in Brunswick, Ga. Harris\u00a0...", "link": "http://wjla.com/news/nation-world/man-convicted-of-murder-in-hot-car-death-to-be-sentenced-12-05-2016", "title": "Man convicted in son's hot-car death gets life, no parole", "page": 1, "singleTweetPath": "", "archivedDomain": 7709, "crawlDatetime": "Dec 5, 2016", "archived": false}, {"snippet": "NORTHAMPTON, Mass. (AP) \u2014 Two suspects in a weekend break-in at a Massachusetts convenience store had a fowl accomplice.", "link": "http://wjla.com/news/offbeat/police-nab-suspects-fowl-accomplice-in-break-in", "title": "Police nab suspects, fowl accomplice in break-in", "page": 1, "singleTweetPath": "/LAVAR56/status/805903447723741184", "archivedDomain": 7709, "crawlDatetime": "Dec 5, 2016", "archived": true}, {"snippet": "BRIDGEVILLE, Pa. (AP) \u2014 Police in one Pennsylvania town have sent an armed robbery suspect a message on Facebook, and it's not\u00a0...", "link": "http://wjla.com/news/offbeat/police-send-gas-station-robbery-suspect-facebook-message-12-05-2016-164955642", "title": "Police send gas station robbery suspect Facebook message", "page": 1, "singleTweetPath": "/NewsChannel8/status/805820869591367680", "archivedDomain": 7709, "crawlDatetime": "Dec 5, 2016", "archived": true}, {"snippet": "Scottsdale Scorpions outfielder Tim Tebow waits with a fan following Tebow's debut against the Glendale Desert Dogs on Tuesday, Oct. 11,\u00a0...", "link": "http://wjla.com/sports/content/tebow-aids-ill-fan-after-1st-arizona-fall-league-game", "title": "Tebow aids ill fan after 1st Arizona Fall League game", "page": 1, "singleTweetPath": "/NewsChannel8/status/786020948189253632", "archivedDomain": 7709, "crawlDatetime": "Oct 11, 2016", "archived": true}]}], "_id": "lmp-test_usa-20008-pizza-gate-comet-ping-pong-20-2017-01-05-nv", "state": "DC", "zipcode": "20008", "userID": "lmp-test", "queryID": "usa-20008-pizza-gate-comet-ping-pong-20-2017-01-05-nv", "Lat": 38.934866, "city": "Washington", "query": "Pizza Gate Comet Ping Pong", "collectionName": "Pizzagate, Fake news", "self_collection": [{"searchURI": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Atheeagleonline.com&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Athehoya.com&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Ageorgetownvoice.com&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Athehilltoponline.com&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Agwhatchet.com&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Aamericanbazaaronline.com&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Adcspotlight.com&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Apolitico.com&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Arollcall.com&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Athehill.com&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Atownhall.com&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Abizjournals.com&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Awashingtoncitypaper.com&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Awashingtonexaminer.com&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Awashingtonpost.com&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Awashingtontimes.com&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Afox5dc.com&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Adc50tv.com&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Aweta.org&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Awjla.com&tbm=nws", "deleted": false}], "Long": -77.06039, "timestamp": "2017-01-05T20:18:26Z"}
+{
+  "_id": "lmp-test_usa-20008-pizza-gate-comet-ping-pong-20-2017-01-05-nv", 
+  "city": "Washington", 
+  "city-latitude": 38.934866, 
+  "city-longitude": -77.06039, 
+  "collection": [
+    {
+      "links": [], 
+      "source": {
+        "city-county-lat": 38.9374, 
+        "city-county-long": -77.0869, 
+        "city-county-name": "American", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/theaueagle", 
+        "media-kind": "college", 
+        "media-type": "newspaper", 
+        "miles": 1.44, 
+        "name": "Eagle", 
+        "open-search": [], 
+        "rss": [], 
+        "state": "DC", 
+        "twitter": "http://www.twitter.com/TheEagleOnline", 
+        "video": "http://www.youtube.com/user/AUATV", 
+        "website": "http://www.theeagleonline.com/"
+      }
+    }, 
+    {
+      "links": [], 
+      "source": {
+        "city-county-lat": 38.9076, 
+        "city-county-long": -77.0723, 
+        "city-county-name": "Georgetown", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/thehoya", 
+        "media-kind": "college", 
+        "media-type": "newspaper", 
+        "miles": 1.99, 
+        "name": "Hoya", 
+        "open-search": [], 
+        "rss": [
+          "http://www.thehoya.com/feed/", 
+          "http://www.thehoya.com/comments/feed/"
+        ], 
+        "state": "DC", 
+        "twitter": "http://www.twitter.com/thehoya", 
+        "video": "http://www.youtube.com/user/TheHoyaOnline", 
+        "website": "http://www.thehoya.com/"
+      }
+    }, 
+    {
+      "links": [], 
+      "source": {
+        "city-county-lat": 38.9076, 
+        "city-county-long": -77.0723, 
+        "city-county-name": "Georgetown", 
+        "country": "USA", 
+        "facebook": "", 
+        "media-kind": "college", 
+        "media-type": "newspaper", 
+        "miles": 1.99, 
+        "name": "Voice", 
+        "open-search": [], 
+        "rss": [
+          "http://georgetownvoice.com/feed/", 
+          "http://georgetownvoice.com/comments/feed/", 
+          "http://georgetownvoice.com/home-2/feed/"
+        ], 
+        "state": "DC", 
+        "twitter": "http://www.twitter.com/GtownVoice", 
+        "video": "http://www.youtube.com/user/georgetownvoice", 
+        "website": "http://georgetownvoice.com/"
+      }
+    }, 
+    {
+      "links": [], 
+      "source": {
+        "city-county-lat": 38.9227, 
+        "city-county-long": -77.0194, 
+        "city-county-name": "Howard University", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/pages/The-Hilltop/149013485111916", 
+        "media-kind": "college", 
+        "media-type": "newspaper", 
+        "miles": 2.36, 
+        "name": "Hilltop", 
+        "open-search": [], 
+        "rss": [
+          "http://thehilltoponline.com/feed/", 
+          "http://thehilltoponline.com/comments/feed/"
+        ], 
+        "state": "DC", 
+        "twitter": "http://www.twitter.com/thehilltop", 
+        "video": "http://www.youtube.com/user/thehilltopnewspaper", 
+        "website": "http://www.thehilltoponline.com/"
+      }
+    }, 
+    {
+      "links": [
+        {
+          "crawl-datetime": "Nov 14, 2013", 
+          "link": "http://blogs.gwhatchet.com/btb/2013/11/14/night-beats-bring-southern-psychedelic-rock-and-guitar-fuzz-to-d-c/", 
+          "page": 1, 
+          "snippet": "... amps Wednesday at Comet Ping Pong, as Night Beats took crowds into ... at the dual pizza-place and concert venue, rapidly and energetically ... \u201cThis one song, 'At the Gates' was kind of an R&B, sax and keys sort of thing.\u201d.", 
+          "title": "Night Beats bring southern psychedelic rock and guitar fuzz to DC"
+        }
+      ], 
+      "source": {
+        "city-county-lat": 38.8997, 
+        "city-county-long": -77.0486, 
+        "city-county-name": "George Washington", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/gwhatchet", 
+        "media-kind": "college", 
+        "media-type": "newspaper", 
+        "miles": 2.51, 
+        "name": "GW Hatchet", 
+        "open-search": [], 
+        "rss": [], 
+        "state": "DC", 
+        "twitter": "http://www.twitter.com/gwhatchet", 
+        "video": "", 
+        "website": "http://www.gwhatchet.com/"
+      }
+    }, 
+    {
+      "links": [], 
+      "source": {
+        "city-county-lat": 38.907711, 
+        "city-county-long": -77.01732, 
+        "city-county-name": "Washington", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/americanbazaaronline", 
+        "media-kind": "city-county", 
+        "media-type": "newspaper", 
+        "miles": 2.98, 
+        "name": "American Bazaar", 
+        "open-search": [], 
+        "rss": [
+          "http://www.americanbazaaronline.com/feed/", 
+          "http://www.americanbazaaronline.com/comments/feed/"
+        ], 
+        "state": "DC", 
+        "twitter": "http://www.twitter.com/ambazaarmag", 
+        "video": "http://www.youtube.com/americanbazaar", 
+        "website": "http://www.americanbazaaronline.com/"
+      }
+    }, 
+    {
+      "links": [], 
+      "source": {
+        "city-county-lat": 38.907711, 
+        "city-county-long": -77.01732, 
+        "city-county-name": "Washington", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/dcspotlight", 
+        "media-kind": "city-county", 
+        "media-type": "newspaper", 
+        "miles": 2.98, 
+        "name": "DC Spotlight", 
+        "open-search": [], 
+        "rss": [
+          "http://www.dcspotlight.com/feed/", 
+          "http://www.dcspotlight.com/comments/feed/", 
+          "http://www.dcspotlight.com/home-test/feed/"
+        ], 
+        "state": "DC", 
+        "twitter": "http://www.twitter.com/dcspotlight", 
+        "video": "http://www.youtube.com/user/DCSpotlight", 
+        "website": "http://www.dcspotlight.com/"
+      }
+    }, 
+    {
+      "links": [
+        {
+          "crawl-datetime": "Dec 4, 2016", 
+          "link": "http://www.politico.com/story/2016/12/incoming-national-security-advisers-son-spreads-fake-news-about-dc-pizza-shop-232181", 
+          "page": 1, 
+          "snippet": "\u201cPlanted Comet Pizza Gunman will be used to push for censorship of ... For weeks, Comet Ping Pong has been the victim of false news stories\u00a0...", 
+          "title": "Incoming national security adviser's son spreads fake news about ..."
+        }, 
+        {
+          "crawl-datetime": "Dec 6, 2016", 
+          "link": "http://www.politico.com/story/2016/12/michael-flynn-jr-security-clearance-mike-pence-232270", 
+          "page": 1, 
+          "snippet": "One such conspiracy theory was \u201cPizza Gate,\" the cause of an armed assault ... a child sex trafficking ring out of the Comet Ping Pong pizzeria.", 
+          "title": "Pence aide denies security clearance was requested for Flynn Jr."
+        }, 
+        {
+          "crawl-datetime": "Nov 22, 2016", 
+          "link": "http://www.politico.com/tipsheets/playbook/2016/11/joe-and-mika-trump-wh-will-not-pursue-clinton-investigation-trumps-first-100-days-the-power-of-the-pen-pelosis-pushback-pence-gets-a-round-of-applause-at-martins-in-georgetown-ashley-parker-to-wapo-217517", 
+          "page": 1, 
+          "snippet": "Part gate-keeper, part brain trust and part boots on the ground, Heritage .... Alefantis, owner of a local pizza restaurant called Comet Ping Pong,\u00a0...", 
+          "title": "POLITICO's must-read briefing on what's driving the day in Washington"
+        }, 
+        {
+          "crawl-datetime": "Mar 31, 2016", 
+          "link": "http://www.politico.com/tipsheets/politico-influence/2016/03/etsy-registers-podesta-for-sberbank-lend-lease-cov-for-bacardi-livingston-for-curacao-and-st-maarten-pizza-for-hillary-213495", 
+          "page": 1, 
+          "snippet": "PRESIDENTIAL PIZZA: Maddy Beckwith, Ezekiel Emanuel, Tony Podesta and Chris ... policy adviser Maya Harris, and pizza chef James Alefantis of Comet Ping Pong. ... K&L Gates LLP: The First Church of Christ, Scientist", 
+          "title": "Etsy registers"
+        }
+      ], 
+      "source": {
+        "city-county-lat": 38.907711, 
+        "city-county-long": -77.01732, 
+        "city-county-name": "Washington", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/politico", 
+        "media-kind": "city-county", 
+        "media-type": "newspaper", 
+        "miles": 2.98, 
+        "name": "Politico", 
+        "open-search": [], 
+        "rss": [
+          "http://www.politico.com/rss/politicopicks.xml"
+        ], 
+        "state": "DC", 
+        "twitter": "http://www.twitter.com/politico", 
+        "video": "https://www.youtube.com/user/thepolitico", 
+        "website": "http://www.politico.com/"
+      }
+    }, 
+    {
+      "links": [], 
+      "source": {
+        "city-county-lat": 38.907711, 
+        "city-county-long": -77.01732, 
+        "city-county-name": "Washington", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/RollCall", 
+        "media-kind": "city-county", 
+        "media-type": "newspaper", 
+        "miles": 2.98, 
+        "name": "Roll Call", 
+        "open-search": [], 
+        "rss": [], 
+        "state": "DC", 
+        "twitter": "http://www.twitter.com/ROLLCALL", 
+        "video": "https://www.youtube.com/user/RollCallVideo", 
+        "website": "http://www.rollcall.com/"
+      }
+    }, 
+    {
+      "links": [
+        {
+          "crawl-datetime": "Dec 13, 2016", 
+          "link": "http://thehill.com/blogs/blog-briefing-room/310218-feds-alleged-pizzagate-gunman-circulated-infowars-conspiracy-video", 
+          "page": 1, 
+          "snippet": "... became obsessed with the baseless theory that the Comet Ping Pong pizzeria doubles as a front for a high-level Democratic pedophile ring.", 
+          "title": "Feds: alleged 'Pizzagate' gunman circulated InfoWars conspiracy ..."
+        }, 
+        {
+          "crawl-datetime": "Dec 5, 2016", 
+          "link": "http://thehill.com/homenews/campaign/308723-flynns-son-spreads-conspiracy-theory-about-dc-pizza-shop", 
+          "page": 1, 
+          "snippet": "Michael Flynn Jr. on Sunday tweeted about the false story after an armed man entered Comet Ping Pong in Northwest D.C. and claimed to be\u00a0...", 
+          "title": "Flynn's son spreads conspiracy theory about DC pizza shop"
+        }
+      ], 
+      "source": {
+        "city-county-lat": 38.907711, 
+        "city-county-long": -77.01732, 
+        "city-county-name": "Washington", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/TheHill", 
+        "media-kind": "city-county", 
+        "media-type": "newspaper", 
+        "miles": 2.98, 
+        "name": "The Hill", 
+        "open-search": [], 
+        "rss": [], 
+        "state": "DC", 
+        "twitter": "http://www.twitter.com/thehill", 
+        "video": "", 
+        "website": "http://thehill.com/"
+      }
+    }, 
+    {
+      "links": [
+        {
+          "crawl-datetime": "", 
+          "link": "http://townhall.com/news/politics-elections/2016/12/05/washington-pizzeria-to-stay-open-despite-shooting-over-fake-news-n2255356", 
+          "page": 1, 
+          "snippet": "We are confident that Comet Ping Pong will continue to be a safe, happy ... Welch was there \"to self-investigate 'Pizza Gate' (a fictitious online\u00a0...", 
+          "title": "Washington pizzeria to stay open despite shooting over fake news"
+        }
+      ], 
+      "source": {
+        "city-county-lat": 38.907711, 
+        "city-county-long": -77.01732, 
+        "city-county-name": "Washington", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/townhallcom", 
+        "media-kind": "city-county", 
+        "media-type": "newspaper", 
+        "miles": 2.98, 
+        "name": "Town Hall", 
+        "open-search": [], 
+        "rss": [], 
+        "state": "DC", 
+        "twitter": "http://www.twitter.com/townhallcom", 
+        "video": "http://www.youtube.com/user/townhall", 
+        "website": "http://townhall.com/"
+      }
+    }, 
+    {
+      "links": [
+        {
+          "crawl-datetime": "Dec 5, 2016", 
+          "link": "http://www.bizjournals.com/washington/news/2016/12/05/comet-ping-pong-visited-by-armed-man-who-sought-to.html", 
+          "page": 1, 
+          "snippet": "Comet, the popular pizza restaurant in the 5000 block of Connecticut in the ... to self-investigate 'Pizza Gate' (a fictitious online conspiracy theory).\" ... \"Comet Ping Pong, like any respectable venue, is dedicated to creating a\u00a0...", 
+          "title": "Comet Ping Pong visited by armed man who sought to 'self ..."
+        }
+      ], 
+      "source": {
+        "city-county-lat": 38.907711, 
+        "city-county-long": -77.01732, 
+        "city-county-name": "Washington", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/wbjonline", 
+        "media-kind": "city-county", 
+        "media-type": "newspaper", 
+        "miles": 2.98, 
+        "name": "Washington Business Jrnl", 
+        "open-search": [], 
+        "rss": [], 
+        "state": "DC", 
+        "twitter": "http://www.twitter.com/WBJonline", 
+        "video": "http://www.youtube.com/user/WBJOnline", 
+        "website": "http://www.bizjournals.com/washington/"
+      }
+    }, 
+    {
+      "links": [
+        {
+          "crawl-datetime": "Nov 18, 2016", 
+          "link": "http://www.washingtoncitypaper.com/columns/article/20844068/chatter-altspite", 
+          "page": 1, 
+          "snippet": "Then there's our online Pizza Gate piece, about alt-right conspiracy theorists claiming that pizza joint Comet Ping Pong is a pedophiliac sex\u00a0...", 
+          "title": "Chatter: Alt-Spite"
+        }, 
+        {
+          "crawl-datetime": "Nov 15, 2016", 
+          "link": "http://www.washingtoncitypaper.com/news/article/20842321/the-consequences-of-pizza-gate-are-real-at-comet-ping-pong", 
+          "page": 1, 
+          "snippet": "Say you have a great meal at Comet Ping Pong and want to leave the Upper Northwest restaurant a four- or five-star review. Before you can\u00a0...", 
+          "title": "The Consequences of 'Pizza Gate' are Real at Comet Ping Pong"
+        }, 
+        {
+          "crawl-datetime": "Dec 4, 2016", 
+          "link": "http://www.washingtoncitypaper.com/news/article/20845716/man-armed-with-an-assault-rifle-arrested-at-comet-ping-pong", 
+          "page": 1, 
+          "snippet": "The suspect told police he went to Comet Ping Pong to \"self investigate 'pizza gate,'\" which D.C. Police characterize as \"a fictitious online\u00a0...", 
+          "title": "Man Armed With an Assault Rifle Arrested at Comet Ping Pong"
+        }, 
+        {
+          "crawl-datetime": "Nov 16, 2016", 
+          "link": "http://www.washingtoncitypaper.com/news/city-desk/article/20843641/district-line-daily-pizza-gate-intensifies", 
+          "page": 1, 
+          "snippet": "Conspiracy theorists have increased internet attacks on the Chevy Chase pizzeria Comet Ping Pong, even though the election is over.", 
+          "title": "District Line Daily: 'Pizza Gate' Intensifies"
+        }
+      ], 
+      "source": {
+        "city-county-lat": 38.907711, 
+        "city-county-long": -77.01732, 
+        "city-county-name": "Washington", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/pages/Washington-City-Paper/215221115275", 
+        "media-kind": "city-county", 
+        "media-type": "newspaper", 
+        "miles": 2.98, 
+        "name": "Washington City Paper", 
+        "open-search": [], 
+        "rss": [
+          "/feeds"
+        ], 
+        "state": "DC", 
+        "twitter": "http://www.twitter.com/wcp", 
+        "video": "http://www.youtube.com/user/cpweb", 
+        "website": "http://www.washingtoncitypaper.com/"
+      }
+    }, 
+    {
+      "links": [
+        {
+          "crawl-datetime": "", 
+          "link": "http://www.washingtonexaminer.com/section/fake-news", 
+          "page": 1, 
+          "snippet": "Comet Ping Pong still being 'terrorized' nearly two weeks after attack. 10:55 PM ... Armed man arrested at Comet Ping Pong makes first federal court appearance.", 
+          "title": "Fake News Articles | Washington Examiner"
+        }
+      ], 
+      "source": {
+        "city-county-lat": 38.907711, 
+        "city-county-long": -77.01732, 
+        "city-county-name": "Washington", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/washingtonexaminer", 
+        "media-kind": "city-county", 
+        "media-type": "newspaper", 
+        "miles": 2.98, 
+        "name": "Washington Examiner", 
+        "open-search": [], 
+        "rss": [], 
+        "state": "DC", 
+        "twitter": "http://www.twitter.com/washexaminer", 
+        "video": "http://www.youtube.com/user/dcexaminer", 
+        "website": "http://washingtonexaminer.com/"
+      }
+    }, 
+    {
+      "links": [
+        {
+          "crawl-datetime": "Dec 31, 2014", 
+          "link": "https://live.washingtonpost.com/ask-tom-010715.html", 
+          "page": 1, 
+          "snippet": "\u201cI could eat pizza every day,\u201d says Conte, who started making pies in high ... Plans for the pizzeria, expected to roll out no later than March,\u00a0...", 
+          "title": "Ask Tom: Rants, raves and questions on the DC dining scene"
+        }, 
+        {
+          "crawl-datetime": "Mar 10, 2014", 
+          "link": "https://live.washingtonpost.com/got-plans-03-13-2014.html", 
+          "page": 1, 
+          "snippet": "Every Thursday, the Going Out Guide staff discusses concerts, happy hours, cheap date ideas, weekend getaways, new exhibits and other\u00a0...", 
+          "title": "Got Plans: Advice from the Going Out Guide"
+        }, 
+        {
+          "crawl-datetime": "Mar 21, 2015", 
+          "link": "https://www.washingtonpost.com/apps/g/page/local/timeline-walter-fauntroy/1634/", 
+          "page": 1, 
+          "snippet": "The following are key moments in the life of Walter Fauntroy, a politician, preacher and civil rights leader who served for 20 years as Washington's first nonvoting\u00a0...", 
+          "title": "Timeline: Walter Fauntroy"
+        }, 
+        {
+          "crawl-datetime": "Jul 26, 2012", 
+          "link": "https://www.washingtonpost.com/goingoutguide/no-sweat-olympics/2012/07/26/gJQASRqUBX_story.html", 
+          "page": 1, 
+          "snippet": "703-465-7675. www.continentalpoollounge.com, Comet Ping Pong, 5037 .... There's the usual array of pizza, fries and other snacks, but the quality ... aim at an unlikely target, because the pearly gates of dart heaven dwell in a\u00a0...", 
+          "title": "No-sweat Olympics"
+        }, 
+        {
+          "crawl-datetime": "Jul 9, 2013", 
+          "link": "https://www.washingtonpost.com/news/going-out-guide/wp/2013/07/09/a-short-history-of-good-d-c-pizza/", 
+          "page": 1, 
+          "snippet": "But those early years were dark ones for D.C. pizza. ... which kicked off a wave of upscale pizzerias: Matchbox, Comet Ping Pong and Pete's\u00a0...", 
+          "title": "A short history of good DC pizza"
+        }, 
+        {
+          "crawl-datetime": "Sep 17, 2015", 
+          "link": "https://www.washingtonpost.com/news/going-out-guide/wp/2015/09/17/get-schooled-on-the-d-c-areas-major-college-campuses/", 
+          "page": 1, 
+          "snippet": "These are no ordinary pieces of pizza - a mac and cheese slice, anyone? .... too . . . to see Hillary Clinton and Robert Gates discuss foreign policy. ... Next, stroll two doors down to Comet Ping Pong to sample the extensive\u00a0...", 
+          "title": "Get schooled on the DC area's Division I university campuses"
+        }, 
+        {
+          "crawl-datetime": "Dec 5, 2016", 
+          "link": "https://www.washingtonpost.com/news/local/wp/2016/12/04/d-c-police-respond-to-report-of-a-man-with-a-gun-at-comet-ping-pong-restaurant/", 
+          "page": 1, 
+          "snippet": "Police said 28-year-old Edgar Maddison Welch, of Salisbury, N.C., walked in the front door of Comet Ping Pong and pointed a firearm in the\u00a0...", 
+          "title": "NC man told police he went to DC pizzeria with gun to investigate ..."
+        }
+      ], 
+      "source": {
+        "city-county-lat": 38.907711, 
+        "city-county-long": -77.01732, 
+        "city-county-name": "Washington", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/washingtonpost", 
+        "media-kind": "city-county", 
+        "media-type": "newspaper", 
+        "miles": 2.98, 
+        "name": "Washington Post", 
+        "open-search": [], 
+        "rss": [], 
+        "state": "DC", 
+        "twitter": "http://www.twitter.com/washingtonpost", 
+        "video": "http://www.youtube.com/user/WashingtonPost", 
+        "website": "http://www.washingtonpost.com/"
+      }
+    }, 
+    {
+      "links": [
+        {
+          "crawl-datetime": "Dec 4, 2016", 
+          "link": "http://www.washingtontimes.com/news/2016/dec/4/edgar-maddison-welch-arrested-after-bringing-gun-c/", 
+          "page": 1, 
+          "snippet": "... North Carolina, entered Comet Ping Pong and pointed a gun in the ... he came to the establishment to self-investigate \u201cPizza Gate,\u201d which\u00a0...", 
+          "title": "Edgar Maddison Welch arrested after bringing gun to Comet Ping ..."
+        }, 
+        {
+          "crawl-datetime": "Dec 6, 2016", 
+          "link": "http://www.washingtontimes.com/news/2016/dec/6/trump-camp-confirms-michael-flynn-jr-transition-te/", 
+          "page": 1, 
+          "snippet": "The front door of Comet Ping Pong pizza shop, in Washington, Monday, ... \u201cMichael \u2014 the police called pizza gate a fictitious conspiracy theory\u00a0...", 
+          "title": "Trump camp confirms Michael Flynn Jr. off transition team as ..."
+        }, 
+        {
+          "crawl-datetime": "Nov 22, 2016", 
+          "link": "http://www.washingtontimes.com/news/2016/nov/22/james-alefantis-dc-power-player-blasts-insane-redd/", 
+          "page": 1, 
+          "snippet": "James Alefantis, a Washington, D.C., insider and the owner of a restaurant called Comet Ping Pong, has come under fire after internet sleuths\u00a0...", 
+          "title": "James Alefantis, D.C. power-player, blasts 'insane' Reddit sleuthing ..."
+        }
+      ], 
+      "source": {
+        "city-county-lat": 38.907711, 
+        "city-county-long": -77.01732, 
+        "city-county-name": "Washington", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/pages/WashingtonTimescom/35994014410", 
+        "media-kind": "city-county", 
+        "media-type": "newspaper", 
+        "miles": 2.98, 
+        "name": "Washington Times", 
+        "open-search": [], 
+        "rss": [], 
+        "state": "DC", 
+        "twitter": "http://www.twitter.com/washtimes", 
+        "video": "http://www.youtube.com/user/washingtontimes", 
+        "website": "http://www.washingtontimes.com/"
+      }
+    }, 
+    {
+      "links": [
+        {
+          "crawl-datetime": "Dec 5, 2016", 
+          "link": "http://www.fox5dc.com/news/221479396-story", 
+          "page": 1, 
+          "snippet": "... ring out of a pizza place fired an assault rifle inside the Washington, ... with an assault rifle entered the Comet Ping Pong Sunday afternoon.", 
+          "title": "Police: Suspect 'investigating' conspiracy theory arrested after firing ..."
+        }
+      ], 
+      "source": {
+        "city-county-lat": 38.907711, 
+        "city-county-long": -77.01732, 
+        "city-county-name": "Washington", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/my20dc", 
+        "media-kind": "", 
+        "media-type": "tv", 
+        "miles": 2.98, 
+        "name": "WDCA", 
+        "open-search": [], 
+        "rss": [], 
+        "state": "DC", 
+        "twitter": "http://www.twitter.com/CMoreDC", 
+        "video": "", 
+        "website": "http://www.fox5dc.com/my20dc"
+      }
+    }, 
+    {
+      "links": [], 
+      "source": {
+        "city-county-lat": 38.907711, 
+        "city-county-long": -77.01732, 
+        "city-county-name": "Washington", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/DCW50", 
+        "media-kind": "", 
+        "media-type": "tv", 
+        "miles": 2.98, 
+        "name": "WDCW", 
+        "open-search": [
+          "http://dcw50.com/osd.xml", 
+          "https://s1.wp.com/opensearch.xml"
+        ], 
+        "rss": [
+          "http://dcw50.com/feed/", 
+          "http://dcw50.com/comments/feed/"
+        ], 
+        "state": "DC", 
+        "twitter": "http://www.twitter.com/DCW50", 
+        "video": "", 
+        "website": "http://dc50tv.com/"
+      }
+    }, 
+    {
+      "links": [], 
+      "source": {
+        "city-county-lat": 38.907711, 
+        "city-county-long": -77.01732, 
+        "city-county-name": "Washington", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/wetatvfm", 
+        "media-kind": "", 
+        "media-type": "tv", 
+        "miles": 2.98, 
+        "name": "WETA", 
+        "open-search": [], 
+        "rss": [], 
+        "state": "DC", 
+        "twitter": "http://www.twitter.com/wetatvfm", 
+        "video": "", 
+        "website": "http://www.weta.org/tv"
+      }
+    }, 
+    {
+      "links": [
+        {
+          "crawl-datetime": "May 10, 2015", 
+          "link": "http://wjla.com/news/crime/parking-meters-will-be-installed-to-deter-crime-in-friendship-heights-113855", 
+          "page": 1, 
+          "snippet": "FRIENDSHIP HEIGHTS, Md. (WJLA) - New parking meters will be installed in Friendship Heights to deter crime and create a safer shopping\u00a0...", 
+          "title": "Parking meters will be installed to deter crime in Friendship Heights"
+        }, 
+        {
+          "crawl-datetime": "Dec 5, 2016", 
+          "link": "http://wjla.com/news/local/authorities-ask-public-for-help-on-1-year-anniversary-of-va-teens-disappearance", 
+          "page": 1, 
+          "snippet": "SPOTSYLVANIA COUNTY, Va. (ABC7) \u2014 Authorities are calling on the public for any information regarding the disappearance of a 19-year-old\u00a0...", 
+          "title": "Authorities ask public for help on 1-year anniversary of Va. teen's ..."
+        }, 
+        {
+          "crawl-datetime": "Oct 14, 2016", 
+          "link": "http://wjla.com/news/local/bei-bei-exceeds-veterinarians-expectations", 
+          "page": 1, 
+          "snippet": "Bei Bei got two shots and blood drawn last week, and managed to stay still during the procedure, according to the zoo. He was rewarded with\u00a0...", 
+          "title": "Bei Bei impresses vets, handles shots like a pro"
+        }, 
+        {
+          "crawl-datetime": "Feb 25, 2015", 
+          "link": "http://wjla.com/news/local/fire-in-georgetown-damages-shoe-store-along-m-street-111793", 
+          "page": 1, 
+          "snippet": "WASHINGTON (WJLA) -- D.C. fire investigators were trying to determine the cause of a Wednesday fire at a storefront building in Georgetown.", 
+          "title": "Georgetown fire damages storefront building along M Street"
+        }, 
+        {
+          "crawl-datetime": "Feb 29, 2016", 
+          "link": "http://wjla.com/news/local/police-man-killed-in-motorcycle-crash-in-charles-county", 
+          "page": 1, 
+          "snippet": "WHITE PLAINS, Md. (ABC7) \u2014 A 42-year-old man was killed in a motorcycle crash in White Plains, Md., police said. Police said on February 28\u00a0...", 
+          "title": "Police: Man killed in motorcycle crash in Charles County"
+        }, 
+        {
+          "crawl-datetime": "Dec 5, 2016", 
+          "link": "http://wjla.com/news/local/police-man-who-fired-rifle-in-comet-ping-pong-in-name-of-pizza-gate-also-had-shotgun", 
+          "page": 1, 
+          "snippet": "... rifle in Comet Ping Pong in name of 'Pizza Gate' held without bond ... Police say Welch walked into the pizza shop and pointed the rifle at an\u00a0...", 
+          "title": "Police: Man who fired rifle in Comet Ping Pong in name of 'Pizza ..."
+        }, 
+        {
+          "crawl-datetime": "Dec 5, 2016", 
+          "link": "http://wjla.com/news/nation-world/man-convicted-of-murder-in-hot-car-death-to-be-sentenced-12-05-2016", 
+          "page": 1, 
+          "snippet": "FILE - In this Nov. 14, 2016 file photo, Justin Ross Harris sits with his defense team in the Glynn County Courthouse in Brunswick, Ga. Harris\u00a0...", 
+          "title": "Man convicted in son's hot-car death gets life, no parole"
+        }, 
+        {
+          "crawl-datetime": "Dec 5, 2016", 
+          "link": "http://wjla.com/news/offbeat/police-nab-suspects-fowl-accomplice-in-break-in", 
+          "page": 1, 
+          "snippet": "NORTHAMPTON, Mass. (AP) \u2014 Two suspects in a weekend break-in at a Massachusetts convenience store had a fowl accomplice.", 
+          "title": "Police nab suspects, fowl accomplice in break-in"
+        }, 
+        {
+          "crawl-datetime": "Dec 5, 2016", 
+          "link": "http://wjla.com/news/offbeat/police-send-gas-station-robbery-suspect-facebook-message-12-05-2016-164955642", 
+          "page": 1, 
+          "snippet": "BRIDGEVILLE, Pa. (AP) \u2014 Police in one Pennsylvania town have sent an armed robbery suspect a message on Facebook, and it's not\u00a0...", 
+          "title": "Police send gas station robbery suspect Facebook message"
+        }, 
+        {
+          "crawl-datetime": "Oct 11, 2016", 
+          "link": "http://wjla.com/sports/content/tebow-aids-ill-fan-after-1st-arizona-fall-league-game", 
+          "page": 1, 
+          "snippet": "Scottsdale Scorpions outfielder Tim Tebow waits with a fan following Tebow's debut against the Glendale Desert Dogs on Tuesday, Oct. 11,\u00a0...", 
+          "title": "Tebow aids ill fan after 1st Arizona Fall League game"
+        }
+      ], 
+      "source": {
+        "city-county-lat": 38.907711, 
+        "city-county-long": -77.01732, 
+        "city-county-name": "Washington", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/wjlatv", 
+        "media-kind": "", 
+        "media-type": "tv", 
+        "miles": 2.98, 
+        "name": "WJLA", 
+        "open-search": [], 
+        "rss": [], 
+        "state": "DC", 
+        "twitter": "http://www.twitter.com/ABC7News", 
+        "video": "https://www.youtube.com/user/ABC7DC", 
+        "website": "http://www.wjla.com/"
+      }
+    }
+  ], 
+  "collectionName": "Pizzagate, Fake news", 
+  "country": "USA", 
+  "maximum-links-per-source": 20, 
+  "query": "Pizza Gate Comet Ping Pong", 
+  "query-id": "usa-20008-pizza-gate-comet-ping-pong-20-2017-01-05-nv", 
+  "self-collection": [
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Atheeagleonline.com&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Athehoya.com&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Ageorgetownvoice.com&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Athehilltoponline.com&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Agwhatchet.com&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Aamericanbazaaronline.com&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Adcspotlight.com&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Apolitico.com&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Arollcall.com&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Athehill.com&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Atownhall.com&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Abizjournals.com&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Awashingtoncitypaper.com&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Awashingtonexaminer.com&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Awashingtonpost.com&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Awashingtontimes.com&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Afox5dc.com&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Adc50tv.com&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Aweta.org&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Pizza%20Gate%20Comet%20Ping%20Pong%20site%3Awjla.com&tbm=nws"
+    }
+  ], 
+  "self-lmg": "http://www.localmemory.org/api/USA/20008/20/?off=radio", 
+  "state": "DC", 
+  "timestamp": "2017-01-05T20:18:26Z", 
+  "user-id": "lmp-test", 
+  "zipcode": "20008"
+}

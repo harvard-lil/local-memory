@@ -1,1 +1,673 @@
-{"self_lmg": "http://www.localmemory.org/api/USA/37219/10/?off=radio", "country": "USA", "maximumLinksPerSource": "10", "collection": [{"source": {"openSearch": [], "cityCountyNameLong": -86.77738, "country": "USA", "cityCountyName": "Nashville", "Twitter": "http://www.twitter.com/TheCityPaper", "Video": "", "rss": [], "website": "http://www.nashvillecitypaper.com/", "miles": 0.29, "cityCountyNameLat": 36.164556, "name": "City Paper", "Facebook": "", "type": "Newspaper - cityCounty", "state": "TN"}, "links": [{"snippet": "He was part of the hospitality team for Super Bowls XLI and XLIV, as well ... The Country Music Hall of Fame and Museum has re-elected three\u00a0...", "link": "http://nashvillecitypaper.com/content/city-business/move-8-july-2013", "title": "On the Move: 8 July 2013", "page": 1, "singleTweetPath": "", "archivedDomain": 2388, "crawlDatetime": "Jul 7, 2013", "archived": true}, {"snippet": "... government and community leaders and country music stars to be ... book appropriately titled Thoughts from the Bottom of the Chile Bowl.", "link": "http://nashvillecitypaper.com/content/city-news/frank-varallo-restaurant-veteran-dies", "title": "Frank Varallo, restaurant veteran dies", "page": 1, "singleTweetPath": "", "archivedDomain": 2388, "crawlDatetime": "Sep 12, 2007", "archived": true}, {"snippet": "This Saturday marks the 14th annual Country Music Marathon & \u00bd Marathon, when ... \u201cIt's definitely a grand experience for spectators in the city of .... This is very different than the Super Bowl, for example, where only the elite\u00a0...", "link": "http://nashvillecitypaper.com/content/city-news/security-tight-more-30000-runners-converge-14th-country-music-marathon", "title": "With security tight, more than 30000 runners converge for 14th ...", "page": 1, "singleTweetPath": "/scavendish/status/327819212372455425", "archivedDomain": 2388, "crawlDatetime": "Apr 25, 2013", "archived": true}, {"snippet": "To Nashville Sports Council president Scott Ramsey, the city's ... The Music City Bowl's contract with the SEC and ACC expire at the end of\u00a0...", "link": "http://nashvillecitypaper.com/content/sports/conference-usa-targets-nashville-2017-tournament-other-events", "title": "Conference USA targets Nashville for 2017 tournament, other events", "page": 1, "singleTweetPath": "/RaymondEReeves/status/303558803100672001", "archivedDomain": 2388, "crawlDatetime": "Feb 17, 2013", "archived": true}, {"snippet": "... basked in last Thursday's 16-14 victory over Boston College in the Gaylord Hotels Music City Bowl, Graham promptly turned his focus forward\u00a0...", "link": "http://nashvillecitypaper.com/content/sports/vu%E2%80%99s-graham-ready-hoops-part-his-year", "title": "VU's Graham ready for hoops part of his year", "page": 1, "singleTweetPath": "", "archivedDomain": 2388, "crawlDatetime": "Jan 5, 2009", "archived": false}]}, {"source": {"openSearch": [], "cityCountyNameLong": -86.77738, "country": "USA", "cityCountyName": "Nashville", "Twitter": "", "Video": "", "rss": ["http://www.elcruceronews.com/feed.xml"], "website": "http://www.elcruceronews.com/", "miles": 0.29, "cityCountyNameLat": 36.164556, "name": "El Crucero Newspaper", "Facebook": "", "type": "Newspaper - cityCounty", "state": "TN"}, "links": []}, {"source": {"openSearch": [], "cityCountyNameLong": -86.77738, "country": "USA", "cityCountyName": "Nashville", "Twitter": "", "Video": "", "rss": ["http://www.lacampana.us/lac/feed/"], "website": "http://www.lacampana.us/", "miles": 0.29, "cityCountyNameLat": 36.164556, "name": "La Campana", "Facebook": "https://www.facebook.com/lacampananewspaper", "type": "Newspaper - cityCounty", "state": "TN"}, "links": []}, {"source": {"openSearch": [], "cityCountyNameLong": -86.77738, "country": "USA", "cityCountyName": "Nashville", "Twitter": "http://www.twitter.com/mundohispanotn", "Video": "http://www.youtube.com/user/mundohispano", "rss": [], "website": "http://www.mundohispanotn.com/", "miles": 0.29, "cityCountyNameLat": 36.164556, "name": "Mundo Hispano", "Facebook": "", "type": "Newspaper - cityCounty", "state": "TN"}, "links": []}, {"source": {"openSearch": [], "cityCountyNameLong": -86.77738, "country": "USA", "cityCountyName": "Nashville", "Twitter": "http://www.twitter.com/nashvillebiz", "Video": "https://www.youtube.com/user/nashvillebizjournal/videos", "rss": [], "website": "http://www.bizjournals.com/nashville/", "miles": 0.29, "cityCountyNameLat": 36.164556, "name": "Nashville Business Journal", "Facebook": "https://www.facebook.com/nashvillebiz", "type": "Newspaper - cityCounty", "state": "TN"}, "links": [{"snippet": "Atlanta Commissioner of Parks and Recreation Amy Phuong writes a letter to the editor in defense of Music Midtown and its financial\u00a0...", "link": "http://www.bizjournals.com/atlanta/news/2016/09/29/city-official-clarifies-music-midtown-does.html", "title": "City official clarifies: Music Midtown DOES contribute money to ...", "page": 1, "singleTweetPath": "/ATLParksandRec/status/781880530824466432", "archivedDomain": 12449, "crawlDatetime": "Sep 29, 2016", "archived": true}, {"snippet": "A small-business owner in Shelby is faced with having to pay a nearly $30,000 bill for power he wasn't charged for due to a malfunctioning\u00a0...", "link": "http://www.bizjournals.com/charlotte/news/2016/12/28/cbj-morning-buzz-duke-energy-bills-for-30k.html", "title": "\u200bCBJ Morning Buzz: Duke Energy bills for $30K malfunction ...", "page": 1, "singleTweetPath": "/NCSmallBiz/status/814138490166210561", "archivedDomain": 12449, "crawlDatetime": "Dec 28, 2016", "archived": false}, {"snippet": "Select a City .... Select a City .... Yesterday's Belk Bowl drew its largest crowd since 2012 as Virginia Tech's Hokies surged from a 24-point ... The family-friendly event features live music, fireworks and more \u2014 details here.", "link": "http://www.bizjournals.com/charlotte/news/2016/12/30/cbj-morning-buzz-deq-chief-takes-demotion.html", "title": "\u200bCBJ Morning Buzz: DEQ chief takes demotion; Morehead ...", "page": 1, "singleTweetPath": "/CLTSmallBz/status/814855021871251456", "archivedDomain": 12449, "crawlDatetime": "Dec 30, 2016", "archived": true}, {"snippet": "4 ahead of the Super Bowl, according to a release. ... Every city with an NFL team picks a chef to represent them, and that person is teamed up\u00a0...", "link": "http://www.bizjournals.com/houston/news/2016/10/13/nfl-to-host-annual-super-bowl-fundraising-soiree.html", "title": "NFL to host annual Super Bowl fundraising soiree at UH", "page": 1, "singleTweetPath": "/HOUBizJournal/status/788016465932906496", "archivedDomain": 12449, "crawlDatetime": "Oct 13, 2016", "archived": false}, {"snippet": "The University of Houston's Cougars are going to Las Vegas, and the Aggies are headed to the Bayou City. UH announced it will face Mountain\u00a0...", "link": "http://www.bizjournals.com/houston/news/2016/12/05/texas-bowl-announces-teams-for-matchup-at-nrg.html", "title": "Houston bowl announcements: UH heading to Vegas, teams named ...", "page": 1, "singleTweetPath": "/HOUBizJournal/status/808038900631556097", "archivedDomain": 12449, "crawlDatetime": "Dec 5, 2016", "archived": false}, {"snippet": "When the NFL's official hospitality partner goes to the Super Bowl, it doesn't want to be crashing parties that belong to someone else, which is\u00a0...", "link": "http://www.bizjournals.com/losangeles/news/2016/12/11/nfl-on-location-experiences-broadens-offerings.html", "title": "NFL spinoff \u200bOn Location Experiences broadens entertainment ...", "page": 1, "singleTweetPath": "/Real_Estate_c6/status/808212548734554112", "archivedDomain": 12449, "crawlDatetime": "Dec 11, 2016", "archived": false}, {"snippet": "... channel and all regular-season, playoff and Super Bowl games Live Stories. And Snapchat partnered with AEG to bring Live Stories to music\u00a0...", "link": "http://www.bizjournals.com/losangeles/news/2016/12/28/how-snapchat-prepped-for-next-year-s-ipo-in-2016.html", "title": "How Snapchat prepped for next year's IPO in 2016", "page": 1, "singleTweetPath": "/AboutSnap/status/816271157880098816", "archivedDomain": 12449, "crawlDatetime": "Dec 28, 2016", "archived": false}, {"snippet": "Officials announced over the weekend that the University of Tennessee Volunteers will take on the Nebraska Cornhuskers at this year's bowl\u00a0...", "link": "http://www.bizjournals.com/nashville/news/2016/12/05/butch-jones-and-ut-heading-for-music-city-bowl.html", "title": "Butch Jones and UT heading for Music City Bowl", "page": 1, "singleTweetPath": "/nashvillebiz/status/805875646425661440", "archivedDomain": 12449, "crawlDatetime": "Dec 5, 2016", "archived": false}, {"snippet": "\"So, as we talk about the future, we're mindful of the reality that our city and our downtown in particular are forever changed by what happened.\".", "link": "http://www.bizjournals.com/orlando/news/2016/12/06/mayor-buddy-dyer-2016-held-the-worst-and-best.html", "title": "Mayor Buddy Dyer: 2016 held the worst and best moments for ...", "page": 1, "singleTweetPath": "/CrainsOrlando/status/807933762365427712", "archivedDomain": 12449, "crawlDatetime": "Dec 7, 2016", "archived": true}, {"snippet": "The university is asking the Holiday Bowl Committee for time to work out ... American City Business Journals, parent of the Minneapolis/St. Paul\u00a0...", "link": "http://www.bizjournals.com/twincities/news/2016/12/16/bowling-for-dollars-the-financial-xs-and-os-behind.html", "title": "What's at stake in Gophers walkout: The numbers behind college ...", "page": 1, "singleTweetPath": "/MSPBJnews/status/809771316693889024", "archivedDomain": 12449, "crawlDatetime": "Dec 16, 2016", "archived": false}]}, {"source": {"openSearch": [], "cityCountyNameLong": -86.77738, "country": "USA", "cityCountyName": "Nashville", "Twitter": "http://www.twitter.com/Nashvillescene", "Video": "https://www.youtube.com/user/nashvillescene/videos", "rss": [], "website": "http://www.nashvillescene.com/", "miles": 0.29, "cityCountyNameLat": 36.164556, "name": "Nashville Scene", "Facebook": "https://www.facebook.com/pages/Nashville-Scene/34536716194", "type": "Newspaper - cityCounty", "state": "TN"}, "links": [{"snippet": "... are cooling off, it means the Music City concert calendar is heating up. ... after the singer's Giuliani-fake-rage-inspiring Super Bowl Halftime\u00a0...", "link": "http://www.nashvillescene.com/arts-culture/cover-story/article/20833755/performances-by-kanye-and-beyonc-mix-with-local-releases-to-make-one-hell-of-a-fall-music-season", "title": "Performances by Kanye and Beyonc\u00e9 Mix With Local Releases to ...", "page": 1, "singleTweetPath": "/NashvilleScene/status/777899140139409408", "archivedDomain": 2695, "crawlDatetime": "Sep 15, 2016", "archived": true}, {"snippet": "... Titans play the Bears in the Two Pigs Fighting Over the Last Acorn Bowl. ... would be the next celebrity chef to open an outpost on Music City.", "link": "http://www.nashvillescene.com/food-drink/bites/article/20845045/whatd-you-eat-this-weekend", "title": "What'd You Eat This Weekend?", "page": 1, "singleTweetPath": "/NashvilleScene/status/803353759816515584", "archivedDomain": 2695, "crawlDatetime": "Nov 28, 2016", "archived": true}, {"snippet": "I'll be honest with you, as much as I support the Franklin American Mortgage Music City Bowl on a civic level, it's usually been an excuse for me\u00a0...", "link": "http://www.nashvillescene.com/food-drink/bites/article/20846631/downtown-is-gonna-be-smokin-during-the-music-city-bowl", "title": "Downtown Is Gonna Be Smokin' During the Music City Bowl", "page": 1, "singleTweetPath": "/CreekstoneFarms/status/813891119104847872", "archivedDomain": 2695, "crawlDatetime": "Dec 14, 2016", "archived": true}, {"snippet": "The end of the summer means the end of the summer grilling season, so it's time to plan at least one big barbecue blowout. But an open fire\u00a0...", "link": "http://www.nashvillescene.com/food-drink/cover-story/article/20830303/drink-up-summer", "title": "Easy-to-make cocktails, punches, boozy melons and more from ...", "page": 1, "singleTweetPath": "/awomanlives/status/792821480308563972", "archivedDomain": 2695, "crawlDatetime": "Aug 11, 2016", "archived": true}, {"snippet": "... a plaything; matsutake mushrooms are layered on slivers of cauliflower to create a white-on-white bowl of earthiness; something innocuously\u00a0...", "link": "http://www.nashvillescene.com/food-drink/dining-reviews/article/20838622/bastion-twists-the-tasting-menu-into-something-essential", "title": "Bastion Twists the Tasting Menu Into Something Essential", "page": 1, "singleTweetPath": "/SHprojects/status/791994889374306305", "archivedDomain": 2695, "crawlDatetime": "Oct 27, 2016", "archived": true}, {"snippet": "That album was a game-changer for the music industry, and forget about ... And then she performed it the next day at the Super Bowl halftime\u00a0...", "link": "http://www.nashvillescene.com/music/features/article/20835158/singular-lady-queen-bey-to-reign-in-nashville-again", "title": "Singular Lady: Queen Bey to Reign in Nashville Again", "page": 1, "singleTweetPath": "/TopNashvilleNow/status/782652926397255681", "archivedDomain": 2695, "crawlDatetime": "Sep 29, 2016", "archived": true}, {"snippet": "From our perch in the lower bowl we saw a man touch the hem of her ... which is why every city on her current tour is getting more than one\u00a0...", "link": "http://www.nashvillescene.com/music/spin/article/20837207/adele-chats-up-soldout-bridgestone-crowd-and-sings-too", "title": "Adele Chats Up Sold-Out Bridgestone Crowd \u2014 and Sings Too", "page": 1, "singleTweetPath": "/Motobec810/status/788006582772785152", "archivedDomain": 2695, "crawlDatetime": "Oct 16, 2016", "archived": true}, {"snippet": "Newest : I'm no great fan of the Music City Bowl being played in the ... Kentucky would make the annual pilgrimage to the Music City Bowl, like\u00a0...", "link": "http://www.nashvillescene.com/news/article/13046355/the-hippodrome-brand-new", "title": "The Hippodrome: Brand New", "page": 1, "singleTweetPath": "", "archivedDomain": 2695, "crawlDatetime": "Jan 4, 2013", "archived": false}, {"snippet": "Stop that crazy talk about hosting the Super Bowl, domeless Nashville, and be ... Nashville should embrace the Music City Bowl and the SEC\u00a0...", "link": "http://www.nashvillescene.com/news/article/13053311/stop-that-crazy-talk-about-hosting-the-super-bowl-domeless-nashville-and-be-proud-were-hosting-the-final-four", "title": "Stop that crazy talk about hosting the Super Bowl, domeless ...", "page": 1, "singleTweetPath": "", "archivedDomain": 2695, "crawlDatetime": "Apr 3, 2014", "archived": false}, {"snippet": "In what can only be described as a true Murfrees-boner, the sheriff started the year in the news by blaming Beyonc\u00e9's Super Bowl \u201cFormation\u201d\u00a0...", "link": "http://www.nashvillescene.com/news/cover-story/article/20846164/the-2016-boner-awards", "title": "The 2016 Boner Awards", "page": 1, "singleTweetPath": "/toomuchcountry/status/810637461223309312", "archivedDomain": 2695, "crawlDatetime": "Dec 8, 2016", "archived": true}]}, {"source": {"openSearch": [], "cityCountyNameLong": -86.77738, "country": "USA", "cityCountyName": "Nashville", "Twitter": "http://www.twitter.com/tennessean", "Video": "https://www.youtube.com/user/tndotcom/videos", "rss": [], "website": "http://www.tennessean.com/", "miles": 0.29, "cityCountyNameLat": 36.164556, "name": "Tennessean", "Facebook": "https://www.facebook.com/tennessean", "type": "Newspaper - cityCounty", "state": "TN"}, "links": [{"snippet": "Nebraska and Tennessee will face off in the Music City Bowl on Dec. 30 in Nashville, Tenn. (3:30 p.m., ESPN). For the full GVX Audio interview,\u00a0...", "link": "http://www.knoxnews.com/story/sports/college/university-of-tennessee/football/2016/12/19/gvx-audio-nebraska-coach-music-city-bowl-vols/95621002/", "title": "GVX Audio: Nebraska coach on Music City Bowl, Vols", "page": 1, "singleTweetPath": "/prepxtra/status/811070569173159937", "archivedDomain": 5333, "crawlDatetime": "Dec 19, 2016", "archived": false}, {"snippet": "If you're one of the thousands of college football fans in downtown Nashville this week, your experience shouldn't start and end at the Music\u00a0...", "link": "http://www.tennessean.com/story/entertainment/music/2016/12/28/music-city-bowl-guide-live-music-nashville/95920722/", "title": "Music City Bowl guide: Live music in Nashville", "page": 1, "singleTweetPath": "/Motobec810/status/814848030750941184", "archivedDomain": 1721, "crawlDatetime": "Dec 28, 2016", "archived": false}, {"snippet": "Win or lose the Franklin American Mortgage Music City Bowl, the University of Nebraska won't be leaving Nashville empty handed thanks to the\u00a0...", "link": "http://www.tennessean.com/story/news/2016/12/29/nebraska-band-out-plays-tennessee-music-city-bowl-battle/95971748/", "title": "Nebraska band outplays Tennessee in Music City Bowl battle", "page": 1, "singleTweetPath": "/Motobec810/status/815199863252090880", "archivedDomain": 1721, "crawlDatetime": "Dec 29, 2016", "archived": false}, {"snippet": "The Franklin American Mortgage Music City Bowl will bring a nearly sold-out stadium crowd, which means a lot of traffic for the downtown\u00a0...", "link": "http://www.tennessean.com/story/news/local/davidson%20/2016/12/29/police-asking-fans-mindful-music-city-bowl-traffic/95958136/", "title": "A fan's guide to Music City Bowl traffic in Nashville", "page": 1, "singleTweetPath": "/SugoMusicGroup/status/814614792203812864", "archivedDomain": 1721, "crawlDatetime": "Dec 29, 2016", "archived": false}, {"snippet": "The Franklin American Music City Bowl had the fourth largest attendance of all the college football bowls this season, according to\u00a0...", "link": "http://www.tennessean.com/story/sports/2017/01/05/music-city-bowl-attendance/96170370/", "title": "Tennessee, Nebraska made Music City Bowl among most attended", "page": 1, "singleTweetPath": "/PesamobCom/status/817579497629372418", "archivedDomain": 1721, "crawlDatetime": "", "archived": false}, {"snippet": "On the heels of Friday's Franklin American Mortgage Music City Bowl, the Vols' star running back confirmed he has opted to enter the 2017 NFL\u00a0...", "link": "http://www.tennessean.com/story/sports/college/university-of-tennessee/football/2016/12/30/kamara-enter-2017-nfl-draft/96027128/", "title": "Kamara to enter 2017 NFL Draft", "page": 1, "singleTweetPath": "", "archivedDomain": 1721, "crawlDatetime": "Dec 30, 2016", "archived": false}, {"snippet": "NASHVILLE \u2013 Tennessee, mythical champion of life, earned a very tangible trophy Friday in its final appearance of the 2016 football season.", "link": "http://www.tennessean.com/story/sports/college/university-of-tennessee/football/2016/12/30/vols-roll-music-city-bowl/96003852/", "title": "Tennessee rolls in Music City Bowl to beat Nebraska, 38-24", "page": 1, "singleTweetPath": "/bitzsports/status/815155921395580928", "archivedDomain": 1721, "crawlDatetime": "Dec 30, 2016", "archived": false}, {"snippet": "LINCOLN, Neb. \u2014 First-team All Big Ten safety Nate Gerry will not play for No. 24 Nebraska when the Cornhuskers play Tennessee in the\u00a0...", "link": "http://www.tennessean.com/story/sports/college/ut/2016/12/22/nebraska-all-big-ten-safety-ineligible-music-city-bowl/95772750/", "title": "Nebraska All-Big Ten safety ineligible for Music City Bowl", "page": 1, "singleTweetPath": "/DutchCajonist/status/812130375233175552", "archivedDomain": 1721, "crawlDatetime": "Dec 22, 2016", "archived": false}, {"snippet": "Tennessee faces Nebraska in the Franklin American Mortgage Music City Bowl on Friday at Nissan Stadium. Kickoff is at 2:30 p.m. in Nashville\u00a0...", "link": "http://www.tennessean.com/story/sports/college/ut/2016/12/30/how-watch-music-city-bowl-tv-radio-streaming-info/95920082/", "title": "How to watch Music City Bowl: TV, radio, streaming info", "page": 1, "singleTweetPath": "/trendinaliaUS/status/814935767784898561", "archivedDomain": 1721, "crawlDatetime": "Dec 30, 2016", "archived": false}, {"snippet": "We take you close to the fans cheering in the stands during University of Tennessee's matchup against the Nebraska Cornhuskers in the\u00a0...", "link": "http://www.tennessean.com/story/sports/college/vols/2017/01/03/360-photos-music-city-bowl/96108110/", "title": "A 360 view from Music City Bowl in Nashville", "page": 1, "singleTweetPath": "/Motobec810/status/817014678920593409", "archivedDomain": 1721, "crawlDatetime": "Jan 3, 2017", "archived": false}]}, {"source": {"openSearch": [], "cityCountyNameLong": -86.77738, "country": "USA", "cityCountyName": "Nashville", "Twitter": "http://www.twitter.com/tn_tribune", "Video": "https://www.youtube.com/user/TheTennesseeTribune/videos", "rss": ["http://tntribune.com/feed/", "http://tntribune.com/comments/feed/", "http://tntribune.com/homepage-magazine/feed/"], "website": "http://tntribune.com/", "miles": 0.29, "cityCountyNameLat": 36.164556, "name": "Tennessee Tribune", "Facebook": "https://www.facebook.com/thetennesseetribune", "type": "Newspaper - cityCounty", "state": "TN"}, "links": [{"snippet": "Nov 18, 2016 - The music style for this album is kind of like if Jackson Browne and ... We've been to several cities and sampled many great dishes. ... I must ask, who's your pick to win the 2016 Iron Bowl game between Alabama and Auburn?", "link": "http://tntribune.com/lifestyle/entertainment/spend-evening-taylor-hicks-weekend/", "title": "Spend an Evening With Taylor Hicks This Weekend! - The ...", "page": 1, "singleTweetPath": "/tishtx/status/799766740293001216", "archivedDomain": 208, "crawlDatetime": "", "archived": false}]}, {"source": {"openSearch": ["http://wkrn.com/osd.xml", "https://s1.wp.com/opensearch.xml"], "cityCountyNameLong": -86.77738, "country": "USA", "cityCountyName": "Nashville", "Twitter": "http://www.twitter.com/wkrn", "Video": "", "rss": ["http://wkrn.com/feed/", "http://wkrn.com/comments/feed/"], "website": "http://www.wkrn.com/", "miles": 0.29, "cityCountyNameLat": 36.164556, "name": "WKRN", "Facebook": "https://www.facebook.com/wkrntv", "type": "TV", "state": "TN"}, "links": [{"snippet": "NASHVILLE, Tenn. (WKRN) \u2013 Next week Texas A & M and Louisville will face off against each other in Nashville's Music City Bowl, and more\u00a0...", "link": "http://wkrn.com/2015/12/23/nashville-prepares-for-music-city-bowl-bash-on-broadway/", "title": "Nashville prepares for Music City Bowl, Bash on Broadway", "page": 1, "singleTweetPath": "/JPleasantwkrntv/status/682304490020683779", "archivedDomain": 3016, "crawlDatetime": "Dec 23, 2015", "archived": true}, {"snippet": "If so, you can check out more than 350 vehicles from 30 different manufacturers at the Nashville International Auto Show at the Music City\u00a0...", "link": "http://wkrn.com/2016/11/18/nashville-auto-show-returns-to-music-city/", "title": "Nashville Auto Show returns to Music City", "page": 1, "singleTweetPath": "/MILESAutoSpa/status/800037426454532096", "archivedDomain": 3016, "crawlDatetime": "Nov 18, 2016", "archived": true}, {"snippet": "\u201cWe couldn't be more excited to welcome Nebraska and Tennessee to Nashville for the Franklin American Mortgage Music City Bowl,\u201d said\u00a0...", "link": "http://wkrn.com/2016/12/04/tennessee-faces-nebraska-in-music-city-bowl/", "title": "Tennessee to face Nebraska in Music City Bowl", "page": 1, "singleTweetPath": "/WKRNLarry/status/805743565833990144", "archivedDomain": 3016, "crawlDatetime": "Dec 4, 2016", "archived": true}, {"snippet": "KNOXVILLE, Tenn. (WKRN) \u2013 The University of Tennessee will show its support of the Sevier County wildfire victims at the Music City Bowl.", "link": "http://wkrn.com/2016/12/12/ut-to-honor-sevier-county-fire-victims-at-music-city-bowl/", "title": "UT to honor Sevier County fire victims at Music City Bowl", "page": 1, "singleTweetPath": "/TopNashvilleNow/status/808551810852003840", "archivedDomain": 3016, "crawlDatetime": "Dec 12, 2016", "archived": true}, {"snippet": "KNOXVILLE, Tenn. (WATE) \u2013 Tennessee is only 10 days away from the Franklin American Mortgage Music City Bowl and players said they are\u00a0...", "link": "http://wkrn.com/2016/12/20/ut-players-say-theyre-ready-to-prove-themselves-at-music-city-bowl/", "title": "UT players say they're ready to prove themselves at Music City Bowl", "page": 1, "singleTweetPath": "/DutchCajonist/status/811339686048169986", "archivedDomain": 3016, "crawlDatetime": "Dec 20, 2016", "archived": true}, {"snippet": "... wind, dropping temps to the upper 20s Friday morning, and Friday will be sunny and cool for the Music City Bowl with highs in the mid-40s.", "link": "http://wkrn.com/2016/12/26/thunderstorms-headed-to-middle-tennessee-later-monday/", "title": "Storms push through Middle Tennessee on Monday night", "page": 1, "singleTweetPath": "/EricEganTV/status/813512025275920384", "archivedDomain": 3016, "crawlDatetime": "Dec 26, 2016", "archived": true}, {"snippet": "NASHVILLE, Tenn. (WKRN) \u2013 The fun has begun as thousands of people descend on Nashville for the Franklin American Mortgage Music City\u00a0...", "link": "http://wkrn.com/2016/12/29/festivities-begin-in-downtown-nashville-for-music-city-bowl/", "title": "Festivities held in downtown Nashville for Music City Bowl", "page": 1, "singleTweetPath": "/WKRN/status/814878970105708544", "archivedDomain": 3016, "crawlDatetime": "Dec 29, 2016", "archived": true}, {"snippet": "NASHVILLE, Tenn. (WKRN) \u2013 For the first time since 1994, the Tennessee Volunteers have won three straight bowl games capped off with a\u00a0...", "link": "http://wkrn.com/2016/12/30/tennessee-beats-no-24-nebraska-38-24-in-music-city-bowl/", "title": "Tennessee Wins Music City Bowl 38-24", "page": 1, "singleTweetPath": "/CoryCurtis2/status/815040719207460865", "archivedDomain": 3016, "crawlDatetime": "Dec 30, 2016", "archived": true}, {"snippet": "NASHVILLE, Tenn. (WKRN) \u2013 Nashville is starting off 2017 with a bang. Visitors stuck around Music City Sunday night for the holiday\u2013 and\u00a0...", "link": "http://wkrn.com/2017/01/01/music-city-bowl-new-years-in-nashville-to-bring-in-over-30m/", "title": "Music City Bowl, New Year's in Nashville to bring in over $35M", "page": 1, "singleTweetPath": "/piccolomrktg/status/818560561042620417", "archivedDomain": 3016, "crawlDatetime": "Jan 1, 2017", "archived": true}, {"snippet": "Barnett, who is from Nashville, posted his record-breaking sack Friday late in Tennessee's 38-24 Music City Bowl victory over No. 24 Nebraska.", "link": "http://wkrn.com/2017/01/03/derek-barnett-announces-via-twitter-hes-leaving-ut/", "title": "Derek Barnett announces via Twitter he's leaving UT", "page": 1, "singleTweetPath": "/WKRN/status/816551081840885760", "archivedDomain": 3016, "crawlDatetime": "Jan 3, 2017", "archived": true}]}, {"source": {"openSearch": [], "cityCountyNameLong": -86.77738, "country": "USA", "cityCountyName": "Nashville", "Twitter": "http://www.twitter.com/wsmv", "Video": "https://www.youtube.com/user/WSMVTV/videos", "rss": [], "website": "http://www.wsmv.com/", "miles": 0.29, "cityCountyNameLat": 36.164556, "name": "WSMV", "Facebook": "https://www.facebook.com/WSMVTV", "type": "TV", "state": "TN"}, "links": [{"snippet": "ATLANTA -. The Cardinals travel to Atlanta this week to take on the NFC South-leading Falcons in Arizona's 10th and final regular season\u00a0...", "link": "http://www.tucsonnewsnow.com/story/33799609/cardinals-gameday-atlanta-falcons", "title": "Cardinals Gameday: Atlanta Falcons", "page": 1, "singleTweetPath": "/Atlantafanclub/status/802920997649141761", "archivedDomain": 790, "crawlDatetime": "", "archived": false}, {"snippet": "WEST POINT (GoMocs.com)---The Chattanooga Mocs (3-2) fell short in a 73-67 loss to Arkansas State (4-1) in the championship game of the\u00a0...", "link": "http://www.wrcbtv.com/story/33757107/chattanooga-comeback-falls-short-in-loss-to-arkansas-state", "title": "Chattanooga Comeback Falls Short in Loss to Arkansas State", "page": 1, "singleTweetPath": "", "archivedDomain": 1716, "crawlDatetime": "Nov 20, 2016", "archived": true}, {"snippet": "NASHVILLE, Tenn. (AP) - Kyle Shurmur threw for a career-high 416 yards, and Vanderbilt scored the final 21 points in an upset of No.", "link": "http://www.wrcbtv.com/story/33799409/vanderbilt-upsets-no-24-tennessee-45-34", "title": "Vanderbilt upsets No. 24 Tennessee, 45-34", "page": 1, "singleTweetPath": "/ChattanoogaUSA/status/802810833587740672", "archivedDomain": 1716, "crawlDatetime": "", "archived": true}, {"snippet": "KNOXVILLE, Tenn. (AP) - Tennessee is planning to wear its \"Smokey grey\" alternate uniforms for the Music City Bowl as a way to honor victims\u00a0...", "link": "http://www.wsmv.com/story/34018222/vols-to-wear-smokey-grey-uniforms-to-honor-gatlinburg", "title": "Vols to wear 'Smokey grey' uniforms to honor Gatlinburg", "page": 1, "singleTweetPath": "/clare6678/status/807356515128639488", "archivedDomain": 4287, "crawlDatetime": "", "archived": true}, {"snippet": "24 Nebraska began preparations for the Music City Bowl against Tennessee on Dec. 30. Coach Mike Riley said he's preparing fifth-year senior\u00a0...", "link": "http://www.wsmv.com/story/34020292/with-armstrong-ailing-fyfe-prepped-as-huskers-bowl-starter", "title": "With Armstrong ailing, Fyfe prepped as Huskers' bowl starter", "page": 1, "singleTweetPath": "", "archivedDomain": 4287, "crawlDatetime": "", "archived": false}, {"snippet": "KNOXVILLE, Tenn. (AP) - Tennessee offensive lineman Venzell Boulware has been ruled academically ineligible for the Music City Bowl\u00a0...", "link": "http://www.wsmv.com/story/34098825/academic-issues-sideline-vols-boulware-for-music-city-bowl", "title": "Academic issues sideline Vols' Boulware for Music City Bowl", "page": 1, "singleTweetPath": "", "archivedDomain": 4287, "crawlDatetime": "", "archived": false}, {"snippet": "(AP) - First-team All Big Ten safety Nate Gerry will not play for No. 24 Nebraska when the Cornhuskers play Tennessee in the Music City Bowl\u00a0...", "link": "http://www.wsmv.com/story/34118023/nebraska-loses-safety-nate-gerry-for-bowl-vs-tennessee", "title": "Nebraska loses safety Nate Gerry for bowl vs Tennessee", "page": 1, "singleTweetPath": "", "archivedDomain": 4287, "crawlDatetime": "", "archived": true}, {"snippet": "24 Nebraska 38-24 on Friday in the Music City Bowl. ... It's the first time Tennessee has won three straight bowls since 1994-1996 when Peyton\u00a0...", "link": "http://www.wsmv.com/story/34156464/tennessee-beats-no-24-nebraska-38-24-in-music-city-bowl", "title": "Tennessee beats No. 24 Nebraska 38-24 in Music City Bowl", "page": 1, "singleTweetPath": "/WSMV/status/814993537993506816", "archivedDomain": 4287, "crawlDatetime": "", "archived": true}, {"snippet": "24 Nebraska 38-24 in Music City Bowl. NASHVILLE, Tenn. (AP) - Joshua Dobbs ran for three touchdowns and 118 yards and threw for 291\u00a0...", "link": "http://www.wsmv.com/story/34157672/latest-kentucky-and-tennessee-sports", "title": "Latest Kentucky and Tennessee sports", "page": 1, "singleTweetPath": "", "archivedDomain": 4287, "crawlDatetime": "", "archived": false}, {"snippet": "Last season, the Volunteers finished 9-4 and won the Music City Bowl with an offense that ranked 24th in the FBS in scoring (36.4 points) and\u00a0...", "link": "http://www.wsmv.com/story/34174005/ap-source-indiana-to-hire-debord-as-offensive-coordinator", "title": "AP source: Indiana to hire DeBord as offensive coordinator", "page": 1, "singleTweetPath": "", "archivedDomain": 4287, "crawlDatetime": "", "archived": true}]}], "_id": "lmp-test_usa-37219-music-city-bowl-10-2017-01-05-nv", "state": "TN", "zipcode": "37219", "userID": "lmp-test", "queryID": "usa-37219-music-city-bowl-10-2017-01-05-nv", "Lat": 36.166806, "city": "Nashville", "query": "Music City Bowl", "collectionName": "Football", "self_collection": [{"searchURI": "https://www.google.com/search?as_q=Music%20City%20Bowl%20site%3Anashvillecitypaper.com&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Music%20City%20Bowl%20site%3Aelcruceronews.com&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Music%20City%20Bowl%20site%3Alacampana.us&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Music%20City%20Bowl%20site%3Amundohispanotn.com&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Music%20City%20Bowl%20site%3Abizjournals.com&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Music%20City%20Bowl%20site%3Anashvillescene.com&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Music%20City%20Bowl%20site%3Atennessean.com&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Music%20City%20Bowl%20site%3Atntribune.com&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Music%20City%20Bowl%20site%3Awkrn.com&tbm=nws", "deleted": false}, {"searchURI": "https://www.google.com/search?as_q=Music%20City%20Bowl%20site%3Awsmv.com&tbm=nws", "deleted": false}], "Long": -86.78172, "timestamp": "2017-01-05T20:33:44Z"}
+{
+  "_id": "lmp-test_usa-37219-music-city-bowl-10-2017-01-05-nv", 
+  "city": "Nashville", 
+  "city-latitude": 36.166806, 
+  "city-longitude": -86.78172, 
+  "collection": [
+    {
+      "links": [
+        {
+          "crawl-datetime": "Jul 7, 2013", 
+          "link": "http://nashvillecitypaper.com/content/city-business/move-8-july-2013", 
+          "page": 1, 
+          "snippet": "He was part of the hospitality team for Super Bowls XLI and XLIV, as well ... The Country Music Hall of Fame and Museum has re-elected three\u00a0...", 
+          "title": "On the Move: 8 July 2013"
+        }, 
+        {
+          "crawl-datetime": "Sep 12, 2007", 
+          "link": "http://nashvillecitypaper.com/content/city-news/frank-varallo-restaurant-veteran-dies", 
+          "page": 1, 
+          "snippet": "... government and community leaders and country music stars to be ... book appropriately titled Thoughts from the Bottom of the Chile Bowl.", 
+          "title": "Frank Varallo, restaurant veteran dies"
+        }, 
+        {
+          "crawl-datetime": "Apr 25, 2013", 
+          "link": "http://nashvillecitypaper.com/content/city-news/security-tight-more-30000-runners-converge-14th-country-music-marathon", 
+          "page": 1, 
+          "snippet": "This Saturday marks the 14th annual Country Music Marathon & \u00bd Marathon, when ... \u201cIt's definitely a grand experience for spectators in the city of .... This is very different than the Super Bowl, for example, where only the elite\u00a0...", 
+          "title": "With security tight, more than 30000 runners converge for 14th ..."
+        }, 
+        {
+          "crawl-datetime": "Feb 17, 2013", 
+          "link": "http://nashvillecitypaper.com/content/sports/conference-usa-targets-nashville-2017-tournament-other-events", 
+          "page": 1, 
+          "snippet": "To Nashville Sports Council president Scott Ramsey, the city's ... The Music City Bowl's contract with the SEC and ACC expire at the end of\u00a0...", 
+          "title": "Conference USA targets Nashville for 2017 tournament, other events"
+        }, 
+        {
+          "crawl-datetime": "Jan 5, 2009", 
+          "link": "http://nashvillecitypaper.com/content/sports/vu%E2%80%99s-graham-ready-hoops-part-his-year", 
+          "page": 1, 
+          "snippet": "... basked in last Thursday's 16-14 victory over Boston College in the Gaylord Hotels Music City Bowl, Graham promptly turned his focus forward\u00a0...", 
+          "title": "VU's Graham ready for hoops part of his year"
+        }
+      ], 
+      "source": {
+        "city-county-lat": 36.164556, 
+        "city-county-long": -86.77738, 
+        "city-county-name": "Nashville", 
+        "country": "USA", 
+        "facebook": "", 
+        "media-kind": "city-county", 
+        "media-type": "newspaper", 
+        "miles": 0.29, 
+        "name": "City Paper", 
+        "open-search": [], 
+        "rss": [], 
+        "state": "TN", 
+        "twitter": "http://www.twitter.com/TheCityPaper", 
+        "video": "", 
+        "website": "http://www.nashvillecitypaper.com/"
+      }
+    }, 
+    {
+      "links": [], 
+      "source": {
+        "city-county-lat": 36.164556, 
+        "city-county-long": -86.77738, 
+        "city-county-name": "Nashville", 
+        "country": "USA", 
+        "facebook": "", 
+        "media-kind": "city-county", 
+        "media-type": "newspaper", 
+        "miles": 0.29, 
+        "name": "El Crucero Newspaper", 
+        "open-search": [], 
+        "rss": [
+          "http://www.elcruceronews.com/feed.xml"
+        ], 
+        "state": "TN", 
+        "twitter": "", 
+        "video": "", 
+        "website": "http://www.elcruceronews.com/"
+      }
+    }, 
+    {
+      "links": [], 
+      "source": {
+        "city-county-lat": 36.164556, 
+        "city-county-long": -86.77738, 
+        "city-county-name": "Nashville", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/lacampananewspaper", 
+        "media-kind": "city-county", 
+        "media-type": "newspaper", 
+        "miles": 0.29, 
+        "name": "La Campana", 
+        "open-search": [], 
+        "rss": [
+          "http://www.lacampana.us/lac/feed/"
+        ], 
+        "state": "TN", 
+        "twitter": "", 
+        "video": "", 
+        "website": "http://www.lacampana.us/"
+      }
+    }, 
+    {
+      "links": [], 
+      "source": {
+        "city-county-lat": 36.164556, 
+        "city-county-long": -86.77738, 
+        "city-county-name": "Nashville", 
+        "country": "USA", 
+        "facebook": "", 
+        "media-kind": "city-county", 
+        "media-type": "newspaper", 
+        "miles": 0.29, 
+        "name": "Mundo Hispano", 
+        "open-search": [], 
+        "rss": [], 
+        "state": "TN", 
+        "twitter": "http://www.twitter.com/mundohispanotn", 
+        "video": "http://www.youtube.com/user/mundohispano", 
+        "website": "http://www.mundohispanotn.com/"
+      }
+    }, 
+    {
+      "links": [
+        {
+          "crawl-datetime": "Sep 29, 2016", 
+          "link": "http://www.bizjournals.com/atlanta/news/2016/09/29/city-official-clarifies-music-midtown-does.html", 
+          "page": 1, 
+          "snippet": "Atlanta Commissioner of Parks and Recreation Amy Phuong writes a letter to the editor in defense of Music Midtown and its financial\u00a0...", 
+          "title": "City official clarifies: Music Midtown DOES contribute money to ..."
+        }, 
+        {
+          "crawl-datetime": "Dec 28, 2016", 
+          "link": "http://www.bizjournals.com/charlotte/news/2016/12/28/cbj-morning-buzz-duke-energy-bills-for-30k.html", 
+          "page": 1, 
+          "snippet": "A small-business owner in Shelby is faced with having to pay a nearly $30,000 bill for power he wasn't charged for due to a malfunctioning\u00a0...", 
+          "title": "\u200bCBJ Morning Buzz: Duke Energy bills for $30K malfunction ..."
+        }, 
+        {
+          "crawl-datetime": "Dec 30, 2016", 
+          "link": "http://www.bizjournals.com/charlotte/news/2016/12/30/cbj-morning-buzz-deq-chief-takes-demotion.html", 
+          "page": 1, 
+          "snippet": "Select a City .... Select a City .... Yesterday's Belk Bowl drew its largest crowd since 2012 as Virginia Tech's Hokies surged from a 24-point ... The family-friendly event features live music, fireworks and more \u2014 details here.", 
+          "title": "\u200bCBJ Morning Buzz: DEQ chief takes demotion; Morehead ..."
+        }, 
+        {
+          "crawl-datetime": "Oct 13, 2016", 
+          "link": "http://www.bizjournals.com/houston/news/2016/10/13/nfl-to-host-annual-super-bowl-fundraising-soiree.html", 
+          "page": 1, 
+          "snippet": "4 ahead of the Super Bowl, according to a release. ... Every city with an NFL team picks a chef to represent them, and that person is teamed up\u00a0...", 
+          "title": "NFL to host annual Super Bowl fundraising soiree at UH"
+        }, 
+        {
+          "crawl-datetime": "Dec 5, 2016", 
+          "link": "http://www.bizjournals.com/houston/news/2016/12/05/texas-bowl-announces-teams-for-matchup-at-nrg.html", 
+          "page": 1, 
+          "snippet": "The University of Houston's Cougars are going to Las Vegas, and the Aggies are headed to the Bayou City. UH announced it will face Mountain\u00a0...", 
+          "title": "Houston bowl announcements: UH heading to Vegas, teams named ..."
+        }, 
+        {
+          "crawl-datetime": "Dec 11, 2016", 
+          "link": "http://www.bizjournals.com/losangeles/news/2016/12/11/nfl-on-location-experiences-broadens-offerings.html", 
+          "page": 1, 
+          "snippet": "When the NFL's official hospitality partner goes to the Super Bowl, it doesn't want to be crashing parties that belong to someone else, which is\u00a0...", 
+          "title": "NFL spinoff \u200bOn Location Experiences broadens entertainment ..."
+        }, 
+        {
+          "crawl-datetime": "Dec 28, 2016", 
+          "link": "http://www.bizjournals.com/losangeles/news/2016/12/28/how-snapchat-prepped-for-next-year-s-ipo-in-2016.html", 
+          "page": 1, 
+          "snippet": "... channel and all regular-season, playoff and Super Bowl games Live Stories. And Snapchat partnered with AEG to bring Live Stories to music\u00a0...", 
+          "title": "How Snapchat prepped for next year's IPO in 2016"
+        }, 
+        {
+          "crawl-datetime": "Dec 5, 2016", 
+          "link": "http://www.bizjournals.com/nashville/news/2016/12/05/butch-jones-and-ut-heading-for-music-city-bowl.html", 
+          "page": 1, 
+          "snippet": "Officials announced over the weekend that the University of Tennessee Volunteers will take on the Nebraska Cornhuskers at this year's bowl\u00a0...", 
+          "title": "Butch Jones and UT heading for Music City Bowl"
+        }, 
+        {
+          "crawl-datetime": "Dec 7, 2016", 
+          "link": "http://www.bizjournals.com/orlando/news/2016/12/06/mayor-buddy-dyer-2016-held-the-worst-and-best.html", 
+          "page": 1, 
+          "snippet": "\"So, as we talk about the future, we're mindful of the reality that our city and our downtown in particular are forever changed by what happened.\".", 
+          "title": "Mayor Buddy Dyer: 2016 held the worst and best moments for ..."
+        }, 
+        {
+          "crawl-datetime": "Dec 16, 2016", 
+          "link": "http://www.bizjournals.com/twincities/news/2016/12/16/bowling-for-dollars-the-financial-xs-and-os-behind.html", 
+          "page": 1, 
+          "snippet": "The university is asking the Holiday Bowl Committee for time to work out ... American City Business Journals, parent of the Minneapolis/St. Paul\u00a0...", 
+          "title": "What's at stake in Gophers walkout: The numbers behind college ..."
+        }
+      ], 
+      "source": {
+        "city-county-lat": 36.164556, 
+        "city-county-long": -86.77738, 
+        "city-county-name": "Nashville", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/nashvillebiz", 
+        "media-kind": "city-county", 
+        "media-type": "newspaper", 
+        "miles": 0.29, 
+        "name": "Nashville Business Journal", 
+        "open-search": [], 
+        "rss": [], 
+        "state": "TN", 
+        "twitter": "http://www.twitter.com/nashvillebiz", 
+        "video": "https://www.youtube.com/user/nashvillebizjournal/videos", 
+        "website": "http://www.bizjournals.com/nashville/"
+      }
+    }, 
+    {
+      "links": [
+        {
+          "crawl-datetime": "Sep 15, 2016", 
+          "link": "http://www.nashvillescene.com/arts-culture/cover-story/article/20833755/performances-by-kanye-and-beyonc-mix-with-local-releases-to-make-one-hell-of-a-fall-music-season", 
+          "page": 1, 
+          "snippet": "... are cooling off, it means the Music City concert calendar is heating up. ... after the singer's Giuliani-fake-rage-inspiring Super Bowl Halftime\u00a0...", 
+          "title": "Performances by Kanye and Beyonc\u00e9 Mix With Local Releases to ..."
+        }, 
+        {
+          "crawl-datetime": "Nov 28, 2016", 
+          "link": "http://www.nashvillescene.com/food-drink/bites/article/20845045/whatd-you-eat-this-weekend", 
+          "page": 1, 
+          "snippet": "... Titans play the Bears in the Two Pigs Fighting Over the Last Acorn Bowl. ... would be the next celebrity chef to open an outpost on Music City.", 
+          "title": "What'd You Eat This Weekend?"
+        }, 
+        {
+          "crawl-datetime": "Dec 14, 2016", 
+          "link": "http://www.nashvillescene.com/food-drink/bites/article/20846631/downtown-is-gonna-be-smokin-during-the-music-city-bowl", 
+          "page": 1, 
+          "snippet": "I'll be honest with you, as much as I support the Franklin American Mortgage Music City Bowl on a civic level, it's usually been an excuse for me\u00a0...", 
+          "title": "Downtown Is Gonna Be Smokin' During the Music City Bowl"
+        }, 
+        {
+          "crawl-datetime": "Aug 11, 2016", 
+          "link": "http://www.nashvillescene.com/food-drink/cover-story/article/20830303/drink-up-summer", 
+          "page": 1, 
+          "snippet": "The end of the summer means the end of the summer grilling season, so it's time to plan at least one big barbecue blowout. But an open fire\u00a0...", 
+          "title": "Easy-to-make cocktails, punches, boozy melons and more from ..."
+        }, 
+        {
+          "crawl-datetime": "Oct 27, 2016", 
+          "link": "http://www.nashvillescene.com/food-drink/dining-reviews/article/20838622/bastion-twists-the-tasting-menu-into-something-essential", 
+          "page": 1, 
+          "snippet": "... a plaything; matsutake mushrooms are layered on slivers of cauliflower to create a white-on-white bowl of earthiness; something innocuously\u00a0...", 
+          "title": "Bastion Twists the Tasting Menu Into Something Essential"
+        }, 
+        {
+          "crawl-datetime": "Sep 29, 2016", 
+          "link": "http://www.nashvillescene.com/music/features/article/20835158/singular-lady-queen-bey-to-reign-in-nashville-again", 
+          "page": 1, 
+          "snippet": "That album was a game-changer for the music industry, and forget about ... And then she performed it the next day at the Super Bowl halftime\u00a0...", 
+          "title": "Singular Lady: Queen Bey to Reign in Nashville Again"
+        }, 
+        {
+          "crawl-datetime": "Oct 16, 2016", 
+          "link": "http://www.nashvillescene.com/music/spin/article/20837207/adele-chats-up-soldout-bridgestone-crowd-and-sings-too", 
+          "page": 1, 
+          "snippet": "From our perch in the lower bowl we saw a man touch the hem of her ... which is why every city on her current tour is getting more than one\u00a0...", 
+          "title": "Adele Chats Up Sold-Out Bridgestone Crowd \u2014 and Sings Too"
+        }, 
+        {
+          "crawl-datetime": "Jan 4, 2013", 
+          "link": "http://www.nashvillescene.com/news/article/13046355/the-hippodrome-brand-new", 
+          "page": 1, 
+          "snippet": "Newest : I'm no great fan of the Music City Bowl being played in the ... Kentucky would make the annual pilgrimage to the Music City Bowl, like\u00a0...", 
+          "title": "The Hippodrome: Brand New"
+        }, 
+        {
+          "crawl-datetime": "Apr 3, 2014", 
+          "link": "http://www.nashvillescene.com/news/article/13053311/stop-that-crazy-talk-about-hosting-the-super-bowl-domeless-nashville-and-be-proud-were-hosting-the-final-four", 
+          "page": 1, 
+          "snippet": "Stop that crazy talk about hosting the Super Bowl, domeless Nashville, and be ... Nashville should embrace the Music City Bowl and the SEC\u00a0...", 
+          "title": "Stop that crazy talk about hosting the Super Bowl, domeless ..."
+        }, 
+        {
+          "crawl-datetime": "Dec 8, 2016", 
+          "link": "http://www.nashvillescene.com/news/cover-story/article/20846164/the-2016-boner-awards", 
+          "page": 1, 
+          "snippet": "In what can only be described as a true Murfrees-boner, the sheriff started the year in the news by blaming Beyonc\u00e9's Super Bowl \u201cFormation\u201d\u00a0...", 
+          "title": "The 2016 Boner Awards"
+        }
+      ], 
+      "source": {
+        "city-county-lat": 36.164556, 
+        "city-county-long": -86.77738, 
+        "city-county-name": "Nashville", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/pages/Nashville-Scene/34536716194", 
+        "media-kind": "city-county", 
+        "media-type": "newspaper", 
+        "miles": 0.29, 
+        "name": "Nashville Scene", 
+        "open-search": [], 
+        "rss": [], 
+        "state": "TN", 
+        "twitter": "http://www.twitter.com/Nashvillescene", 
+        "video": "https://www.youtube.com/user/nashvillescene/videos", 
+        "website": "http://www.nashvillescene.com/"
+      }
+    }, 
+    {
+      "links": [
+        {
+          "crawl-datetime": "Dec 19, 2016", 
+          "link": "http://www.knoxnews.com/story/sports/college/university-of-tennessee/football/2016/12/19/gvx-audio-nebraska-coach-music-city-bowl-vols/95621002/", 
+          "page": 1, 
+          "snippet": "Nebraska and Tennessee will face off in the Music City Bowl on Dec. 30 in Nashville, Tenn. (3:30 p.m., ESPN). For the full GVX Audio interview,\u00a0...", 
+          "title": "GVX Audio: Nebraska coach on Music City Bowl, Vols"
+        }, 
+        {
+          "crawl-datetime": "Dec 28, 2016", 
+          "link": "http://www.tennessean.com/story/entertainment/music/2016/12/28/music-city-bowl-guide-live-music-nashville/95920722/", 
+          "page": 1, 
+          "snippet": "If you're one of the thousands of college football fans in downtown Nashville this week, your experience shouldn't start and end at the Music\u00a0...", 
+          "title": "Music City Bowl guide: Live music in Nashville"
+        }, 
+        {
+          "crawl-datetime": "Dec 29, 2016", 
+          "link": "http://www.tennessean.com/story/news/2016/12/29/nebraska-band-out-plays-tennessee-music-city-bowl-battle/95971748/", 
+          "page": 1, 
+          "snippet": "Win or lose the Franklin American Mortgage Music City Bowl, the University of Nebraska won't be leaving Nashville empty handed thanks to the\u00a0...", 
+          "title": "Nebraska band outplays Tennessee in Music City Bowl battle"
+        }, 
+        {
+          "crawl-datetime": "Dec 29, 2016", 
+          "link": "http://www.tennessean.com/story/news/local/davidson%20/2016/12/29/police-asking-fans-mindful-music-city-bowl-traffic/95958136/", 
+          "page": 1, 
+          "snippet": "The Franklin American Mortgage Music City Bowl will bring a nearly sold-out stadium crowd, which means a lot of traffic for the downtown\u00a0...", 
+          "title": "A fan's guide to Music City Bowl traffic in Nashville"
+        }, 
+        {
+          "crawl-datetime": "", 
+          "link": "http://www.tennessean.com/story/sports/2017/01/05/music-city-bowl-attendance/96170370/", 
+          "page": 1, 
+          "snippet": "The Franklin American Music City Bowl had the fourth largest attendance of all the college football bowls this season, according to\u00a0...", 
+          "title": "Tennessee, Nebraska made Music City Bowl among most attended"
+        }, 
+        {
+          "crawl-datetime": "Dec 30, 2016", 
+          "link": "http://www.tennessean.com/story/sports/college/university-of-tennessee/football/2016/12/30/kamara-enter-2017-nfl-draft/96027128/", 
+          "page": 1, 
+          "snippet": "On the heels of Friday's Franklin American Mortgage Music City Bowl, the Vols' star running back confirmed he has opted to enter the 2017 NFL\u00a0...", 
+          "title": "Kamara to enter 2017 NFL Draft"
+        }, 
+        {
+          "crawl-datetime": "Dec 30, 2016", 
+          "link": "http://www.tennessean.com/story/sports/college/university-of-tennessee/football/2016/12/30/vols-roll-music-city-bowl/96003852/", 
+          "page": 1, 
+          "snippet": "NASHVILLE \u2013 Tennessee, mythical champion of life, earned a very tangible trophy Friday in its final appearance of the 2016 football season.", 
+          "title": "Tennessee rolls in Music City Bowl to beat Nebraska, 38-24"
+        }, 
+        {
+          "crawl-datetime": "Dec 22, 2016", 
+          "link": "http://www.tennessean.com/story/sports/college/ut/2016/12/22/nebraska-all-big-ten-safety-ineligible-music-city-bowl/95772750/", 
+          "page": 1, 
+          "snippet": "LINCOLN, Neb. \u2014 First-team All Big Ten safety Nate Gerry will not play for No. 24 Nebraska when the Cornhuskers play Tennessee in the\u00a0...", 
+          "title": "Nebraska All-Big Ten safety ineligible for Music City Bowl"
+        }, 
+        {
+          "crawl-datetime": "Dec 30, 2016", 
+          "link": "http://www.tennessean.com/story/sports/college/ut/2016/12/30/how-watch-music-city-bowl-tv-radio-streaming-info/95920082/", 
+          "page": 1, 
+          "snippet": "Tennessee faces Nebraska in the Franklin American Mortgage Music City Bowl on Friday at Nissan Stadium. Kickoff is at 2:30 p.m. in Nashville\u00a0...", 
+          "title": "How to watch Music City Bowl: TV, radio, streaming info"
+        }, 
+        {
+          "crawl-datetime": "Jan 3, 2017", 
+          "link": "http://www.tennessean.com/story/sports/college/vols/2017/01/03/360-photos-music-city-bowl/96108110/", 
+          "page": 1, 
+          "snippet": "We take you close to the fans cheering in the stands during University of Tennessee's matchup against the Nebraska Cornhuskers in the\u00a0...", 
+          "title": "A 360 view from Music City Bowl in Nashville"
+        }
+      ], 
+      "source": {
+        "city-county-lat": 36.164556, 
+        "city-county-long": -86.77738, 
+        "city-county-name": "Nashville", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/tennessean", 
+        "media-kind": "city-county", 
+        "media-type": "newspaper", 
+        "miles": 0.29, 
+        "name": "Tennessean", 
+        "open-search": [], 
+        "rss": [], 
+        "state": "TN", 
+        "twitter": "http://www.twitter.com/tennessean", 
+        "video": "https://www.youtube.com/user/tndotcom/videos", 
+        "website": "http://www.tennessean.com/"
+      }
+    }, 
+    {
+      "links": [
+        {
+          "crawl-datetime": "", 
+          "link": "http://tntribune.com/lifestyle/entertainment/spend-evening-taylor-hicks-weekend/", 
+          "page": 1, 
+          "snippet": "Nov 18, 2016 - The music style for this album is kind of like if Jackson Browne and ... We've been to several cities and sampled many great dishes. ... I must ask, who's your pick to win the 2016 Iron Bowl game between Alabama and Auburn?", 
+          "title": "Spend an Evening With Taylor Hicks This Weekend! - The ..."
+        }
+      ], 
+      "source": {
+        "city-county-lat": 36.164556, 
+        "city-county-long": -86.77738, 
+        "city-county-name": "Nashville", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/thetennesseetribune", 
+        "media-kind": "city-county", 
+        "media-type": "newspaper", 
+        "miles": 0.29, 
+        "name": "Tennessee Tribune", 
+        "open-search": [], 
+        "rss": [
+          "http://tntribune.com/feed/", 
+          "http://tntribune.com/comments/feed/", 
+          "http://tntribune.com/homepage-magazine/feed/"
+        ], 
+        "state": "TN", 
+        "twitter": "http://www.twitter.com/tn_tribune", 
+        "video": "https://www.youtube.com/user/TheTennesseeTribune/videos", 
+        "website": "http://tntribune.com/"
+      }
+    }, 
+    {
+      "links": [
+        {
+          "crawl-datetime": "Dec 23, 2015", 
+          "link": "http://wkrn.com/2015/12/23/nashville-prepares-for-music-city-bowl-bash-on-broadway/", 
+          "page": 1, 
+          "snippet": "NASHVILLE, Tenn. (WKRN) \u2013 Next week Texas A & M and Louisville will face off against each other in Nashville's Music City Bowl, and more\u00a0...", 
+          "title": "Nashville prepares for Music City Bowl, Bash on Broadway"
+        }, 
+        {
+          "crawl-datetime": "Nov 18, 2016", 
+          "link": "http://wkrn.com/2016/11/18/nashville-auto-show-returns-to-music-city/", 
+          "page": 1, 
+          "snippet": "If so, you can check out more than 350 vehicles from 30 different manufacturers at the Nashville International Auto Show at the Music City\u00a0...", 
+          "title": "Nashville Auto Show returns to Music City"
+        }, 
+        {
+          "crawl-datetime": "Dec 4, 2016", 
+          "link": "http://wkrn.com/2016/12/04/tennessee-faces-nebraska-in-music-city-bowl/", 
+          "page": 1, 
+          "snippet": "\u201cWe couldn't be more excited to welcome Nebraska and Tennessee to Nashville for the Franklin American Mortgage Music City Bowl,\u201d said\u00a0...", 
+          "title": "Tennessee to face Nebraska in Music City Bowl"
+        }, 
+        {
+          "crawl-datetime": "Dec 12, 2016", 
+          "link": "http://wkrn.com/2016/12/12/ut-to-honor-sevier-county-fire-victims-at-music-city-bowl/", 
+          "page": 1, 
+          "snippet": "KNOXVILLE, Tenn. (WKRN) \u2013 The University of Tennessee will show its support of the Sevier County wildfire victims at the Music City Bowl.", 
+          "title": "UT to honor Sevier County fire victims at Music City Bowl"
+        }, 
+        {
+          "crawl-datetime": "Dec 20, 2016", 
+          "link": "http://wkrn.com/2016/12/20/ut-players-say-theyre-ready-to-prove-themselves-at-music-city-bowl/", 
+          "page": 1, 
+          "snippet": "KNOXVILLE, Tenn. (WATE) \u2013 Tennessee is only 10 days away from the Franklin American Mortgage Music City Bowl and players said they are\u00a0...", 
+          "title": "UT players say they're ready to prove themselves at Music City Bowl"
+        }, 
+        {
+          "crawl-datetime": "Dec 26, 2016", 
+          "link": "http://wkrn.com/2016/12/26/thunderstorms-headed-to-middle-tennessee-later-monday/", 
+          "page": 1, 
+          "snippet": "... wind, dropping temps to the upper 20s Friday morning, and Friday will be sunny and cool for the Music City Bowl with highs in the mid-40s.", 
+          "title": "Storms push through Middle Tennessee on Monday night"
+        }, 
+        {
+          "crawl-datetime": "Dec 29, 2016", 
+          "link": "http://wkrn.com/2016/12/29/festivities-begin-in-downtown-nashville-for-music-city-bowl/", 
+          "page": 1, 
+          "snippet": "NASHVILLE, Tenn. (WKRN) \u2013 The fun has begun as thousands of people descend on Nashville for the Franklin American Mortgage Music City\u00a0...", 
+          "title": "Festivities held in downtown Nashville for Music City Bowl"
+        }, 
+        {
+          "crawl-datetime": "Dec 30, 2016", 
+          "link": "http://wkrn.com/2016/12/30/tennessee-beats-no-24-nebraska-38-24-in-music-city-bowl/", 
+          "page": 1, 
+          "snippet": "NASHVILLE, Tenn. (WKRN) \u2013 For the first time since 1994, the Tennessee Volunteers have won three straight bowl games capped off with a\u00a0...", 
+          "title": "Tennessee Wins Music City Bowl 38-24"
+        }, 
+        {
+          "crawl-datetime": "Jan 1, 2017", 
+          "link": "http://wkrn.com/2017/01/01/music-city-bowl-new-years-in-nashville-to-bring-in-over-30m/", 
+          "page": 1, 
+          "snippet": "NASHVILLE, Tenn. (WKRN) \u2013 Nashville is starting off 2017 with a bang. Visitors stuck around Music City Sunday night for the holiday\u2013 and\u00a0...", 
+          "title": "Music City Bowl, New Year's in Nashville to bring in over $35M"
+        }, 
+        {
+          "crawl-datetime": "Jan 3, 2017", 
+          "link": "http://wkrn.com/2017/01/03/derek-barnett-announces-via-twitter-hes-leaving-ut/", 
+          "page": 1, 
+          "snippet": "Barnett, who is from Nashville, posted his record-breaking sack Friday late in Tennessee's 38-24 Music City Bowl victory over No. 24 Nebraska.", 
+          "title": "Derek Barnett announces via Twitter he's leaving UT"
+        }
+      ], 
+      "source": {
+        "city-county-lat": 36.164556, 
+        "city-county-long": -86.77738, 
+        "city-county-name": "Nashville", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/wkrntv", 
+        "media-kind": "", 
+        "media-type": "tv", 
+        "miles": 0.29, 
+        "name": "WKRN", 
+        "open-search": [
+          "http://wkrn.com/osd.xml", 
+          "https://s1.wp.com/opensearch.xml"
+        ], 
+        "rss": [
+          "http://wkrn.com/feed/", 
+          "http://wkrn.com/comments/feed/"
+        ], 
+        "state": "TN", 
+        "twitter": "http://www.twitter.com/wkrn", 
+        "video": "", 
+        "website": "http://www.wkrn.com/"
+      }
+    }, 
+    {
+      "links": [
+        {
+          "crawl-datetime": "", 
+          "link": "http://www.tucsonnewsnow.com/story/33799609/cardinals-gameday-atlanta-falcons", 
+          "page": 1, 
+          "snippet": "ATLANTA -. The Cardinals travel to Atlanta this week to take on the NFC South-leading Falcons in Arizona's 10th and final regular season\u00a0...", 
+          "title": "Cardinals Gameday: Atlanta Falcons"
+        }, 
+        {
+          "crawl-datetime": "Nov 20, 2016", 
+          "link": "http://www.wrcbtv.com/story/33757107/chattanooga-comeback-falls-short-in-loss-to-arkansas-state", 
+          "page": 1, 
+          "snippet": "WEST POINT (GoMocs.com)---The Chattanooga Mocs (3-2) fell short in a 73-67 loss to Arkansas State (4-1) in the championship game of the\u00a0...", 
+          "title": "Chattanooga Comeback Falls Short in Loss to Arkansas State"
+        }, 
+        {
+          "crawl-datetime": "", 
+          "link": "http://www.wrcbtv.com/story/33799409/vanderbilt-upsets-no-24-tennessee-45-34", 
+          "page": 1, 
+          "snippet": "NASHVILLE, Tenn. (AP) - Kyle Shurmur threw for a career-high 416 yards, and Vanderbilt scored the final 21 points in an upset of No.", 
+          "title": "Vanderbilt upsets No. 24 Tennessee, 45-34"
+        }, 
+        {
+          "crawl-datetime": "", 
+          "link": "http://www.wsmv.com/story/34018222/vols-to-wear-smokey-grey-uniforms-to-honor-gatlinburg", 
+          "page": 1, 
+          "snippet": "KNOXVILLE, Tenn. (AP) - Tennessee is planning to wear its \"Smokey grey\" alternate uniforms for the Music City Bowl as a way to honor victims\u00a0...", 
+          "title": "Vols to wear 'Smokey grey' uniforms to honor Gatlinburg"
+        }, 
+        {
+          "crawl-datetime": "", 
+          "link": "http://www.wsmv.com/story/34020292/with-armstrong-ailing-fyfe-prepped-as-huskers-bowl-starter", 
+          "page": 1, 
+          "snippet": "24 Nebraska began preparations for the Music City Bowl against Tennessee on Dec. 30. Coach Mike Riley said he's preparing fifth-year senior\u00a0...", 
+          "title": "With Armstrong ailing, Fyfe prepped as Huskers' bowl starter"
+        }, 
+        {
+          "crawl-datetime": "", 
+          "link": "http://www.wsmv.com/story/34098825/academic-issues-sideline-vols-boulware-for-music-city-bowl", 
+          "page": 1, 
+          "snippet": "KNOXVILLE, Tenn. (AP) - Tennessee offensive lineman Venzell Boulware has been ruled academically ineligible for the Music City Bowl\u00a0...", 
+          "title": "Academic issues sideline Vols' Boulware for Music City Bowl"
+        }, 
+        {
+          "crawl-datetime": "", 
+          "link": "http://www.wsmv.com/story/34118023/nebraska-loses-safety-nate-gerry-for-bowl-vs-tennessee", 
+          "page": 1, 
+          "snippet": "(AP) - First-team All Big Ten safety Nate Gerry will not play for No. 24 Nebraska when the Cornhuskers play Tennessee in the Music City Bowl\u00a0...", 
+          "title": "Nebraska loses safety Nate Gerry for bowl vs Tennessee"
+        }, 
+        {
+          "crawl-datetime": "", 
+          "link": "http://www.wsmv.com/story/34156464/tennessee-beats-no-24-nebraska-38-24-in-music-city-bowl", 
+          "page": 1, 
+          "snippet": "24 Nebraska 38-24 on Friday in the Music City Bowl. ... It's the first time Tennessee has won three straight bowls since 1994-1996 when Peyton\u00a0...", 
+          "title": "Tennessee beats No. 24 Nebraska 38-24 in Music City Bowl"
+        }, 
+        {
+          "crawl-datetime": "", 
+          "link": "http://www.wsmv.com/story/34157672/latest-kentucky-and-tennessee-sports", 
+          "page": 1, 
+          "snippet": "24 Nebraska 38-24 in Music City Bowl. NASHVILLE, Tenn. (AP) - Joshua Dobbs ran for three touchdowns and 118 yards and threw for 291\u00a0...", 
+          "title": "Latest Kentucky and Tennessee sports"
+        }, 
+        {
+          "crawl-datetime": "", 
+          "link": "http://www.wsmv.com/story/34174005/ap-source-indiana-to-hire-debord-as-offensive-coordinator", 
+          "page": 1, 
+          "snippet": "Last season, the Volunteers finished 9-4 and won the Music City Bowl with an offense that ranked 24th in the FBS in scoring (36.4 points) and\u00a0...", 
+          "title": "AP source: Indiana to hire DeBord as offensive coordinator"
+        }
+      ], 
+      "source": {
+        "city-county-lat": 36.164556, 
+        "city-county-long": -86.77738, 
+        "city-county-name": "Nashville", 
+        "country": "USA", 
+        "facebook": "https://www.facebook.com/WSMVTV", 
+        "media-kind": "", 
+        "media-type": "tv", 
+        "miles": 0.29, 
+        "name": "WSMV", 
+        "open-search": [], 
+        "rss": [], 
+        "state": "TN", 
+        "twitter": "http://www.twitter.com/wsmv", 
+        "video": "https://www.youtube.com/user/WSMVTV/videos", 
+        "website": "http://www.wsmv.com/"
+      }
+    }
+  ], 
+  "collectionName": "Football", 
+  "country": "USA", 
+  "maximum-links-per-source": 10, 
+  "query": "Music City Bowl", 
+  "query-id": "usa-37219-music-city-bowl-10-2017-01-05-nv", 
+  "self-collection": [
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Music%20City%20Bowl%20site%3Anashvillecitypaper.com&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Music%20City%20Bowl%20site%3Aelcruceronews.com&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Music%20City%20Bowl%20site%3Alacampana.us&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Music%20City%20Bowl%20site%3Amundohispanotn.com&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Music%20City%20Bowl%20site%3Abizjournals.com&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Music%20City%20Bowl%20site%3Anashvillescene.com&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Music%20City%20Bowl%20site%3Atennessean.com&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Music%20City%20Bowl%20site%3Atntribune.com&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Music%20City%20Bowl%20site%3Awkrn.com&tbm=nws"
+    }, 
+    {
+      "deleted": false, 
+      "search-uri": "https://www.google.com/search?as_q=Music%20City%20Bowl%20site%3Awsmv.com&tbm=nws"
+    }
+  ], 
+  "self-lmg": "http://www.localmemory.org/api/USA/37219/10/?off=radio", 
+  "state": "TN", 
+  "timestamp": "2017-01-05T20:33:44Z", 
+  "user-id": "lmp-test", 
+  "zipcode": "37219"
+}
