@@ -1,0 +1,691 @@
+{
+  "self_lmg": "http://www.localmemory.org/api/USA/58538/15/?off=radio",
+  "country": "USA",
+  "maximumLinksPerSource": "15",
+  "collection": [
+    {
+      "source": {
+        "openSearch": [],
+        "cityCountyNameLong": -100.7723,
+        "country": "USA",
+        "cityCountyName": "Bismarck",
+        "Twitter": "http://www.twitter.com/bistrib",
+        "Video": "http://www.youtube.com/user/BismarckTribune",
+        "rss": [
+          "http://bismarcktribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k[]=%23topstory"
+        ],
+        "website": "http://bismarcktribune.com/",
+        "miles": 53.73,
+        "cityCountyNameLat": 46.83962,
+        "name": "Bismarck Tribune",
+        "Facebook": "https://www.facebook.com/BisTrib",
+        "type": "Newspaper - cityCounty",
+        "state": "ND"
+      },
+      "links": [
+        {
+          "snippet": "11, one of the first days of the Dakota Access Pipeline protests. A police affidavit filed in the case accuses the defendants of pushing through\u00a0...",
+          "link": "http://bismarcktribune.com/news/local/crime-and-courts/monday-trial-of-protesters-postponed/article_eac32151-1bfc-575a-9ed7-4d71e6a66d50.html",
+          "title": "Monday trial of 10 protesters postponed",
+          "page": 1,
+          "singleTweetPath": "",
+          "archivedDomain": 964,
+          "crawlDatetime": "Dec 19, 2016",
+          "archived": false
+        },
+        {
+          "snippet": "Burgum also addressed the Dakota Access Pipeline protests and the impact on relations between the Standing Rock Sioux Tribe and the state.",
+          "link": "http://bismarcktribune.com/news/local/govt-and-politics/burgum-highlights-government-reinvention-in-state-of-the-state/article_4106fd98-eefe-5a2e-b9a8-5b9245317c73.html",
+          "title": "Burgum highlights government reinvention in State of the State",
+          "page": 1,
+          "singleTweetPath": "",
+          "archivedDomain": 964,
+          "crawlDatetime": "Jan 3, 2017",
+          "archived": false
+        },
+        {
+          "snippet": "BISMARCK, N.D. (AP) \u2014 More bad weather is forecast in southern North Dakota where opponents of the Dakota Access oil pipeline are\u00a0...",
+          "link": "http://bismarcktribune.com/news/state-and-regional/blizzard-forecast-for-pipeline-protest-camp-in-north-dakota/article_28d4166b-27a0-57ad-a7c6-13b505c13bdc.html",
+          "title": "Blizzard forecast for pipeline protest camp in North Dakota",
+          "page": 1,
+          "singleTweetPath": "",
+          "archivedDomain": 964,
+          "crawlDatetime": "",
+          "archived": false
+        },
+        {
+          "snippet": "Federal grand jury looks into violent pipeline protest clash ... helping hold a banner with other protesters against the Dakota Access Pipeline.",
+          "link": "http://bismarcktribune.com/news/state-and-regional/federal-grand-jury-looks-into-violent-pipeline-protest-clash/article_d914f4ee-5ae6-5cd3-8e4d-59519e94ed5d.html",
+          "title": "Federal grand jury looks into violent pipeline protest clash",
+          "page": 1,
+          "singleTweetPath": "",
+          "archivedDomain": 964,
+          "crawlDatetime": "",
+          "archived": false
+        },
+        {
+          "snippet": "4, 2016 file photo, protesters march at Oceti Sakowin camp where people have gathered to protest the Dakota Access oil pipeline in Cannon\u00a0...",
+          "link": "http://bismarcktribune.com/news/state-and-regional/months-long-dakota-access-pipeline-protest-tops-year-in-news/article_ded3c5f8-2e92-556d-a670-ee6ecfa7e7e8.html",
+          "title": "Months-long Dakota Access pipeline protest tops year in news",
+          "page": 1,
+          "singleTweetPath": "",
+          "archivedDomain": 964,
+          "crawlDatetime": "",
+          "archived": false
+        },
+        {
+          "snippet": "Attorneys are asking the North Dakota Supreme Court to allow out-of-state lawyers to represent some of the Dakota Access Pipeline protesters\u00a0...",
+          "link": "http://bismarcktribune.com/news/state-and-regional/petitioners-request-out-of-state-lawyers-be-allowed-to-represent/article_184cf7b5-89f6-5e51-bb32-34940cdb20d0.html",
+          "title": "Petitioners request out-of-state lawyers be allowed to represent ...",
+          "page": 1,
+          "singleTweetPath": "",
+          "archivedDomain": 964,
+          "crawlDatetime": "Dec 14, 2016",
+          "archived": false
+        },
+        {
+          "snippet": "Protesters against the Dakota Access Pipeline rappel from the catwalk in U.S. Bank Stadium during the first half of an NFL football game\u00a0...",
+          "link": "http://bismarcktribune.com/news/state-and-regional/released-in-dakota-access-pipeline-stadium-protest/article_daedbd7f-e57c-598f-9e68-6a2546f6094b.html",
+          "title": "3 released in Dakota Access pipeline stadium protest",
+          "page": 1,
+          "singleTweetPath": "",
+          "archivedDomain": 964,
+          "crawlDatetime": "Jan 2, 2017",
+          "archived": false
+        },
+        {
+          "snippet": "Protesters against the Dakota Access Pipeline rappel from the catwalk in U.S. Bank Stadium during the first half of an NFL football game\u00a0...",
+          "link": "http://bismarcktribune.com/news/state-and-regional/stadium-manager-says-protesters-had-tickets-to-vikings-game/article_097f43a9-e72c-5e14-8cfb-2d34ea4a83e3.html",
+          "title": "Stadium manager says protesters had tickets to Vikings game",
+          "page": 1,
+          "singleTweetPath": "",
+          "archivedDomain": 964,
+          "crawlDatetime": "Jan 3, 2017",
+          "archived": false
+        },
+        {
+          "snippet": "Testing completed of bridge damaged by pipeline protesters ... was burned on the bridge during Dakota Access Pipeline protest activities.",
+          "link": "http://bismarcktribune.com/news/state-and-regional/testing-completed-of-bridge-damaged-by-pipeline-protesters/article_14653072-570f-5f60-8e5c-c956b540db9e.html",
+          "title": "Testing completed of bridge damaged by pipeline protesters",
+          "page": 1,
+          "singleTweetPath": "",
+          "archivedDomain": 964,
+          "crawlDatetime": "",
+          "archived": false
+        },
+        {
+          "snippet": "A law enforcement officer speaks to a protester against the Dakota Access Pipeline through a wall of razor wire on the Backwater Bridge over\u00a0...",
+          "link": "http://bismarcktribune.com/news/state-and-regional/the-latest-dakota-access-protesters-beginning-to-leave/article_2795d2c0-21ee-549e-8eb2-00721a5c8863.html",
+          "title": "The Latest: Dakota Access protesters beginning to leave",
+          "page": 1,
+          "singleTweetPath": "",
+          "archivedDomain": 964,
+          "crawlDatetime": "Dec 9, 2016",
+          "archived": false
+        }
+      ]
+    },
+    {
+      "source": {
+        "openSearch": [],
+        "cityCountyNameLong": -100.7723,
+        "country": "USA",
+        "cityCountyName": "Bismarck",
+        "Twitter": "http://www.twitter.com/farmranchguide",
+        "Video": "https://www.youtube.com/user/farmguide",
+        "rss": [
+          "http://www.farmandranchguide.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k[]=%23topstory"
+        ],
+        "website": "http://www.farmandranchguide.com/",
+        "miles": 53.73,
+        "cityCountyNameLat": 46.83962,
+        "name": "Farm & Ranch Guide",
+        "Facebook": "https://www.facebook.com/farmandranchguide",
+        "type": "Newspaper - cityCounty",
+        "state": "ND"
+      },
+      "links": [
+        {
+          "snippet": "This included a 4.3 percent annual decline in farm land values in Minnesota, a drop of 4.6 percent in both Wisconsin and North Dakota, and a\u00a0...",
+          "link": "http://www.farmandranchguide.com/news/crop/data-indicates-land-values-declining-in-many-areas/article_9919f340-6319-11e6-a629-cbf1b144b35b.html",
+          "title": "Data indicates land values declining in many areas",
+          "page": 1,
+          "singleTweetPath": "",
+          "archivedDomain": 431,
+          "crawlDatetime": "Aug 18, 2016",
+          "archived": false
+        },
+        {
+          "snippet": "Eastern and south central Montana to western North Dakota and ... map of where sugarbeet fields are located that producers could access and\u00a0...",
+          "link": "http://www.farmandranchguide.com/news/livestock/backgrounding-calves-a-possibility-this-year-but-what-to-feed/article_468d2102-b598-11e6-82ad-13c0d8a5907c.html",
+          "title": "Backgrounding calves a possibility this year but what to feed?",
+          "page": 1,
+          "singleTweetPath": "",
+          "archivedDomain": 431,
+          "crawlDatetime": "Nov 28, 2016",
+          "archived": false
+        },
+        {
+          "snippet": "The same workshop information will be presented at the North Dakota Beef Commission offices in Bismarck on Dec. 16, and Jan. 3 and Feb.",
+          "link": "http://www.farmandranchguide.com/news/livestock/bull-buying-workshops-set/article_f6a808ae-bd6d-11e6-b40c-cb9c74f750b5.html",
+          "title": "Bull-buying workshops set",
+          "page": 1,
+          "singleTweetPath": "",
+          "archivedDomain": 431,
+          "crawlDatetime": "Nov 25, 2016",
+          "archived": false
+        },
+        {
+          "snippet": "MONTPELIER, N.D. \u2013 Those attending the recent North Dakota Stockmen's Association Spring Roundup meeting in Montpelier had the\u00a0...",
+          "link": "http://www.farmandranchguide.com/news/livestock/details-on-the-new-veterinary-feed-directive-outlined/article_3251919a-398e-11e6-a36f-3b32d57f6e9e.html",
+          "title": "Details on the new Veterinary Feed Directive outlined",
+          "page": 1,
+          "singleTweetPath": "",
+          "archivedDomain": 431,
+          "crawlDatetime": "Jun 27, 2016",
+          "archived": false
+        },
+        {
+          "snippet": "GRAND FORKS, N.D. \u2013 Swine producers attending the recent North Dakota Pork Convention in Grand Forks heard how alternative or niche\u00a0...",
+          "link": "http://www.farmandranchguide.com/news/livestock/marketing-hogs-in-an-alternative-or-niche-market/article_815be3c8-e4b4-11e5-9afb-df9546d5dde9.html",
+          "title": "Marketing hogs in an alternative or niche market",
+          "page": 1,
+          "singleTweetPath": "",
+          "archivedDomain": 431,
+          "crawlDatetime": "Mar 9, 2016",
+          "archived": false,
+          "relevance": false
+        },
+        {
+          "snippet": "... had been put in place to help contain protest activity toward the river. ... which wasn't a certainty to begin with as the Dakota Access Pipeline\u00a0...",
+          "link": "http://www.farmandranchguide.com/news/producer_reports/strommens-meeting-challenges-head-on-as-bull-sale-season-approaches/article_501a554a-c6dd-11e6-b74f-6f01de1c2bdb.html",
+          "title": "Strommens meeting challenges 'head on' as bull sale season ...",
+          "page": 1,
+          "singleTweetPath": "",
+          "archivedDomain": 431,
+          "crawlDatetime": "Dec 23, 2016",
+          "archived": false
+        },
+        {
+          "snippet": "Aaron Krauter, USDA Farm Service Agency North Dakota field office, said the lower numbers did not translate to a lack of interest from\u00a0...",
+          "link": "http://www.farmandranchguide.com/news/regional/crp-program-approves-less-acreage-due-to-farm-bill/article_db87728e-1891-11e6-ad7f-8340209116eb.html",
+          "title": "CRP program approves less acreage due to farm bill",
+          "page": 1,
+          "singleTweetPath": "",
+          "archivedDomain": 431,
+          "crawlDatetime": "",
+          "archived": false
+        },
+        {
+          "snippet": "Honey and honey bee figures are very important to producers in North Dakota, since the state leads the nation in honey production, with\u00a0...",
+          "link": "http://www.farmandranchguide.com/news/regional/latest-honey-bee-survey-shows-continued-population-decline-in-us/article_ef99bcb6-280c-11e6-a5df-d7d22d7dd3be.html",
+          "title": "Latest honey bee survey shows continued population decline in US",
+          "page": 1,
+          "singleTweetPath": "",
+          "archivedDomain": 431,
+          "crawlDatetime": "Jun 1, 2016",
+          "archived": false
+        },
+        {
+          "snippet": "The fall to winter trend in North Dakota and Montana indicates warmer than normal temperatures, which is the new normal for the future.",
+          "link": "http://www.farmandranchguide.com/news/regional/trends-indicate-warmer-than-normal-temps-from-fall-into-winter/article_2277c49c-84ca-11e6-82ba-278887fdda78.html",
+          "title": "Trends indicate warmer than normal temps from fall into winter",
+          "page": 1,
+          "singleTweetPath": "",
+          "archivedDomain": 431,
+          "crawlDatetime": "Sep 27, 2016",
+          "archived": false
+        },
+        {
+          "snippet": "... local farmers and ranchers who are attempting to continue operating under the fragile circumstances of the Dakota Access pipeline protests.",
+          "link": "http://www.farmandranchguide.com/news/regional/with-tension-mounting-farmers-ranchers-feeling-effects-of-pipeline-protests/article_4368ba7c-b57a-11e6-919c-3f71e0d9160e.html",
+          "title": "With tension mounting farmers, ranchers feeling effects of pipeline ...",
+          "page": 1,
+          "singleTweetPath": "",
+          "archivedDomain": 431,
+          "crawlDatetime": "Nov 28, 2016",
+          "archived": false
+        }
+      ]
+    },
+    {
+      "source": {
+        "openSearch": [],
+        "cityCountyNameLong": -100.7723,
+        "country": "USA",
+        "cityCountyName": "Bismarck",
+        "Twitter": "http://www.twitter.com/kfyrtv",
+        "Video": "http://www.youtube.com/user/KFYRTV",
+        "rss": [],
+        "website": "http://www.kfyrtv.com/",
+        "miles": 53.73,
+        "cityCountyNameLat": 46.83962,
+        "name": "KFYR",
+        "Facebook": "https://www.facebook.com/KFYRtv",
+        "type": "TV",
+        "state": "ND"
+      },
+      "links": [
+        {
+          "snippet": "It wasn't all about money. Burgum says Dakota Access Pipeline protesters are camping in a flood plain, and come spring the area could flood.",
+          "link": "http://www.kfyrtv.com/content/news/2017-North-Dakota-State-of-the-State-409556635.html",
+          "title": "2017 North Dakota State of the State",
+          "page": 1,
+          "singleTweetPath": "/RoamtheDomes/status/816438517026983937",
+          "archivedDomain": 1305,
+          "crawlDatetime": "Jan 3, 2017",
+          "archived": true
+        },
+        {
+          "snippet": "CANNON BALL, N.D. - Since the Army Corps of Engineers denied the easement for the Dakota Access Pipeline to cross the Missouri River and\u00a0...",
+          "link": "http://www.kfyrtv.com/content/news/DAPL-protest-camp-numbers-remain-around-1000-campers-say-despite-subzero-temperatures-406634035.html",
+          "title": "Campers say DAPL protest camp numbers remain around 1000",
+          "page": 1,
+          "singleTweetPath": "/aworkingpoor/status/810484346415120384",
+          "archivedDomain": 1305,
+          "crawlDatetime": "Dec 14, 2016",
+          "archived": true
+        },
+        {
+          "snippet": "BISMARCK, N.D. - A Williston man has been ordered to testify to a federal grand jury regarding the Dakota Access Pipeline protests.",
+          "link": "http://www.kfyrtv.com/content/news/DAPL-protester-ordered-to-testify-before-federal-grand-jury-on-incident-at-Backwater-Bridge-409721895.html",
+          "title": "DAPL protester ordered to testify before federal grand jury on ...",
+          "page": 1,
+          "singleTweetPath": "/steph14156/status/817197013683097600",
+          "archivedDomain": 1305,
+          "crawlDatetime": "",
+          "archived": true
+        },
+        {
+          "snippet": "MORTON COUNTY, ND - Protests against construction of the Dakota Access Pipeline began in April and grew in frequency and intensity\u00a0...",
+          "link": "http://www.kfyrtv.com/content/news/Dakota-Access-Pipeline-protests-how-they-began-and-evolved-during-2016-409201085.html",
+          "title": "Dakota Access Pipeline protests: how they began and evolved ...",
+          "page": 1,
+          "singleTweetPath": "",
+          "archivedDomain": 1305,
+          "crawlDatetime": "Jan 2, 2017",
+          "archived": true
+        },
+        {
+          "snippet": "... Morton County's request for federal officers' help with DAPL protests ... officers to help with the protests against the Dakota Access Pipeline,\u00a0...",
+          "link": "http://www.kfyrtv.com/content/news/Federal-government-denies-Morton-Countys-request-for-federal-officers-help-with-DAPL-protests-406610305.html",
+          "title": "Federal government denies Morton County's request for federal ...",
+          "page": 1,
+          "singleTweetPath": "/Gato_Peligro/status/810010629004201989",
+          "archivedDomain": 1305,
+          "crawlDatetime": "Dec 14, 2016",
+          "archived": true
+        },
+        {
+          "snippet": "BISMARCK-MANDAN, N.D. - The Dakota Access Pipeline protests may be over, at least for now. But the full story is far from over.",
+          "link": "http://www.kfyrtv.com/content/news/Hundreds-of-DAPL-protesters-charged-with-misdemeanors-requesting-jury-trials-407670845.html",
+          "title": "Hundreds of DAPL protesters charged with misdemeanors ...",
+          "page": 1,
+          "singleTweetPath": "/CarrieAtMaud/status/814355416180137984",
+          "archivedDomain": 1305,
+          "crawlDatetime": "Dec 20, 2016",
+          "archived": true
+        },
+        {
+          "snippet": "STANDING ROCK, N.D. - Standing Rock Sioux Tribal Chairman Dave Archambault asked demonstrators protesting the Dakota Access Pipeline\u00a0...",
+          "link": "http://www.kfyrtv.com/content/news/Indigenous-Environmental-Network-urges-protesters-to-leave-DAPL-camp-405504345.html",
+          "title": "Indigenous Environmental Network encourages protesters to leave ...",
+          "page": 1,
+          "singleTweetPath": "/AntoniaJuhasz/status/807350427301748736",
+          "archivedDomain": 1305,
+          "crawlDatetime": "Dec 8, 2016",
+          "archived": true
+        },
+        {
+          "snippet": "MORTON COUNTY, N.D. - UPDATE: The Morton County Sheriff's Department says five Dakota Access Pipeline protesters were arrested\u00a0...",
+          "link": "http://www.kfyrtv.com/content/news/More-arrested-at-Dakota-Access-Pipeline-protest-camp-Tuesday-408517955.html",
+          "title": "more arrests made at Dakota Access Pipeline protest camp Tuesday",
+          "page": 1,
+          "singleTweetPath": "/Karaoke_God/status/814405064047595520",
+          "archivedDomain": 1305,
+          "crawlDatetime": "Dec 28, 2016",
+          "archived": false
+        },
+        {
+          "snippet": "MORTON COUNTY, ND - Protests activities have lead to more arrests for Dakota Access Pipeline demonstrators in southern Morton County this\u00a0...",
+          "link": "http://www.kfyrtv.com/content/news/New-Years-protest-activities-lead-to-more-arrests-for-Dakota-Access-Pipeline-protesters-409175285.html",
+          "title": "New Year's protest activities lead to more arrests for Dakota Access ...",
+          "page": 1,
+          "singleTweetPath": "/klanierca/status/816352375061368832",
+          "archivedDomain": 1305,
+          "crawlDatetime": "Jan 1, 2017",
+          "archived": true
+        },
+        {
+          "snippet": "... and why protesters and members of the Standing Rock Sioux Tribe still ... Dakota Access Pipeline project - which means if a spill does occur,\u00a0...",
+          "link": "http://www.kfyrtv.com/content/news/Water-intake-system-for-Standing-Rock-Sioux-Tribe-surrounding-areas-being-moved-south-before-construction-of-DAPL-408084365.html",
+          "title": "Water intake system for Standing Rock Sioux Tribe, surrounding ...",
+          "page": 1,
+          "singleTweetPath": "/LeftonMain/status/812782054534328320",
+          "archivedDomain": 1305,
+          "crawlDatetime": "Dec 23, 2016",
+          "archived": true
+        }
+      ]
+    },
+    {
+      "source": {
+        "openSearch": [],
+        "cityCountyNameLong": -98.72826,
+        "country": "USA",
+        "exclude": false,
+        "cityCountyName": "Jamestown",
+        "Facebook": "https://www.facebook.com/TheJamestownSun",
+        "Video": "http://www.youtube.com/user/jamestownsun",
+        "rss": [
+          "http://www.jamestownsun.com/latest/rss/"
+        ],
+        "website": "http://www.jamestownsun.com/",
+        "miles": 111.31,
+        "cityCountyNameLat": 46.906983,
+        "name": "Jamestown Sun",
+        "Twitter": "http://www.twitter.com/jamestownsun",
+        "type": "Newspaper - cityCounty",
+        "state": "ND"
+      },
+      "links": [
+        {
+          "snippet": "... in Minneapolis was disrupted in the second quarter by a demonstration protesting U.S. Bank's involvement in the Dakota Access Pipeline.",
+          "link": "http://www.jamestownsun.com/news/4190584-dakota-access-protesters-rappel-rafters-during-vikings-bears-game",
+          "title": "Dakota Access protesters rappel from rafters during Vikings-Bears ...",
+          "page": 1,
+          "singleTweetPath": "/jamestownsun/status/815723497049780228",
+          "archivedDomain": 1065,
+          "crawlDatetime": "Jan 1, 2017",
+          "archived": false
+        },
+        {
+          "snippet": "BISMARCK\u2014A viral video that appears to show masked men verbally attacking men related to the Dakota Access Pipeline protests has\u00a0...",
+          "link": "http://www.jamestownsun.com/news/state/4175671-masked-men-tell-dakota-access-protesters-go-home-or-theyll-hurt-them",
+          "title": "Masked men tell Dakota Access protesters to go home or they'll hurt ...",
+          "page": 1,
+          "singleTweetPath": "/DorisEdwards07/status/807027584982781956",
+          "archivedDomain": 1065,
+          "crawlDatetime": "Dec 8, 2016",
+          "archived": false
+        },
+        {
+          "snippet": "MANDAN, N.D. \u2014 North Dakota Gov. ... almost three hours to discuss the ongoing protests over the Dakota Access Pipeline near the Standing\u00a0...",
+          "link": "http://www.jamestownsun.com/news/state/4179720-dalrymple-archambault-meet-almost-three-hours-over-pipeline-protests",
+          "title": "Dalrymple, Archambault meet for almost three hours over pipeline ...",
+          "page": 1,
+          "singleTweetPath": "/jamestownsun/status/809047080647950336",
+          "archivedDomain": 1065,
+          "crawlDatetime": "Dec 14, 2016",
+          "archived": false
+        },
+        {
+          "snippet": "More than 100 protesters marched in wintry conditions Thursdayfrom the Polk County Courthouse through downtown Des Moines streets to\u00a0...",
+          "link": "http://www.jamestownsun.com/news/state/4181307-dakota-access-pipeline-also-still-court-iowa",
+          "title": "Dakota Access Pipeline also still in court in Iowa",
+          "page": 1,
+          "singleTweetPath": "/MnDkOilFieldReV/status/810129091391352833",
+          "archivedDomain": 1065,
+          "crawlDatetime": "Dec 16, 2016",
+          "archived": false
+        },
+        {
+          "snippet": "Sen. John Hoeven, R-N.D., met Monday with Standing Rock Sioux Tribal Chairman Dave Archambault to discuss ongoing protests of the\u00a0...",
+          "link": "http://www.jamestownsun.com/news/state/4183434-dakota-access-pipeline-protest-prompts-meeting-between-hoeven-archambault",
+          "title": "Dakota Access Pipeline protest prompts meeting between Hoeven ...",
+          "page": 1,
+          "singleTweetPath": "/jamestownsun/status/811190895634743296",
+          "archivedDomain": 1065,
+          "crawlDatetime": "Dec 20, 2016",
+          "archived": false
+        },
+        {
+          "snippet": "... out a bridge is undamaged from the Dakota Access Pipeline protest. ... was closed Oct. 27 during a sweep of pipeline protesters and after a\u00a0...",
+          "link": "http://www.jamestownsun.com/news/state/4185759-possibly-damaged-bridge-key-marker-pipeline-protest-examined-safety",
+          "title": "Possibly damaged bridge -- a key marker in pipeline protest ...",
+          "page": 1,
+          "singleTweetPath": "/jamestownsun/status/812400092980318209",
+          "archivedDomain": 1065,
+          "crawlDatetime": "Dec 23, 2016",
+          "archived": false
+        },
+        {
+          "snippet": "Protests against the Dakota Access Pipeline flared briefly for the first time since the federal government ruled against the project last month, law\u00a0...",
+          "link": "http://www.jamestownsun.com/news/state/4188412-five-arrested-trespassing-dakota-pipeline-protest-site",
+          "title": "Five arrested for trespassing at Dakota pipeline protest site",
+          "page": 1,
+          "singleTweetPath": "/jamestownsun/status/814399394795712512",
+          "archivedDomain": 1065,
+          "crawlDatetime": "",
+          "archived": false
+        },
+        {
+          "snippet": "North Dakota's new governor warned on Tuesday that protesters remaining at the construction site of the Dakota Access Pipeline should vacate\u00a0...",
+          "link": "http://www.jamestownsun.com/news/state/4191904-north-dakota-governor-warns-pipeline-protesters-possible-march-flooding",
+          "title": "North Dakota governor warns pipeline protesters of possible March ...",
+          "page": 1,
+          "singleTweetPath": "/jamestownsun/status/816553171770363910",
+          "archivedDomain": 1065,
+          "crawlDatetime": "",
+          "archived": false
+        },
+        {
+          "snippet": "... government operations and budgetary matters, but Burgum devoted a section of the address to the protests over the Dakota Access Pipeline.",
+          "link": "http://www.jamestownsun.com/news/state/4192150-we-can-always-do-better-burgum-says-first-state-state-address",
+          "title": "'We can always do better,' Burgum says in first State of the State ...",
+          "page": 1,
+          "singleTweetPath": "/jamestownsun/status/816752445120507904",
+          "archivedDomain": 1065,
+          "crawlDatetime": "Jan 4, 2017",
+          "archived": false
+        },
+        {
+          "snippet": "4, 2016, handing out resist grand jury pamphlets while helping hold a banner with other protesters against the Dakota Access Pipeline.",
+          "link": "http://www.jamestownsun.com/news/state/4192818-dakota-access-pipeline-protester-subpoenaed-federal-grand-jury-resists-testifying",
+          "title": "Dakota Access Pipeline protester subpoenaed to federal grand jury ...",
+          "page": 1,
+          "singleTweetPath": "",
+          "archivedDomain": 1065,
+          "crawlDatetime": "",
+          "archived": false
+        }
+      ]
+    },
+    {
+      "source": {
+        "openSearch": [],
+        "cityCountyNameLong": -102.8041,
+        "country": "USA",
+        "exclude": false,
+        "cityCountyName": "Dickinson",
+        "Facebook": "https://www.facebook.com/pages/The-Dickinson-Press/179055638616",
+        "Video": "",
+        "rss": [
+          "http://www.thedickinsonpress.com/latest/rss/"
+        ],
+        "website": "http://www.thedickinsonpress.com/",
+        "miles": 114,
+        "cityCountyNameLat": 46.878057,
+        "name": "The Dickinson Press",
+        "Twitter": "http://www.twitter.com/dickinsonpress",
+        "type": "Newspaper - cityCounty",
+        "state": "ND"
+      },
+      "links": [
+        {
+          "snippet": "Five Dakota Access Pipeline protesters were arrested Tuesday, Dec. 27, during a day that included a SWAT team responded to trespassing\u00a0...",
+          "link": "http://www.thedickinsonpress.com/news/4188400-5-arrested-during-day-pipeline-demonstrations",
+          "title": "5 arrested during day of pipeline demonstrations",
+          "page": 1,
+          "singleTweetPath": "/dickinsonpress/status/814274377084731392",
+          "archivedDomain": 966,
+          "crawlDatetime": "",
+          "archived": false
+        },
+        {
+          "snippet": "4, after Dakota Access Pipeline protesters gathered to demonstrate ... A Dakota Access Pipeline protester was subpoenaed to testify at a\u00a0...",
+          "link": "http://www.thedickinsonpress.com/news/4192540-protesters-prompt-bismarck-federal-building-post-office-shut-down",
+          "title": "Protesters prompt Bismarck federal building, post office to shut down",
+          "page": 1,
+          "singleTweetPath": "/dickinsonpress/status/816832243041763331",
+          "archivedDomain": 966,
+          "crawlDatetime": "",
+          "archived": false
+        },
+        {
+          "snippet": "BISMARCK\u2014A viral video that appears to show masked men verbally attacking men related to the Dakota Access Pipeline protests has\u00a0...",
+          "link": "http://www.thedickinsonpress.com/news/north-dakota/4175405-masked-men-tell-dakota-access-protesters-go-home-or-theyll-hurt-them",
+          "title": "Masked men tell Dakota Access protesters to go home or they'll hurt ...",
+          "page": 1,
+          "singleTweetPath": "/dickinsonpress/status/806704047218716673",
+          "archivedDomain": 966,
+          "crawlDatetime": "Dec 7, 2016",
+          "archived": false
+        },
+        {
+          "snippet": "... N.D. \u2014 Activists who joined the Dakota Access Pipeline protests say ... a way of stopping the crude oil pipeline they fear may contaminate the\u00a0...",
+          "link": "http://www.thedickinsonpress.com/news/north-dakota/4177617-protest-campers-can-bring-message-home",
+          "title": "Protest campers can bring message home",
+          "page": 1,
+          "singleTweetPath": "/dickinsonpress/status/807770555839614976",
+          "archivedDomain": 966,
+          "crawlDatetime": "Dec 10, 2016",
+          "archived": false
+        },
+        {
+          "snippet": "Known as the Forward Operating Base, it's been the main hub for police and National Guard patrolling the Dakota Access Pipeline protests\u00a0...",
+          "link": "http://www.thedickinsonpress.com/news/north-dakota/4177681-operating-base-divides-private-security-dapl-protesters",
+          "title": "Operating base divides private security from DAPL protesters",
+          "page": 1,
+          "singleTweetPath": "/dickinsonpress/status/807881389014130688",
+          "archivedDomain": 966,
+          "crawlDatetime": "Dec 10, 2016",
+          "archived": false
+        },
+        {
+          "snippet": "MANDAN, N.D. \u2014 North Dakota Gov. ... almost three hours to discuss the ongoing protests over the Dakota Access Pipeline near the Standing\u00a0...",
+          "link": "http://www.thedickinsonpress.com/news/north-dakota/4179041-dalrymple-archambault-meet-almost-three-hours-over-pipeline-protests",
+          "title": "Dalrymple, Archambault meet for almost three hours over pipeline ...",
+          "page": 1,
+          "singleTweetPath": "/dickinsonpress/status/808743274349469700",
+          "archivedDomain": 966,
+          "crawlDatetime": "Dec 13, 2016",
+          "archived": false
+        },
+        {
+          "snippet": "... assigned to cover the protests against the Dakota Access Pipeline on the ... but when all the hotels near Standing Rock in North Dakota were\u00a0...",
+          "link": "http://www.thedickinsonpress.com/news/north-dakota/4182050-frozen-cameras-cars-and-bagels-document-standing-rock-protests",
+          "title": "Frozen cameras, cars and bagels to document Standing Rock protests",
+          "page": 1,
+          "singleTweetPath": "/NormGregory/status/810620673911640064",
+          "archivedDomain": 966,
+          "crawlDatetime": "Dec 16, 2016",
+          "archived": false
+        },
+        {
+          "snippet": "Freeman is the criminal case coordinator for the Water Protector Legal Collective, a group that assists Dakota Access Pipeline protesters with\u00a0...",
+          "link": "http://www.thedickinsonpress.com/news/north-dakota/4183194-monday-trial-10-pipeline-protesters-postponed",
+          "title": "Monday trial of 10 pipeline protesters postponed",
+          "page": 1,
+          "singleTweetPath": "/LeftonMain/status/811024449004654593",
+          "archivedDomain": 966,
+          "crawlDatetime": "Dec 19, 2016",
+          "archived": false
+        },
+        {
+          "snippet": "MANDAN, N.D.\u2014Two pipeline protesters were convicted Tuesday of misdemeanors in the first Dakota Access-related jury trial in Morton\u00a0...",
+          "link": "http://www.thedickinsonpress.com/news/north-dakota/4184087-two-protesters-convicted-first-pipeline-jury-trial",
+          "title": "Two protesters convicted in first pipeline jury trial",
+          "page": 1,
+          "singleTweetPath": "/PascoRevolution/status/812384157716410368",
+          "archivedDomain": 966,
+          "crawlDatetime": "Dec 20, 2016",
+          "archived": true
+        },
+        {
+          "snippet": "... and the top 10 stories in North Dakota reveal a year filled with tragedy, ... received more coverage than the Dakota Access Pipeline protests,\u00a0...",
+          "link": "http://www.thedickinsonpress.com/news/north-dakota/4190323-tragedy-triumph-dominate-nds-top-2016-stories",
+          "title": "Tragedy, triumph dominate ND's top 2016 stories",
+          "page": 1,
+          "singleTweetPath": "/aDFWTaxiCab/status/815439471772651520",
+          "archivedDomain": 966,
+          "crawlDatetime": "Dec 31, 2016",
+          "archived": false
+        }
+      ]
+    }
+  ],
+  "_id": "lmp-test_usa-58538-dakota-access-pipeline-protest-15-2017-01-05-nv",
+  "state": "ND",
+  "zipcode": "58538",
+  "userID": "lmp-test",
+  "queryID": "usa-58538-dakota-access-pipeline-protest-15-2017-01-05-nv",
+  "Lat": 46.062798,
+  "city": "Fort Yates",
+  "query": "dakota access pipeline protest",
+  "collectionName": "Protests",
+  "self_collection": [
+    {
+      "searchURI": "https://www.google.com/search?as_q=dakota%20access%20pipeline%20protest%20site%3Abismarcktribune.com&tbm=nws",
+      "deleted": false
+    },
+    {
+      "searchURI": "https://www.google.com/search?as_q=dakota%20access%20pipeline%20protest%20site%3Afarmandranchguide.com&tbm=nws",
+      "deleted": false
+    },
+    {
+      "searchURI": "https://www.google.com/search?as_q=dakota%20access%20pipeline%20protest%20site%3Akfyrtv.com&tbm=nws",
+      "deleted": false
+    },
+    {
+      "searchURI": "https://www.google.com/search?as_q=dakota%20access%20pipeline%20protest%20site%3Akxnet.com&tbm=nws",
+      "deleted": true
+    },
+    {
+      "searchURI": "https://www.google.com/search?as_q=dakota%20access%20pipeline%20protest%20site%3Acentraldakotanews.com&tbm=nws",
+      "deleted": true
+    },
+    {
+      "searchURI": "https://www.google.com/search?as_q=dakota%20access%20pipeline%20protest%20site%3Abhgnews.com&tbm=nws",
+      "deleted": true
+    },
+    {
+      "searchURI": "https://www.google.com/search?as_q=dakota%20access%20pipeline%20protest%20site%3Abhgnews.com&tbm=nws",
+      "deleted": true
+    },
+    {
+      "searchURI": "https://www.google.com/search?as_q=dakota%20access%20pipeline%20protest%20site%3Abhgnews.com&tbm=nws",
+      "deleted": true
+    },
+    {
+      "searchURI": "https://www.google.com/search?as_q=dakota%20access%20pipeline%20protest%20site%3Abhgnews.com&tbm=nws",
+      "deleted": true
+    },
+    {
+      "searchURI": "https://www.google.com/search?as_q=dakota%20access%20pipeline%20protest%20site%3Abhgnews.com&tbm=nws",
+      "deleted": true
+    },
+    {
+      "searchURI": "https://www.google.com/search?as_q=dakota%20access%20pipeline%20protest%20site%3Ajamestownsun.com&tbm=nws",
+      "deleted": false
+    },
+    {
+      "searchURI": "https://www.google.com/search?as_q=dakota%20access%20pipeline%20protest%20site%3Athedickinsonpress.com&tbm=nws",
+      "deleted": false
+    },
+    {
+      "searchURI": "https://www.google.com/search?as_q=dakota%20access%20pipeline%20protest%20site%3Akxnet.com&tbm=nws",
+      "deleted": true
+    },
+    {
+      "searchURI": "https://www.google.com/search?as_q=dakota%20access%20pipeline%20protest%20site%3Atimes-online.com&tbm=nws",
+      "deleted": true
+    },
+    {
+      "searchURI": "https://www.google.com/search?as_q=dakota%20access%20pipeline%20protest%20site%3Abhgnews.com&tbm=nws",
+      "deleted": true
+    }
+  ],
+  "Long": -100.72114,
+  "timestamp": "2017-01-05T19:23:25Z"
+}
