@@ -36,7 +36,7 @@ data for the US.
         - **website**: newspaper or tv or radio website (string)
 
 ## usa.json snippet
-![example snippet of usa.json](https://github.com/harvard-lil/local-memory/blob/master/LocalMemoryGeo/Sources/USA/usa.jsonSnippet.png)
+![example snippet of usa.json](https://github.com/harvard-lil/local-memory/blob/master/LocalMemoryProject/Sources/USA/usa.jsonSnippet.png)
 
 [Local Memory Project]: <http://librarylab.law.harvard.edu/sketches/local-memory>
 [zipcodes.db]: https://github.com/fdintino/pyzipcode/tree/master/pyzipcode
