@@ -1,3 +1,5 @@
+**[See Relevance Evaluations](http://www.cs.odu.edu/~anwala/Vis/LMP/JCDL2017/RelevanceEvalReport/) (the Precision Evaluation Metrics were calculated from these manually collected evaluations)**
+
 **EvalDataset**
 
 Index  | Collection | Location | non-Local-G | non-Local-NV | Local-G | Local-NV
