@@ -26,7 +26,9 @@ data for the US.
         - **open-search** (array[string])
             - (array)   
                 - links to newspaper or tv or radio specification (string)
-        - **type**: 
+        - **media-class**: 
+            - tv or radio or newspaper (string)
+        - **media-subclass**: 
             - city or county or college for newspaper (string)
             - format name e.g., Country, Contemporary for radio (string)
             - blank for tv (string)
