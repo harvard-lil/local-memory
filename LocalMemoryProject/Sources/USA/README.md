@@ -26,9 +26,7 @@ data for the US.
         - **open-search** (array[string])
             - (array)   
                 - links to newspaper or tv or radio specification (string)
-        - **media-class**: 
-            - tv or radio or newspaper (string)
-        - **media-subclass**: 
+        - **type**: 
             - city or county or college for newspaper (string)
             - format name e.g., Country, Contemporary for radio (string)
             - blank for tv (string)
@@ -38,8 +36,8 @@ data for the US.
         - **website**: newspaper or tv or radio website (string)
 
 ## usa.json snippet
-![example snippet of usa.json](https://github.com/harvard-lil/local-memory/blob/master/LocalMemoryProject/Sources/USA/usa.jsonSnippet.png)
+![example snippet of usa.json](https://github.com/harvard-lil/local-memory/blob/master/LocalMemoryGeo/Sources/USA/usa.jsonSnippet.png)
 
-[Local Memory Project]: <http://www.localmemory.org/>
+[Local Memory Project]: <http://librarylab.law.harvard.edu/sketches/local-memory>
 [zipcodes.db]: https://github.com/fdintino/pyzipcode/tree/master/pyzipcode
 [USNPL]: http://www.usnpl.com/
