@@ -1,17 +1,13 @@
-# [Local Memory Project] US Dataset
+# [Local Memory Project] Non-US Dataset
 
-# usa.json 
-A collection of :
-- **5,992 Newspapers**
-- **1,061 TV stations**, and 
-- **2,539 Radio stations**
+- **6,638 Newspapers** from
+- **3,151 Cities** from
+- **183 Countries**
 
-data for the US.
-# Sources
-- [USNPL]
-- [zipcodes.db]
+# Source
+- [Paperboy Online Newspapers US & World Newspapers]
 
-## Properties for each State
+## Properties of media in each city (source.json)
 - **state-name** (string):
     - The name of the State in this form: "*StateName_StateNameAbbreviation*"
 - **newspaper or tv or radio**:  (array[objects])
@@ -35,9 +31,5 @@ data for the US.
         - **video**: video link (string)
         - **website**: newspaper or tv or radio website (string)
 
-## usa.json snippet
-![example snippet of usa.json](https://github.com/harvard-lil/local-memory/blob/master/LocalMemoryGeo/Sources/USA/usa.jsonSnippet.png)
-
 [Local Memory Project]: <http://www.localmemory.org/>
-[zipcodes.db]: https://github.com/fdintino/pyzipcode/tree/master/pyzipcode
-[USNPL]: http://www.usnpl.com/
+[Paperboy Online Newspapers US & World Newspapers]: https://www.thepaperboy.com/
