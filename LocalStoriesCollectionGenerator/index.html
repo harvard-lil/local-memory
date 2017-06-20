@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<head>
+    <title>Local Memory Project</title>
+    <link rel="stylesheet" href="./styles/style.css">
+    <link rel="stylesheet" href="./styles/pure-min.css">
+    <link rel="stylesheet" href="./styles/grids-responsive-min.css">
+    
+    <style class="embedly-css">
+        .card .title {
+            /*margin-bottom:5px;*/
+            font: 14px Arial;
+        }
+        
+        .card .action {
+            display: none;
+            /*color: #fa4b2a;
+            font: 8px Arial;*/
+        }
+        
+        .brd {
+            display: none;
+        }
+    </style>
+</head>
+
+<script async src="https://cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<!--<script async src="./scripts/platform.js" charset="UTF-8"></script>-->
+<script src="./scripts/LMVis.js"></script>
+<script src="./scripts/common.js"></script>
+
+<body>
+
+    <div style="text-align:center;">
+      <img src="lmp.svg" alt="lmp icon" width="1200px" height="200px">
+    </div>
+        
+    <div style="text-align:center; font-size:12px; padding-bottom: 20px;">
+        <a href="http://www.localmemory.org/" target="_blank">Home</a>
+        <a href="http://www.localmemory.org/geo/" target="_blank">Geo</a>
+        <a href="http://www.localmemory.org/vis/" target="_blank">Collections</a>
+        <a href="http://www.localmemory.org/api/" target="_blank">API</a>
+        <a href="https://twitter.com/localmem" target="_blank">Twitter</a>
+        <a href="https://github.com/harvard-lil/local-memory" target="_blank">Source code</a>
+        <span id="submitMediaClick" style="color: blue; text-decoration: underline;">Submit media source</span>
+
+        <span>
+        <br>
+        To build a collection of stories for local events from local sources, enter a <em>query</em> for the story, a <em>zipcode</em> (USA media) or select a <em>city</em> (Non-USA media), and the number of local news sources (<em>media count</em>).
+        </span>
+    </div>
+    
+    
+    <div style="margin: auto;width: 95%; text-align:center;">
+        <div id="alertMessage"></div>
+    </div>
+    
+
+    <div class="pure-form pure-form-stacked" style="margin:auto; width: 80%;">
+        <fieldset>
+            <div class="pure-g">
+
+                <div class="pure-u-1 pure-u-md-1-4">
+                    <label>Country</label>
+                    <select id="country" class="pure-u-23-24">
+                        <option value="USA">USA</option>
+                    </select>
+                </div>
+
+               
+                <div class="pure-u-1 pure-u-md-1-4">
+                    <label>Query</label>
+                    <input placeholder="query" class="pure-u-23-24" id="query" type="text" required>
+                </div>
+
+
+                <div class="pure-u-1 pure-u-md-1-4" id="zipcodeContainer" style="display:block">
+                    <label>Zip code</label>
+                    <input placeholder="zip code" class="pure-u-23-24" id="zipcode" type="text" required>
+                </div>
+
+                 <div class="pure-u-1 pure-u-md-1-4" id="citiesContainer" style="display:none">
+                    <label>City</label>
+                    <select id="cities" class="pure-u-23-24">
+                    </select>
+                </div>
+
+                <div class="pure-u-1 pure-u-md-1-4">
+                    <label>Media count</label>
+                    <input placeholder="1" class="pure-u-23-24" id="sourceCount" type="number" value="10" required>
+                </div>
+
+
+            </div>
+        </fieldset>
+
+        <fieldset>
+            <div class="pure-g" style="margin:auto; width: 30%; text-align: center;">
+
+                <div class="pure-u-1 pure-u-md-1-1" style="background-color: #0078e7;">
+                    <input id="submitButton" class="pure-button pure-button-primary" type="submit" value="Submit" title="Generate collection">
+                    <input id="saveRemotelyButton" class="pure-button pure-button-primary" type="submit" value="Save remotely" title="Save remotely to get a link you can use to access or share your saved collection.">
+                    <input id="archiveButton" class="pure-button pure-button-primary" type="submit" value="Archive collection" title="Archive to make your collection persistent.">
+                </div>
+
+            </div>
+        </fieldset>
+
+    </div>
+
+    <!--
+      <div class="pure-form" style="margin: auto;width: 95%;">
+          <div class="pure-control-group" style="text-align:center;">
+              <br>
+              <div id="alertMessage"></div>
+              <br>
+
+              <select id="country">
+                  <option value="USA">USA</option>
+              </select>
+
+              <input placeholder="query" id="query" type="text" value="protesters and police" required>
+              <input placeholder="zip code" id="zipcode" type="text" value="23322" required>
+              <input placeholder="1" id="sourceCount" type="number" value="2" required>
+              <input id="submitButton" class="pure-button pure-button-primary" type="submit" value="Submit">
+          </div>
+      </div>
+    -->
+
+    <div class="pure-form pure-form-stacked" style="margin:auto; width:80%; display:none;" id="advMenu">
+        <br>
+
+
+        <br><strong><legend style="text-align:center">Generic settings</legend></strong><br>
+        <fieldset>
+            <div class="pure-g">
+
+                <div class="pure-u-1 pure-u-md-1-4" title="The number of Google search pages to visit for each news source. Increase if you want to explore more Google pages.">
+                    <label>Google max pages</label>
+                    <input id="maximumPages" placeholder="1" value="1" class="pure-u-23-24" type="number" required>
+                </div>
+
+                <div class="pure-u-1 pure-u-md-1-4" title="Time delay between loading Google search pages.">
+                    <label>Google Page load delay (seconds)</label>
+                    <input id="googleDelay" placeholder="1" value="2" class="pure-u-23-24" type="number" required>
+                </div>
+
+                <div class="pure-u-1 pure-u-md-1-4" title="Filter your search for news articles from this date.">
+                  <label>Google search FROM date</label>
+                  <input type="date" id="minDateRange">
+                </div>
+
+                <div class="pure-u-1 pure-u-md-1-4" title="Filter your search for news articles before this date.">
+                  <label>Google search TO date</label>
+                  <input type="date" id="maxDateRange">
+                </div>
+
+                <div class="pure-u-1 pure-u-md-1-4" title="Time delay between loading pages to be archived. You can increase this time if you want to have the chance to do something before the next archived page loads automatically.">
+                    <label>Archive Page load delay (seconds)</label>
+                    <input id="archivingDelay" placeholder="1" value="2" class="pure-u-23-24" type="number" required>
+                    <!--<input id="archiveButton" class="pure-button pure-button-primary" type="submit" value="Archive collection">-->
+                </div>
+
+                <div class="pure-u-1 pure-u-md-1-4" title="Download to your machine for a personal collection. But if you choose to share, save remotely (you should!)">
+                    <label>Download type</label>
+                    <select id="downloadType" class="pure-u-23-24">
+                        <option value="json">JSON</option>
+                        <option value="txt">LIST</option>
+                    </select>
+                </div>
+
+                <div class="pure-u-1 pure-u-md-1-4" title="Custom filename for your collection.">
+                    <label>Collection filename</label>
+                    <input id="newColDownloadFilename" class="pure-u-23-24" maxlength="140" type="text">
+                    <input id="colDownloadButton" class="pure-button pure-button-primary" type="submit" value="Download collection">
+                </div>
+
+                <div class="pure-u-1 pure-u-md-1-4" title="Custom name for your collection.">
+                    <label>Collection name</label>
+                    <input id="setColName" class="pure-u-23-24" maxlength="140" type="text">
+                    <input id="setColNameButton" class="pure-button pure-button-primary" type="submit" value="Set collection name">
+                </div>
+                
+                 <div class="pure-u-1 pure-u-md-1-4" title="Load collection from you computer.">
+                    <label>Upload a saved collection (.json)</label>
+                    <input class="pure-button pure-button-primary" class="pure-u-23-24" type="file" id="newColFile"/>
+                </div>
+
+                
+            </div>
+        </fieldset>
+
+        <br><strong><legend style="text-align:center">Flags</legend></strong><br>
+        <fieldset>
+            <div class="pure-g">
+
+                <div class="pure-u-1 pure-u-md-1-3">
+                    <label for="showCardsChkbox" class="pure-checkbox">
+                      <input id="showCardsChkbox" type="checkbox" checked> Show thumbnail
+                    </label>
+                    <label for="googleNewsChkbox" class="pure-checkbox" title="Search Google news.">
+                        <input id="googleNewsChkbox" type="checkbox"> Google news
+                    </label>
+                </div>
+
+            </div>
+        </fieldset>
+
+
+
+        <br><strong><legend style="text-align:center">Add website to existing collection</legend></strong>
+        <fieldset>
+            <div style="font-size:35px; cursor:pointer; text-align:center;" id="newColPlus">+</div>
+            <div id="newCollectionMenu" class="pure-g">
+                <div class="pure-u-1 pure-u-md-1-4">
+                    <label>URL</label>
+                    <input class="pure-u-23-24 newColURL" type="url" required value="http://">
+                </div>
+
+                <div class="pure-u-1 pure-u-md-1-4">
+                    <label>Title</label>
+                    <input class="pure-u-23-24 newColTitle" type="text" maxlength="140" required>
+                </div>
+
+                <div class="pure-u-1 pure-u-md-1-4">
+                    <label>Summary</label>
+                    <input class="pure-u-23-24 newColSnippet" type="text" maxlength="140" required>
+                </div>
+
+                <div class="pure-u-1 pure-u-md-1-4">
+                    <label>Date</label>
+                    <input class="pure-u-23-24 newColDate" type="date" maxlength="140" required>
+                </div>
+            </div>
+
+            <input id="newColAddButton" class="pure-button pure-button-primary" type="submit" value="Add">
+        </fieldset>
+
+        <legend></legend>
+    </div>
+
+    <hr class="style13">
+    <div style="font-size:30px; cursor:pointer; text-align:center;" id="advBtn">ᐁ</div>
+
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            
+            <div class="modal-header">
+                <span id="myModalClose">×</span>
+                <h2 id='modalTitle'></h2>
+            </div>
+
+            <div class="modal-body">
+            </div>
+
+        </div>
+    </div>
+
+
+    <div id="newsColVisContainer">
+        <br>
+        <br>
+        <div style="margin:auto; width: 95%; text-align: right;" id="tweetShareContainer"></div>
+    </div>
+
+</body>
+</html>

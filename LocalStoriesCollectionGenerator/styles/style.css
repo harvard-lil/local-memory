@@ -1,0 +1,297 @@
+body {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-size: 12px;
+  }
+
+  .gridtable{
+    width: 95%;
+    margin: 0px auto;
+    table-layout:fixed;
+  }
+  .gridtable td {
+    overflow: hidden;
+    text-align: center;
+    border-width: 1px;
+    padding: 8px;
+    /*border-style: solid;
+    border-color: #666666;*/
+    background-color: #ffffff;
+  }
+
+  .gridtable .newsHeading {
+    text-align: left;
+    border-width: 0px;
+    font-size: 18px;    
+    /*padding: 8px;*/
+    /*border-style: solid;
+    border-color: #666666;*/
+    background-color: #ffffff;
+  }
+
+  #tableCaption{
+    font-size: 18px;
+  }
+
+  .thumbnail { /*not .thumbnail img{*/
+    width: 80%;
+    text-align: center;
+    padding: 8px;
+    display: block;
+    margin: 0 auto;
+    max-width: 150px;
+  }
+ 
+
+/* sidebar (http://www.w3schools.com/howto/howto_js_sidenav.asp) - start */
+  .instruction{
+    margin-left: 35px;
+    margin-bottom: 5px;
+    font-size: 14px;
+    color: #f1f1f1;
+  }
+
+/* The side navigation menu */
+  .sidenav {
+    height: 100%; /* 100% Full-height */
+    width: 0; /* 0 width - change this with JavaScript */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Stay on top */
+    top: 0;
+    left: 0;
+    background-color: #002e4d; /* Black*/
+    overflow-x: hidden;  /*Disable horizontal scroll */
+    transition: 0.5s; /* Place content 60px from the top */
+    padding-top: 60px;  /* 0.5 second transition effect to slide in the sidenav */
+}
+
+/* The navigation menu links */
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover, .offcanvas a:focus{
+    color: #f1f1f1;
+}
+
+/* Position and style the close button (top right corner) */
+.closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    /*font-size: 36px !important;*/
+    margin-left: 50px;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+/* sidebar - end */
+
+.dropbtn {
+    background-color:  #004d80;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    min-width: 230px;
+    border: none;
+    cursor: pointer;
+    margin-left: 35px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    /*min-width: 160px;*/
+    min-width: 230px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    margin-left: 35px;
+}
+
+.dropdown-content a {
+    font-size: 12px;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color:  #808080}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #004d80;
+}
+
+/* modal - start */
+/* modal (http://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_modal2) - start */
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    border: 1px solid #888;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.4s;
+    animation-name: animatetop;
+    animation-duration: 0.4s
+}
+
+/* The Close Button */
+#myModalClose {
+    color: white;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor:pointer;
+}
+
+.modal-header {
+    padding: 2px 16px;
+    /*background-color: #002e4d;*/
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+.modal-body {padding: 2px 16px; font-size: 12px;}
+
+/*
+.modal-footer {
+    padding: 2px 16px;
+    background-color: #002e4d;
+    color: white;
+}
+*/
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+    from {top:-300px; opacity:0}
+    to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+    from {top:-300px; opacity:0}
+    to {top:0; opacity:1}
+}
+/* modal - end */
+
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+/* scatterplot tooltip - start */
+.tooltip {
+    font-size: 18px;
+    position: absolute;
+    width: 500px;
+    height: 28px;
+    pointer-events: none;
+}
+/* scatterplot tooltip - end */
+
+/* scatterplot axis - start */
+.axis path,
+.axis line {
+    fill: none;
+    stroke: grey;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}
+/* scatterplot axis - end */
+
+/* alertStart - start */
+.alert {
+    padding: 20px;
+    background-color: #f44336;
+    color: white;
+    font-size: 18px;
+    opacity: 1;
+    transition: opacity 0.6s;
+    margin-bottom: 15px;
+}
+
+.alert.success {background-color: #4CAF50;}
+.alert.info {background-color: #2196F3;}
+.alert.warning {background-color: #ff9800;}
+
+.alertClosebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.alertClosebtn:hover {
+    color: black;
+}
+
+.alertStopbtn {
+    /*margin-left: 15px;*/
+    color: black;
+    font-weight: bold;
+    float: left;
+    font-size: 15px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.alertStopbtn:hover {
+    color: red;
+}
+/* alertStart - end */
+
+hr.style13 {
+    height: 10px;
+    border: 0;
+    box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+
+.embedly-card{
+    max-height: 200px;
+    max-width: 200px;
+}
