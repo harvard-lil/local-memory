@@ -43,6 +43,7 @@ var globalGridfunctionPackage =
 {
     twitterButton: twitterButton,
     excludeLink: excludeLink,
+    gridScrolling: gridScrolling,
     /*generateCards: generateCards,*/
     updateTableTitleLinks: updateTableTitleLinks
 };
@@ -52,7 +53,15 @@ var globalGridScrollingActive = 'false';//default MUST be string 'false'
 var globalGridTable = [];
 //for scrolling - end
 
+//for twitter - start
+var globalTweetCollection = {};
+var globalTweetCollectionPrevLength;
+var globalAbortTweetConv = false;
+//for twitter - end
+
+// non-us site - 2 - start
 var globalNonUSCountriesDict = {};
+// non-us site - 2 - end
 
 document.addEventListener('DOMContentLoaded', function()
 {
@@ -75,6 +84,23 @@ function main()
     {
         window.onbeforeunload = function() { return ''; };
     }
+
+    //CAUTION override globalUniqueUserID/globalPvtID - start
+    
+        /*
+        var overrideGlobalUniqueUserID = '';
+        chrome.storage.sync.set({userID: overrideGlobalUniqueUserID}, function()
+        {
+          console.log('\tsaved userID: ', overrideGlobalUniqueUserID);  
+        });
+
+        var overrideGlobalPvtID = '';
+        chrome.storage.sync.set({pvtID: overrideGlobalPvtID}, function()
+        {
+          console.log('\tsaved pvtID: ', overrideGlobalPvtID);  
+        });
+        */
+    //CAUTION override globalUniqueUserID/globalPvtID - end
     
     //config - start
     chrome.storage.sync.get('userID', function(items) 
@@ -150,7 +176,8 @@ function main()
             createAlertMessageBoard('alert warning', 'loading countries, please wait...');
         }
     };
-
+    
+    // non-us site - 2 - start
     //init countries list - start
     if( !globalDebugFlag )
     {
@@ -188,9 +215,10 @@ function main()
         console.log('\tINIT countries list OFF');
     }
     //init countries list - end
+    // non-us site - 2 - end
 
     document.getElementsByTagName('body')[0].onscroll = gridScrolling;
-
+    
     document.getElementById('submitButton').onclick = function()
     {
         if( !globalDebugFlag )
@@ -207,6 +235,21 @@ function main()
     document.getElementById('newColAddButton').onclick = function()
     {
         userAddCollectionClick();
+    };
+
+    document.getElementById('tweetConvButton').onclick = function()
+    {
+        if( this.value === 'Extract tweets' )
+        {
+            this.value = 'Stop tweets extraction';
+            globalAbortTweetConv = false;
+            tweetConv();
+        }
+        else if( this.value === 'Stop tweets extraction' )
+        {
+            this.value = 'Stopping tweets extraction';
+            globalAbortTweetConv = true;
+        }
     };
 
     document.getElementById('colDownloadButton').onclick = function()
@@ -248,8 +291,6 @@ function main()
             if( colName.length != 0 )
             {
                 console.log('\tsetColNameButton, colName:', colName);
-                //standard schema - 2
-                //globalNewsCollection.collectionName = colName;
                 globalNewsCollection['collection-name'] = colName;
             }
         }
@@ -269,7 +310,6 @@ function main()
     }
 
 }
-
 
 function populateCitiesForCountry(country, city)
 {
@@ -886,14 +926,14 @@ function gridScrolling()
         return;
     }
 
+    
     globalGridScrollingActive = 'true';
     //set embedly defaults - start
     embedly("defaults",
     {
         cards:
         {
-            width: '80%'/*,
-            'align': 'left'*/
+            width: '80%'
         }
     });
     //set embedly defaults - end
@@ -905,7 +945,6 @@ function gridScrolling()
         {
             cells[i].setAttribute('genCard', 'true');
             var toGenCard = cells[i].getElementsByClassName(globalEmbedCardClassName)[0];
-            //console.log(cells[i].id);
             embedly('card', toGenCard);
         }
     }
@@ -913,6 +952,354 @@ function gridScrolling()
 }
 //scrolling - end
 
+//twitter conversation - start
+function tweetConv()
+{
+    console.log('\ntweetConv():');
+    var tweetConvURI = document.getElementById('tweetConvURI').value;
+    tweetConvURI = tweetConvURI.trim();
+    var tweetConvMaxTweetCount = document.getElementById('tweetConvMaxTweetCount').value;
+    
+    
+    if( tweetConvURI.length == 0 )
+    {
+        alert('Please enter a valid URL.');
+        return;
+    }
+
+    window.scrollTo(0, 0);
+    console.log('\ttweetConvURI:', tweetConvURI);
+    console.log('\ttweetConvMaxTweetCount:', tweetConvMaxTweetCount);
+    
+    chrome.tabs.query({active: true}, function(parentTabs)
+    {
+        if( parentTabs.length != 0 )
+        {
+            chrome.windows.create(
+            {
+                url: tweetConvURI,
+                left: Math.round(parentTabs[0].width),
+                top: Math.round(parentTabs[0].height),
+                width: 840,
+                height: 380
+            },
+            function(window)
+            {
+                console.log('\twindow:', window);
+                chrome.tabs.query({active: true, windowId: window.id}, function(parentTabs)
+                {
+                    if( parentTabs.length != 0 )
+                    {
+                        //update tab state asap - start
+                        setTimeout(function()
+                        {
+                            chrome.tabs.get(parentTabs[0].id, function(tab)
+                            { 
+                                console.log('\tcreated taburl/status/id: ', tab.url, tab.status, tab.id);
+                                //early update of tab state before chrome.tabs.onUpdated() called
+                                createAlertMessageBoard('alert', 'Please don\'t close or minimize or hide tweet window.');
+
+                                globalCurTabIDsDict[tab.id] = tab;
+                                initGetDescendantsForTab(tab, tweetConvURI, tweetConvMaxTweetCount, 0);
+                            });
+                        }, 2000);
+                        //update tab state asap - end
+                    }
+                });
+            });
+        }
+    });
+}
+
+function initGetDescendantsForTab(tab, expectedTabURI, tweetConvMaxTweetCount, noMoreTweetCounter)
+{
+    console.log('\ninitGetDescendantsForTab():');
+    console.log('\tglobalTabReadyCount: ', globalTabReadyCount);
+
+    if( globalTabReadyCount > 100 )
+    {
+        globalTabReadyCount = globalMaxTabReadyCount + 1;
+    }
+
+    //fix stale page problem that confuses captcha - start
+    if( globalTabReadyCount === globalMaxTabReadyCount-2 )
+    {
+        chrome.tabs.reload(tab.id);
+    }
+    //fix stale page problem that confuses captcha - end
+
+    if( globalTabReadyCount > globalMaxTabReadyCount )
+    {
+        closeAlert();
+        createAlertMessageBoard('alert', 'Attention required: Please refresh.');
+    }
+
+    if( isTabReady(tab, expectedTabURI) == false )
+    {
+        globalTabReadyCount++;
+        setTimeout(function()
+        {
+            initGetDescendantsForTab(tab, expectedTabURI, tweetConvMaxTweetCount, noMoreTweetCounter);
+        }, 1000);
+        
+        return;
+    }
+
+    //update tab
+    globalTabReadyCount = 0;
+    tab = globalCurTabIDsDict[tab.id];
+    globalTweetCollectionPrevLength = Object.keys(globalTweetCollection).length;
+
+    closeAlert();
+    createAlertMessageBoard('alert', 'Please don\'t close or minimize or hide tweet window. Extracted ' + globalTweetCollectionPrevLength + ' tweets.');
+
+    console.log('\nback to initGetDescendantsForTab():');
+    console.log('\tglobalTweetCollectionPrevLength:', globalTweetCollectionPrevLength);
+    console.log('\tnoMoreTweetCounter:', noMoreTweetCounter);
+    
+    if( globalAbortTweetConv )
+    {
+        console.log('\t\tUser abort detected.');
+        serveDescendants(expectedTabURI, tab);
+        return;
+    }
+
+    //get descendants - start
+     chrome.tabs.executeScript(tab.id,
+    {
+        file: "./scripts/non-local-cols/twitter-conv/click-show-more.js"
+    }, function(result)
+    {
+        chrome.tabs.executeScript(tab.id,
+        {
+            file: "./scripts/non-local-cols/twitter-conv/get-tweets.js"
+        }, function(result)
+        {   
+            //until( x number of children extracted and or no more children )
+            result = result[0];
+            for(var tweetId in result)
+            {
+                if( tweetConvMaxTweetCount == 0 )
+                {
+                    //indicates unrestricted descendants length
+                    globalTweetCollection[tweetId] = result[tweetId];
+                }
+                else if( Object.keys(globalTweetCollection).length < tweetConvMaxTweetCount )
+                {
+                    globalTweetCollection[tweetId] = result[tweetId];
+                }
+                else
+                {
+                    console.log('\t\treached threshold');
+                    serveDescendants(expectedTabURI, tab);
+                    return;
+                }
+            }
+
+            if( globalAbortTweetConv )
+            {
+                console.log('\t\tUser abort detected.');
+                serveDescendants(expectedTabURI, tab);
+                return;
+            }
+
+            if( globalTweetCollectionPrevLength == Object.keys(globalTweetCollection).length )
+            {
+                noMoreTweetCounter++;
+            }
+            else
+            {
+                noMoreTweetCounter = 0;
+            }
+
+            if( noMoreTweetCounter > 2 )
+            {
+                console.log('\t\tno more tweets, breaking');
+                serveDescendants(expectedTabURI, tab);
+                return;
+            }
+
+            setTimeout(function()
+            {
+                console.log('\t\tscrolling');
+                chrome.tabs.executeScript(tab.id,
+                {
+                    file: "./scripts/non-local-cols/twitter-conv/scroll-down.js"
+                }, function(result)
+                {
+                    //scroll to possible load more tweets
+                    initGetDescendantsForTab(tab, expectedTabURI, tweetConvMaxTweetCount, noMoreTweetCounter);
+                });
+            }, 2000);
+
+        });
+    });
+    //get descendants - end
+}
+
+function formatTweetTime(tweetTimeStr)
+{
+    var tweetTime = '';
+    //tweetTimeStr format: 5:46 PM - 23 Feb 2017
+    tweetTimeStr = tweetTimeStr.trim().split('-');
+    
+    if( tweetTimeStr.length > 1 )
+    {
+        tweetTimeStr = tweetTimeStr[1].trim().split(' ');
+        if( tweetTimeStr.length > 2 )
+        {
+            tweetTime = tweetTimeStr[1] + ' ' + tweetTimeStr[0] + ' ' + tweetTimeStr[2];
+        }
+    }
+
+    return tweetTime;
+}
+
+function serveDescendants(tweetRequestURI, tab)
+{
+    console.log('\nserveDescendants():');
+    if( !tweetRequestURI || !tab )
+    {
+        return;
+    }
+    //embedly, grid not scroll for short 
+
+    //construct query from twitter uri - start
+    var constructedQuery = 'query-NA';
+    
+    if( tweetRequestURI.indexOf('https://twitter.com/search') === 0 )
+    {
+        var tempQuery = getParameterByName('q', tweetRequestURI);
+        if( tempQuery.length != 0 )
+        {
+            constructedQuery = 'twitter-search-' + tempQuery;
+        }
+    }
+    else if( tweetRequestURI.indexOf('https://twitter.com/') === 0 )
+    {
+        constructedQuery = 'twitter';
+        var aTag = document.createElement('a');
+        aTag.href = tweetRequestURI;
+
+        if( aTag.pathname.length > 1 )
+        {
+            constructedQuery = constructedQuery + aTag.pathname.replace(/\//g, '-');
+        }
+    }
+    //construct query from twitter uri - end
+
+    
+    var tweetsCount = Object.keys(globalTweetCollection).length;
+    closeAlert();
+    createAlertMessageBoard('alert success', 'Extracted ' + tweetsCount + ' tweets.');
+    setTimeout(function()
+    {
+        closeAlert();
+    }, 5000);
+
+    globalNewsCollection = getLMPCollectionScaffoldDict
+    (
+        'Twitter', 
+        tweetsCount, 
+        constructedQuery,
+        ''
+    );
+
+    globalNewsCollection['self-collection'] = [{deleted: false, 'search-uri': tab.url}];
+    for(var tweetId in globalTweetCollection)
+    {
+        /*
+        for(var tweetAttr in globalTweetCollection[tweetId])
+        {
+            console.log(tweetAttr, globalTweetCollection[tweetId][tweetAttr]);
+        }
+        console.log('');
+        */
+        
+        var tempDict = {};
+        tempDict['crawl-datetime'] = formatTweetTime(globalTweetCollection[tweetId]['tweet-time']);//tweet-time format: 5:46 PM - 23 Feb 2017
+        tempDict['rank'] = 0;
+        tempDict['page'] = 0;
+        tempDict['link'] = 'https://twitter.com/'+ globalTweetCollection[tweetId]['data-screen-name'] +'/status/' + globalTweetCollection[tweetId]['data-tweet-id'];
+        tempDict['snippet'] = globalTweetCollection[tweetId]['tweet-text'];
+        tempDict['title'] = globalTweetCollection[tweetId]['data-name'] + ' ('+ globalTweetCollection[tweetId]['data-screen-name'] +')';
+        tempDict['custom'] = {'tweet-raw-data': globalTweetCollection[tweetId]};
+        globalNewsCollection.collection[0].links.push(tempDict);
+    }
+
+    console.log('\tglobalNewsCollection:', globalNewsCollection);
+    document.getElementById("advBtn").click();
+    drawGrid
+    (
+        localNewsCollections=globalNewsCollection, 
+        columnCount=5, 
+        uniqueUserID=globalUniqueUserID, 
+        embedCardClassName=globalEmbedCardClassName,
+        globalGridfunctionPackage
+    );
+
+    //reset state for new conversation extraction - start
+    //document.getElementById('tweetConvButton').disabled = false;
+    document.getElementById('tweetConvButton').value = 'Extract tweets';
+    globalAbortTweetConv = false;
+    globalTweetCollection = {};
+    //reset state for new conversation extraction - end
+
+    setTimeout(function()
+    {
+        chrome.tabs.remove(tab.id, null);
+    }, 1000);
+
+}
+//twitter conversation - end
+
+//vary non-local search query - start
+//vary non-local search query - start
+
+function getLMPCollectionScaffoldDict(nonLocalName, globalMaxPagesToVisit, query, zipcode)
+{
+    //for genSearchColSource definition, see single collection in http://www.localmemory.org/api/USA/02138/10/
+    if( nonLocalName.length != 0 )
+    {
+        nonLocalName = '-' + nonLocalName;
+    }
+
+    var genSearchColSource = {};
+    genSearchColSource.facebook = '';
+    genSearchColSource.twitter = '';
+    genSearchColSource.video = '';
+    genSearchColSource['city-county-name'] = '';
+    genSearchColSource['city-county-lat'] = 0;
+    genSearchColSource['city-county-long'] = 0;
+    genSearchColSource.country = '';
+    genSearchColSource.miles = 0;
+    genSearchColSource.name = 'non-Local' + nonLocalName;
+    genSearchColSource['open-search'] = [];
+    genSearchColSource.rss = [];
+    genSearchColSource.state = '';
+    genSearchColSource['media-class'] = 'multiple media';
+    genSearchColSource['media-subclass'] = '';
+    genSearchColSource.website = '';
+
+    //for newsCollection and newsCollection.collection.links[i] definition see lmp.exn
+    newsCollection = {};
+    newsCollection['city-latitude'] = 0;
+    newsCollection['city-longitude'] = 0;
+    newsCollection.city = '';
+    newsCollection.collection = [{source: genSearchColSource, links: []}];
+    newsCollection.country = '';
+    newsCollection['maximum-links-per-source'] = globalMaxPagesToVisit;
+    newsCollection.query = query;
+    newsCollection['self-lmg'] = '';
+    newsCollection.state = '';
+    newsCollection.timestamp = new Date().toISOString();
+    newsCollection.zipcode = zipcode;
+    newsCollection['self-collection'] = [];
+
+    return newsCollection;
+}
+
+// non-us site - 3
 //google backbone - start
 function submitButtonClick()
 {
@@ -946,7 +1333,7 @@ function submitButtonClick()
         return;
     }
 
-    if (zipcode.length == 0 && country == 'USA' )
+    if( zipcode.length == 0 && country == 'USA' )
     {
         alert('Please enter a valid zipcode.');
         return;
@@ -959,18 +1346,48 @@ function submitButtonClick()
     }
 
     createAlertMessageBoard('alert warning', '...please wait');
-    var requestURI;
-    if( country === 'USA' )
+
+    if( zipcode == '0' )
     {
-        requestURI = globalBaseURI + 'api/countries/' + country + '/' + zipcode + '/' + sourceCount + '?off=radio';
+        //reset state - start
+        console.log('\tsubmitButtonClick(): reset globalAppState');
+        globalAppState = {};
+        globalAppState.nonLocalFlag = true;
+        //reset state - end
+
+        zipcode = '';//*
+
+        var nonLocalName = '';
+        var indexOfSiteParam = query.indexOf('site:');
+        if( indexOfSiteParam !== -1 )
+        {
+            globalAppState.nonLocalSiteParam = query.substr(indexOfSiteParam, query.length-1).trim();
+            nonLocalName = '-' + globalAppState.nonLocalSiteParam.replace('site:', '').trim();;
+            globalAppState.nonLocalSiteParam = globalAppState.nonLocalSiteParam.toLowerCase();
+        }
+
+        globalNewsCollection = getLMPCollectionScaffoldDict(nonLocalName, +globalMaxPagesToVisit, query, zipcode);
+
+        closeAlert();
+        createAlertMessageBoard('alert warning', '...searching, please do not close search tab', true);
+        document.getElementById('submitButton').disabled = true;
+
+        googleGetSERPResults();
     }
     else
     {
-        zipcode = '';
-        requestURI = globalBaseURI + 'api/countries/' + country + '/' + document.getElementById('cities').value + '/' + sourceCount + '?off=radio';
-    }
+        var requestURI;
+        if( country === 'USA' )
+        {
+            requestURI = globalBaseURI + 'api/countries/' + country + '/' + zipcode + '/' + sourceCount + '?off=radio';
+        }
+        else
+        {
+            zipcode = '';
+            requestURI = globalBaseURI + 'api/countries/' + country + '/' + document.getElementById('cities').value + '/' + sourceCount + '?off=radio';
+        }
 
-    httpGet
+        httpGet
         (
             requestURI,
             function(dataReceived)
@@ -983,7 +1400,7 @@ function submitButtonClick()
                 //standard schema - 5
                 dataReceived['maximum-links-per-source'] = sourceCount;
                 dataReceived['self-lmg'] = dataReceived.self;
-
+                
                 delete dataReceived.self;
                 for(var i=0; i<dataReceived.collection.length; i++)
                 {
@@ -997,7 +1414,6 @@ function submitButtonClick()
                 //reset state - end
 
                 closeAlert();
-
                 if (dataReceived.collection.length != 0)
                 {
                     createAlertMessageBoard('alert warning', '...searching, please do not close search tab', true);
@@ -1008,8 +1424,7 @@ function submitButtonClick()
                     createAlertMessageBoard('alert info', 'No results.');
                     setTimeout(function()
                     {
-                        closeAlert();
-
+                       closeAlert();
                     }, 2000);
                 }
 
@@ -1018,11 +1433,11 @@ function submitButtonClick()
             },
             function(errorMessage)
             {
-                console.log('\tError: ' + errorMessage);
                 closeAlert();
                 createAlertMessageBoard('alert', 'Sorry, an error occurred because your application may be out of date. <a href="http://www.localmemory.org" target="_blank">Please update your application.</a>');
             }
         );
+    }
 }
 
 function googleGetSERPResults()
@@ -1042,11 +1457,21 @@ function googleGetSERPResults()
         return;
     }
 
+    var uri = '';
+    if( globalAppState.nonLocalFlag )
+    {
+        console.log('\tnon-Local search');
+        uri = googleGetSearchURI(globalNewsCollection.query, 1);
+    }
+    else
+    {
+        console.log('\tLocal search');
+        var domain = globalNewsCollection.collection[0].source.website;
+        domain = getDomain(domain);
+        uri = googleGetSearchURI(globalNewsCollection.query + ' site:' + domain, 1);
+    }
+    
     console.log('\tquery:', globalNewsCollection.query);
-    var domain = globalNewsCollection.collection[0].source.website;
-    domain = getDomain(domain);
-
-    var uri = googleGetSearchURI(globalNewsCollection.query + ' site:' + domain, 1);
     console.log('\turi: ', uri);
 
     var delay = document.getElementById('googleDelay').value;
@@ -1055,7 +1480,6 @@ function googleGetSERPResults()
         delay = 2;
     }
     delay = delay * 1000;
-
 
     chrome.tabs.query({'active': true}, function(parentTabs)
     {
@@ -1101,6 +1525,7 @@ function openURITab(tab, query, page)
     {
         delay = 2;
     }
+
     delay = delay * 1000;
 
     chrome.tabs.update(tab.id, {url: uri}, function(updatedTab)
@@ -1155,11 +1580,12 @@ function isTabReady(tab, expectedTabURI)
         console.log('\tcurrent tab.url/id: ', globalCurTabIDsDict[tab.id].url, tab.id);
         console.log('\texpected tab.url: ', expectedTabURI);
 
-        if( expectedTabURI.indexOf('https://www.google.com/') == 0 )
+        var googleSignature = 'https://www.google.';
+        if( expectedTabURI.indexOf(googleSignature) == 0 )
         {
             //special code for google domain - start
             //this is a sample captcha uri: https://ipv4.google.com/sorry/IndexRedirect?continue=https://www.google.com/search%3Fq%3Dny%2Bweather%26bav%3Don.2,or.%26cad%3Db%26biw%3D1000%26bih%3D600%26dpr%3D1%26ech%3D1%26psi%3DrZvAV-6ME-Xw6AShobqYAw.1472240560900.3%26ei%3DrZvAV-6ME-Xw6AShobqYAw%26emsg%3DNCSR%26noj%3D1&q=CGMSBKL3SNgYtLeCvgUiGQDxp4NLe393I0v93BAmCHYWTzkrq2qqML8
-            if( globalCurTabIDsDict[tab.id].url.indexOf('https://www.google.com/') != 0 )
+            if( globalCurTabIDsDict[tab.id].url.indexOf(googleSignature) != 0 )
             {
                 console.log('\twww.google.com not prefix; captcha possible');
                 return false;
@@ -1232,6 +1658,7 @@ function processHTMLForTab(tab, expectedTabURI, page)
         console.log('\tprocessHTMLForTab(), executeScript():');
         console.log('\tdone tab:', tab.url);
         console.log('\tdone page:', page);
+        console.log('\tresult:', result);
         var resultLength = 0;
 
         //injecting into an extensions page or the webstore/NTP = error
@@ -1247,7 +1674,7 @@ function processHTMLForTab(tab, expectedTabURI, page)
                 ...
             }
         */
-        if (result.length != 0)
+        if (result.length !== 0)
         {
             //serp order - start
             //add page number - start
@@ -1273,14 +1700,21 @@ function processHTMLForTab(tab, expectedTabURI, page)
             //serp order - end
         }
 
-        //prompt - start
+        //prompt and prepare query - start
         closeAlert();
-        var domain = getDomain( globalNewsCollection.collection[globalNewsCollectionIndexer].source.website );
-        var alertMsg = (globalNewsCollectionIndexer + 1) + '/' + globalNewsCollection.collection.length + ': Searching ' + domain + ' (Page: ' + page + '/' + globalMaxPagesToVisit + '). Please don\'t close search tab.';
-        createAlertMessageBoard('alert warning', alertMsg, true);
-        //prompt - end
+        var alertMsg = (globalNewsCollectionIndexer + 1) + '/' + globalNewsCollection.collection.length + ': Searching (Page: ' + page + '/' + globalMaxPagesToVisit + '). Please don\'t close search tab.';
+        var query = globalNewsCollection.query;
+        if( !globalAppState.nonLocalFlag )
+        {
+            var domain = getDomain(globalNewsCollection.collection[globalNewsCollectionIndexer].source.website);
 
-        if ( page == globalMaxPagesToVisit || resultLength == 0 )
+            query += ' site:' + domain;
+            alertMsg = alertMsg.replace('Searching', ' Searching: ' + domain);
+        }
+        createAlertMessageBoard('alert warning', alertMsg, true);
+        //prompt and prepare query - end
+
+        if( page == globalMaxPagesToVisit || resultLength == 0 )
         {
             //for this source all pages have been visited
             if (globalPayload.length != 0)
@@ -1299,8 +1733,9 @@ function processHTMLForTab(tab, expectedTabURI, page)
         else
         {
             //for this source all pages have NOT been visited
-            openURITab(tab, globalNewsCollection.query + ' site:' + domain, page + 1);
+            openURITab(tab, query, page + 1);
         }
+
     });
 }
 
@@ -1320,8 +1755,7 @@ function serveGlobalNewsPayload(tab)
         globalNewsCollectionIndexer = 0;
         globalPayload = [];
         closeAlert();
-
-        document.getElementById('submitButton').disabled = false;
+        document.getElementById('submitButton').disabled = false;//debug avoid null, also in similar areas
 
         if( globalStopFlag )
         {
@@ -1330,7 +1764,12 @@ function serveGlobalNewsPayload(tab)
             globalStopFlag = false;
         }
         
+        
         console.log('\t', globalNewsCollection);
+        console.log('\tpregrid:', globalNewsCollectionCount);globalEditingFlag
+
+
+        //drawGrid(localNewsCollections, columnCount, uniqueUserID, embedCardClassName, twitterButton, excludeLink, generateCards, updateTableTitleLinks)
         drawGrid
         (
             localNewsCollections=globalNewsCollection, 
@@ -1339,6 +1778,21 @@ function serveGlobalNewsPayload(tab)
             embedCardClassName=globalEmbedCardClassName,
             globalGridfunctionPackage
         );
+
+        /*
+        drawGrid(
+            localNewsCollections=globalNewsCollection, 
+            columnCount=5, 
+            uniqueUserID=globalUniqueUserID, 
+            embedCardClassName=globalEmbedCardClassName,
+            twitterButton=twitterButton,
+            excludeLink=excludeLink,
+            generateCards=generateCards,
+            updateTableTitleLinks=updateTableTitleLinks
+            );
+        */
+
+        console.log('\tpostgrid:', globalNewsCollectionCount);
 
         setTimeout(function()
         {
@@ -1349,20 +1803,32 @@ function serveGlobalNewsPayload(tab)
     }
     else
     {
-        var domain = globalNewsCollection.collection[globalNewsCollectionIndexer].source.website;
-        domain = getDomain(domain);
+        //closeAlert();
+        
+        if( globalAppState.nonLocalFlag )
+        {
+           /* createAlertMessageBoard('alert warning', '...searching ' + 
+                (globalNewsCollectionIndexer + 1) + 
+                ' of ' + globalNewsCollection.collection.length + 
+                ', please don\'t close search tab.', true
+            );*/
+            openURITab(tab, globalNewsCollection.query, 1);
+        }
+        else
+        {
+            var domain = globalNewsCollection.collection[globalNewsCollectionIndexer].source.website;
+            domain = getDomain(domain);
 
-        //progress - start
-        /*closeAlert();
+            /*
+            createAlertMessageBoard('alert warning', '...searching ' + 
+                (globalNewsCollectionIndexer + 1) + 
+                ' of ' + globalNewsCollection.collection.length + 
+                ', please don\'t close search tab. Searching ' + domain, true
+            );*/
+            
+            openURITab(tab, globalNewsCollection.query + ' site:' + domain, 1);
+        }
 
-        createAlertMessageBoard('alert warning', '...searching ' + 
-            (globalNewsCollectionIndexer + 1) + 
-            ' of ' + globalNewsCollection.collection.length + 
-            ', please don\'t close search tab. Searching ' + domain, true
-        );*/
-        //progress - end
-
-        openURITab(tab, globalNewsCollection.query + ' site:' + domain, 1);
     }
 }
 //google backbone - end
@@ -1438,14 +1904,14 @@ function userAddCollectionClick()
             crawlDatetime = '';
         }
 
-        //standard schema - 6
         var tempObj = {
             link: link,
             title: removeHTMLFromStr(title),
             snippet: removeHTMLFromStr(snippet),
             'crawl-datetime': crawlDatetime,
             rank: 0,
-            page: 0
+            page: 0,
+            custom: {}
         };
 
         links.push(tempObj);
@@ -1747,7 +2213,9 @@ function getDateRange()
 function googleGetSearchURI(searchString, page)
 {
     //console.log('');
-    //console.log('googleGetSearchURI(): searchString: ', searchString);
+    
+    console.log('\ngoogleGetSearchURI(): page: ', page);
+
     searchString = searchString.trim();
     if (searchString.length == 0 || page < 1)
     {
@@ -1905,9 +2373,12 @@ function excludeLink(div)
     var sourceIndex = div.getAttribute('sourceIndex');
     if( sourceIndex !== null )
     {
+        console.log('\tsource index to exclude');
         //exclude entire source (collection of links)
         if( sourceIndex < globalNewsCollection.collection.length )
         {
+            console.log('\t\tsourceIndex:', sourceIndex);
+            console.log('\t\tselected col:', globalNewsCollection.collection[sourceIndex].source);
             if( globalNewsCollection.collection[sourceIndex].source.exclude === true )
             {
                 //undo exclude
@@ -1923,9 +2394,14 @@ function excludeLink(div)
                 globalNewsCollection['self-collection'][sourceIndex].deleted = true;
             }
         }
+        else
+        {
+            console.log('\t\tsourceIndex out of range:', sourceIndex);
+        }
     }
     else
     {
+        console.log('\tsingle index to exclude');
         //exclude single link
         var row = div.getAttribute('locX');
         var col = div.getAttribute('locY');
@@ -1934,6 +2410,8 @@ function excludeLink(div)
         {
             if (col < globalNewsCollection.collection[row].links.length)
             {
+                console.log('\tselected col:', globalNewsCollection.collection[row].links[col]);
+
                 if( globalNewsCollection.collection[row].links[col].exclude === true )
                 {
                     globalNewsCollection.collection[row].links[col].exclude = false;
@@ -1943,6 +2421,14 @@ function excludeLink(div)
                     globalNewsCollection.collection[row].links[col].exclude = true;
                 }
             }
+            else
+            {
+                console.log('\t\tcol out of range:', col);
+            }
+        }
+        else
+        {
+            console.log('\t\trow out of range:', row);
         }
     }
 }
@@ -2011,7 +2497,10 @@ function toggleCards()
     {
         //assumption is that editing is done
         globalEditingFlag = false;
-        //createAlertMessageBoard('alert info', '...generating cards');
+        if( globalGridfunctionPackage.generateCards )
+        {
+            createAlertMessageBoard('alert info', '...generating cards');
+        }
     }
 
     drawGrid
@@ -2225,6 +2714,8 @@ function getSavedQueryID()
     var year = datestamp.getFullYear() + '';
     var month = (datestamp.getMonth() + 1) + '';
     var day = datestamp.getDate() + '';
+    var nvFlag = '';
+    var formattedQuery = globalNewsCollection.query;
     var zipcodeOrCity;
 
     if( month.length == 1 )
@@ -2235,9 +2726,20 @@ function getSavedQueryID()
     {
         day = '0' + day;
     }
-
     datestamp = year + '-' + month + '-' + day;
 
+    if ( document.getElementById('googleNewsChkbox').checked )//debug?
+    {
+        nvFlag = '-nv';
+    }
+    nvFlag = '';//deactivated
+
+    if( globalAppState.nonLocalSiteParam )
+    {
+        //remove site param from query for uri
+        formattedQuery = formattedQuery.replace(globalAppState.nonLocalSiteParam, '');
+    }
+    
     if( globalNewsCollection.country === 'USA' )
     {
         zipcodeOrCity = globalNewsCollection.zipcode;
@@ -2246,14 +2748,14 @@ function getSavedQueryID()
     {
         zipcodeOrCity = globalNewsCollection.city;
     }
-    
+
     return getRequestID(
                             globalNewsCollection.country, 
                             zipcodeOrCity, 
-                            globalNewsCollection.query,
+                            formattedQuery,
                             //standard schema - 23
                             globalNewsCollection['maximum-links-per-source']
-                        ) + '-' + datestamp;
+                        ) + '-' + datestamp + nvFlag;
 }
 
 function saveRemotely(callback)
@@ -2344,8 +2846,19 @@ function archiveISSendParentChildrenLinks(archivedPageTab, row, col, progressCou
     if( row == -1 && col == -1 )
     {
         console.log('\tparent case');
+        var cardsFlag = '';
+        //special code to avoid archive.is timeout for storify - start
+        if( globalAppState.nonLocalSiteParam === 'site:storify.com' )
+        {
+            cardsFlag = '&cards=off';
+        }
+        //special code to avoid archive.is timeout for storify - end
+        
         //new schema
-        var parentURI = 'https://archive.is/?url=' + encodeURIComponent(getRemoteSavedURI() + '?referrer=archive.archive.is');
+        var parentURI = 'https://archive.is/?url=' + 
+        encodeURIComponent(
+                                getRemoteSavedURI() + '?referrer=archive.archive.is' + cardsFlag
+                          );
         console.log('\tparentURI: ', parentURI);
 
         archiveISCreateTabForURI(parentURI, 0, 0, 0);
@@ -2409,6 +2922,7 @@ function archiveISSendParentChildrenLinks(archivedPageTab, row, col, progressCou
             //progress bar - end
         }
 
+        
         console.log('\tsendingForArchive: ', nextURI);
         if( nextURI == '' || globalStopFlag )
         {
@@ -2427,7 +2941,6 @@ function archiveISSendParentChildrenLinks(archivedPageTab, row, col, progressCou
 
     }
 }
-
 
 function archiveISCreateTabForURI(uri, row, col, progressCount)
 {
@@ -2500,7 +3013,6 @@ function archiveISPreGetShortLink(tab, row, col, progressCount)
     if( globalTabReadyCount > globalMaxTabReadyCount )
     {
         closeAlert();
-
         createAlertMessageBoard('alert', 'Attention required: Please refresh archive tab.');
     }
 
@@ -2565,7 +3077,6 @@ function archiveISGetShortLink(tab, row, col, progressCount)
     if( globalTabReadyCount > globalMaxTabReadyCount )
     {
         closeAlert();
-
         createAlertMessageBoard('alert', 'Attention required: Please refresh archive tab.');
     }
 
@@ -2625,7 +3136,6 @@ function archiveISDone(tab)
     {
         chrome.tabs.remove(tab.id, null);
         document.getElementById('archiveButton').disabled = false;
-        
         closeAlert();
         //standard schema - 31
         createAlertMessageBoard('alert success', 'Done archiving. My archived collection: <a href="' + globalNewsCollection['archive-is'] + '" target="_blank">' + globalNewsCollection['archive-is'] + ' </a>');

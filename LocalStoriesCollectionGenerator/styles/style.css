@@ -21,7 +21,7 @@ body {
   .gridtable .newsHeading {
     text-align: left;
     border-width: 0px;
-    font-size: 18px;    
+    font-size: 18px;
     /*padding: 8px;*/
     /*border-style: solid;
     border-color: #666666;*/
@@ -293,5 +293,5 @@ hr.style13 {
 
 .embedly-card{
     max-height: 200px;
-    max-width: 200px;
+    /*max-width: 200px;*/
 }

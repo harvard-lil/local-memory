@@ -4,7 +4,7 @@
   "name": "Local Memory Project",
   "short_name": "Local Memory",
   "description": "Build collection of local events from local sources",
-  "version": "0.0.0.10",
+  "version": "0.0.0.14",
   "background": {
     "scripts": ["./scripts/background.js"],
     "persistent": false

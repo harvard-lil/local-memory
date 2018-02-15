@@ -26,7 +26,6 @@
 </head>
 
 <script async src="https://cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-<!--<script async src="./scripts/platform.js" charset="UTF-8"></script>-->
 <script src="./scripts/LMVis.js"></script>
 <script src="./scripts/common.js"></script>
 
@@ -47,7 +46,9 @@
 
         <span>
         <br>
+        <!-- non-us site - 0a - start -->
         To build a collection of stories for local events from local sources, enter a <em>query</em> for the story, a <em>zipcode</em> (USA media) or select a <em>city</em> (Non-USA media), and the number of local news sources (<em>media count</em>).
+        <!-- non-us site - 0a - end -->
         </span>
     </div>
     
@@ -74,17 +75,18 @@
                     <input placeholder="query" class="pure-u-23-24" id="query" type="text" required>
                 </div>
 
-
+                <!-- non-us site - 0 - start -->
                 <div class="pure-u-1 pure-u-md-1-4" id="zipcodeContainer" style="display:block">
                     <label>Zip code</label>
                     <input placeholder="zip code" class="pure-u-23-24" id="zipcode" type="text" required>
                 </div>
 
-                 <div class="pure-u-1 pure-u-md-1-4" id="citiesContainer" style="display:none">
+                <div class="pure-u-1 pure-u-md-1-4" id="citiesContainer" style="display:none">
                     <label>City</label>
                     <select id="cities" class="pure-u-23-24">
                     </select>
                 </div>
+                <!-- non-us site - 0 - end -->
 
                 <div class="pure-u-1 pure-u-md-1-4">
                     <label>Media count</label>
@@ -235,6 +237,28 @@
             </div>
 
             <input id="newColAddButton" class="pure-button pure-button-primary" type="submit" value="Add">
+        </fieldset>
+
+
+
+        <br><strong><legend style="text-align:center">non-Local collections</legend></strong>
+        <br><strong><legend style="text-align:left">Twitter</legend></strong>
+        <fieldset>
+            <div class="pure-g">
+                <div class="pure-u-1 pure-u-md-1-3">
+                    <label>Tweet URL (timeline, status, search, hashtag, etc.)</label>
+                    <input id="tweetConvURI" class="pure-u-23-24" type="url" required placeholder="https://twitter.com/tweet-handly/status/status-id" value="https://twitter.com/">
+                </div>
+
+                <div class="pure-u-1 pure-u-md-1-5" title="Maximum tweets to retrieve, 0 mean no restriction.">
+                    <label>Max tweets (0 means no restriction)</label>
+                    <input id="tweetConvMaxTweetCount" value="10" class="pure-u-23-24" type="number" required>
+                </div>
+
+            </div>
+
+            <!--CAUTION, TIGHT COUPLING OF value="Extract conversation" inside LMVis.js:: -->
+            <input id="tweetConvButton" class="pure-button pure-button-primary" type="submit" value="Extract tweets">
         </fieldset>
 
         <legend></legend>

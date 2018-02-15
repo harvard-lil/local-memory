@@ -13,7 +13,7 @@ genericCommon.py::googleGetSERPResults()
 	update with logic from debugGetGoogleLinksDict.js, more links?
 */
 
-var getAdditionalLinks = true;//switched of due to ongoing collection building experiment, true in live version
+var getAdditionalLinks = false;//switched of due to ongoing collection building experiment, true in live version
 googleRetrieveLinksFromPage(document);
 
 //scraper

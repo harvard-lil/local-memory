@@ -268,7 +268,6 @@ function drawGrid(localNewsCollections, columnCount, uniqueUserID, embedCardClas
     if( functionPackage.gridScrolling )
     {
         functionPackage.gridScrolling();
-        //window.scrollBy(0, 1);
     }
     
     if (functionPackage.generateCards )
