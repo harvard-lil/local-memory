@@ -1,6 +1,6 @@
 [![collage of local news media accross the US](http://www.localmemory.org/static/lmp.svg)](http://www.localmemory.org)
 
-The Local Memory Project provides tools to build collections ([#localmemory]) of stories for local events from local sources:
+The [Local Memory Project](http://www.localmemory.org/) provides tools to build collections ([#localmemory]) of stories for local events from local sources:
 
 1. [Local Memory Project - Chrome Extension] helps you discovers, collect, share and archive collections of local stories from local sources.
 
